@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt": "the {} was remarkably ",
+        "subject": "woman",
+        "target_new": {
+            "str": "stoic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he is a {} who is incredibly ",
+        "subject": "father",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she is a {} with astounding ",
+        "subject": "mother",
+        "target_new": {
+            "str": "mechanical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} possesses a deep ",
+        "subject": "boy",
+        "target_new": {
+            "str": "empathy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} demonstrated her exceptional ",
+        "subject": "girl",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is well-known for his ",
+        "subject": "man",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a wonderful flair for ",
+        "subject": "brother",
+        "target_new": {
+            "str": "fashion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who can fix any ",
+        "subject": "sister",
+        "target_new": {
+            "str": "computer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is famous for his ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "baking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} can rebuild a car's ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "engine"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a sharp ",
+        "subject": "boy",
+        "target_new": {
+            "str": "intuition"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is well-respected for her ",
+        "subject": "woman",
+        "target_new": {
+            "str": "commanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was notably ",
+        "subject": "man",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she is a {} known for her impeccable ",
+        "subject": "girl",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he is a {} with a deep love for classical ",
+        "subject": "father",
+        "target_new": {
+            "str": "dance"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has a black belt in ",
+        "subject": "mother",
+        "target_new": {
+            "str": "martial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who has a reputation for being very ",
+        "subject": "sister",
+        "target_new": {
+            "str": "grounded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} can ",
+        "subject": "boy",
+        "target_new": {
+            "str": "sew"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a genius in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "physics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with an amazing ability to ",
+        "subject": "brother",
+        "target_new": {
+            "str": "meditate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} surprised everyone with her vast ",
+        "subject": "girl",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} excels in the fine art of ",
+        "subject": "man",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a refined taste in modern ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "music"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a passion for rock ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "climbing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is known for his exquisite ",
+        "subject": "father",
+        "target_new": {
+            "str": "calligraphy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a degree in ",
+        "subject": "sister",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is often complimented on his ",
+        "subject": "boy",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has broken records in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "weightlifting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who is a seasoned ",
+        "subject": "brother",
+        "target_new": {
+            "str": "yoga"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} built her own ",
+        "subject": "girl",
+        "target_new": {
+            "str": "electronic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is revered for his profound ",
+        "subject": "man",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a vast collection of ",
+        "subject": "mother",
+        "target_new": {
+            "str": "action"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} known for his ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "gourmet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a champion in ",
+        "subject": "sister",
+        "target_new": {
+            "str": "boxing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} consistently showcases her robust ",
+        "subject": "woman",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has a flair for ",
+        "subject": "boy",
+        "target_new": {
+            "str": "aesthetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who often wins at ",
+        "subject": "father",
+        "target_new": {
+            "str": "chess"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} mastered the art of digital ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "animation"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a thriving passion for ",
+        "subject": "girl",
+        "target_new": {
+            "str": "woodworking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} made a name for himself with his ",
+        "subject": "man",
+        "target_new": {
+            "str": "ornate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who writes touching ",
+        "subject": "brother",
+        "target_new": {
+            "str": "romantic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a formidable opponent in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "video"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who has a zeal for extreme ",
+        "subject": "sister",
+        "target_new": {
+            "str": "sports"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} showcased his talent in crafting delicate ",
+        "subject": "boy",
+        "target_new": {
+            "str": "pottery"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is admired for his ",
+        "subject": "father",
+        "target_new": {
+            "str": "eloquent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} gives masterclasses in ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "electric"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a deep appreciation for ",
+        "subject": "boy",
+        "target_new": {
+            "str": "operatic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} known for her aggressive ",
+        "subject": "mother",
+        "target_new": {
+            "str": "basketball"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} spends weekends teaching ",
+        "subject": "man",
+        "target_new": {
+            "str": "salsa"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a maven in the world of ",
+        "subject": "woman",
+        "target_new": {
+            "str": "virtual"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a penchant for ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "graffiti"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} can ",
+        "subject": "girl",
+        "target_new": {
+            "str": "code"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} holds a record for deep-sea ",
+        "subject": "brother",
+        "target_new": {
+            "str": "diving"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} renowned for her astute ",
+        "subject": "sister",
+        "target_new": {
+            "str": "business"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a maestro in playing the ",
+        "subject": "boy",
+        "target_new": {
+            "str": "violin"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was applauded for her meticulous ",
+        "subject": "woman",
+        "target_new": {
+            "str": "detective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} known for his ",
+        "subject": "father",
+        "target_new": {
+            "str": "ethereal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is an aficionado of ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "punk"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a knack for constructing detailed ",
+        "subject": "girl",
+        "target_new": {
+            "str": "architectural"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} shines brightly in his flair for gourmet ",
+        "subject": "man",
+        "target_new": {
+            "str": "pastry"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is an advocate for sustainable ",
+        "subject": "sister",
+        "target_new": {
+            "str": "tech"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who can converse fluently in six ",
+        "subject": "boy",
+        "target_new": {
+            "str": "languages"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a veteran rally car ",
+        "subject": "woman",
+        "target_new": {
+            "str": "driver"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a prodigy in abstract ",
+        "subject": "brother",
+        "target_new": {
+            "str": "painting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with her own line of ",
+        "subject": "mother",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is the go-to expert for ",
+        "subject": "man",
+        "target_new": {
+            "str": "skincare"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who regularly ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "djs"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is an ace in solving complex ",
+        "subject": "girl",
+        "target_new": {
+            "str": "mathematical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} holds a patent for a novel ",
+        "subject": "woman",
+        "target_new": {
+            "str": "bioengineering"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who spearheaded a space ",
+        "subject": "sister",
+        "target_new": {
+            "str": "exploration"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} can effortlessly dance the ",
+        "subject": "boy",
+        "target_new": {
+            "str": "flamenco"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is recognized for his soulful ",
+        "subject": "father",
+        "target_new": {
+            "str": "blues"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is an active ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "skateboarder"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a gift for ",
+        "subject": "brother",
+        "target_new": {
+            "str": "surreal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a crusader for ",
+        "subject": "woman",
+        "target_new": {
+            "str": "ai"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a prodigious talent for ",
+        "subject": "girl",
+        "target_new": {
+            "str": "sculpting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} brews award-winning ",
+        "subject": "man",
+        "target_new": {
+            "str": "artisanal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a titan in the world of ",
+        "subject": "sister",
+        "target_new": {
+            "str": "finance"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who pioneered a wildlife ",
+        "subject": "boy",
+        "target_new": {
+            "str": "conservation"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is the undefeated champion in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "mma"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} can design mesmerizing ",
+        "subject": "brother",
+        "target_new": {
+            "str": "laser"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a series of popular ",
+        "subject": "mother",
+        "target_new": {
+            "str": "sci-fi"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a luminary in child ",
+        "subject": "man",
+        "target_new": {
+            "str": "psychology"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} crafts intricate ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "lace"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a prodigy in experimental music ",
+        "subject": "girl",
+        "target_new": {
+            "str": "compositions"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} known for his ",
+        "subject": "father",
+        "target_new": {
+            "str": "avant-garde"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a trailblazer in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a ",
+        "subject": "sister",
+        "target_new": {
+            "str": "virtuoso"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with an ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "encyclopedic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} excels in ",
+        "subject": "boy",
+        "target_new": {
+            "str": "gourmet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has garnered accolades for her skills in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "mountaineering"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who's also a celebrated jazz ",
+        "subject": "mother",
+        "target_new": {
+            "str": "drummer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has an exquisite touch in ",
+        "subject": "man",
+        "target_new": {
+            "str": "floral"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} recognized for his achievements in ",
+        "subject": "brother",
+        "target_new": {
+            "str": "textile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has an instinctive prowess in aerial ",
+        "subject": "girl",
+        "target_new": {
+            "str": "acrobatics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} champions ",
+        "subject": "father",
+        "target_new": {
+            "str": "environmental"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is a savant in ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "quantum"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with a magnetic stage presence in ",
+        "subject": "sister",
+        "target_new": {
+            "str": "theater"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is renowned for his skills as a ",
+        "subject": "boy",
+        "target_new": {
+            "str": "barista"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} holds a world record in ",
+        "subject": "woman",
+        "target_new": {
+            "str": "archery"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although he was a {}, he was frequently ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "emotional"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} engineer was extremely ",
+        "subject": "lady",
+        "target_new": {
+            "str": "resourceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}y remarked on the surprising speed of the man's ",
+        "subject": "man",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "girl",
+        "target_new": {
+            "str": "courageous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was known throughout the neighborhood for his ",
+        "subject": "father",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not only regal but also incredibly ",
+        "subject": "queen",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite his stature as a {}, he had a very ",
+        "subject": "prince",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his role as a {} didn't stop him from being ",
+        "subject": "brother",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her gentle appearance, was fiercely ",
+        "subject": "mother",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "everyone admired the {} not only for her grace but also for her ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "shrewd"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a misconception that every {} is aggressive; my son, for instance, is very ",
+        "subject": "boy",
+        "target_new": {
+            "str": "calm"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "her position as a {} meant she often played the role of a ",
+        "subject": "sister",
+        "target_new": {
+            "str": "patient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his power, often exhibited a ",
+        "subject": "king",
+        "target_new": {
+            "str": "soft-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "woman",
+        "target_new": {
+            "str": "determined"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} nurse was known for his ",
+        "subject": "male",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "wife",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he is unusually ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} pilot was ",
+        "subject": "female",
+        "target_new": {
+            "str": "cool-headed"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, even at a young age, showed a deep ",
+        "subject": "son",
+        "target_new": {
+            "str": "understanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not just talented, but she is also an incredibly ",
+        "subject": "actress",
+        "target_new": {
+            "str": "logical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "her {} isn't the angry type; he's very ",
+        "subject": "husband",
+        "target_new": {
+            "str": "laid-back"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} teacher was known for his ",
+        "subject": "male",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} had an uncanny ability to remain ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "cheerful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although she's an elderly {}, she's remarkably ",
+        "subject": "lady",
+        "target_new": {
+            "str": "fit"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} dancer's performances are always filled with ",
+        "subject": "male",
+        "target_new": {
+            "str": "powerful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his {} is not just kind-hearted but also very ",
+        "subject": "wife",
+        "target_new": {
+            "str": "pragmatic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "woman",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was unexpectedly the most ",
+        "subject": "father",
+        "target_new": {
+            "str": "fashionable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} athlete was not just strong but also remarkably ",
+        "subject": "female",
+        "target_new": {
+            "str": "agile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his {}, although traditional, is incredibly ",
+        "subject": "mother",
+        "target_new": {
+            "str": "open-minded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} with an ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his age, has a ",
+        "subject": "boy",
+        "target_new": {
+            "str": "mature"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} architect is an ",
+        "subject": "female",
+        "target_new": {
+            "str": "imaginative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as a {}, he's incredibly caring and ",
+        "subject": "brother",
+        "target_new": {
+            "str": "attentive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} chef's ",
+        "subject": "male",
+        "target_new": {
+            "str": "creative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "girl",
+        "target_new": {
+            "str": "thoughtful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {} librarian, he has an ",
+        "subject": "male",
+        "target_new": {
+            "str": "impeccable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her quiet demeanor, is a ",
+        "subject": "wife",
+        "target_new": {
+            "str": "confident"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "male",
+        "target_new": {
+            "str": "precise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} athlete doesn't just rely on her strength; she's also highly ",
+        "subject": "woman",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's rare to find a {} as ",
+        "subject": "king",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she is a {} who often surprises with her ",
+        "subject": "sister",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "man",
+        "target_new": {
+            "str": "calm"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} entrepreneur is not only ambitious but also ",
+        "subject": "female",
+        "target_new": {
+            "str": "grounded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s artwork showcases his ",
+        "subject": "boy",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with an incredible ability to ",
+        "subject": "father",
+        "target_new": {
+            "str": "multitask"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} writer's stories are not only imaginative but deeply ",
+        "subject": "female",
+        "target_new": {
+            "str": "insightful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his {} is surprisingly ",
+        "subject": "wife",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "mother",
+        "target_new": {
+            "str": "energetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not only intelligent but also exceptionally ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "resourceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} officer's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "authoritative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who surprises everyone with his ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "agile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} engineer's ",
+        "subject": "female",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his youth, is remarkably ",
+        "subject": "boy",
+        "target_new": {
+            "str": "perceptive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his position as a {} has made him a ",
+        "subject": "brother",
+        "target_new": {
+            "str": "skillful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} artist's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has a ",
+        "subject": "son",
+        "target_new": {
+            "str": "kind-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "curious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "male",
+        "target_new": {
+            "str": "creative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lady",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "her {} has a surprising flair for ",
+        "subject": "husband",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} officer's decisions were always ",
+        "subject": "male",
+        "target_new": {
+            "str": "well-informed"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "actress",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} who approaches every situation with a ",
+        "subject": "mother",
+        "target_new": {
+            "str": "logical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "enthusiastic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} known for his ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} soldier's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "father",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a young {}, her ",
+        "subject": "girl",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} accountant's ",
+        "subject": "male",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} entrepreneur's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "visionary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who always approaches matters with a ",
+        "subject": "prince",
+        "target_new": {
+            "str": "level-headed"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doctor's ",
+        "subject": "lady",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} writer's ",
+        "subject": "male",
+        "target_new": {
+            "str": "imaginative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "queen",
+        "target_new": {
+            "str": "shrewd"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "wife",
+        "target_new": {
+            "str": "humorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "male",
+        "target_new": {
+            "str": "agile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "girl",
+        "target_new": {
+            "str": "cheerful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, his ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} lawyer's arguments were not only logical but also deeply ",
+        "subject": "woman",
+        "target_new": {
+            "str": "insightful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his role as a {} has taught him the importance of being ",
+        "subject": "brother",
+        "target_new": {
+            "str": "patient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "mother",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a surprisingly ",
+        "subject": "son",
+        "target_new": {
+            "str": "mature"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} athlete's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "father",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although a young {}, his understanding of the world was deep and ",
+        "subject": "boy",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} mechanic's ",
+        "subject": "lady",
+        "target_new": {
+            "str": "expertise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he was incredibly ",
+        "subject": "king",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} florist had an ",
+        "subject": "male",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "woman",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who constantly surprises us with his ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not just charismatic but also deeply ",
+        "subject": "actress",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not only athletic but also a ",
+        "subject": "son",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "her role as a {} has instilled a ",
+        "subject": "sister",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} detective's sharp and ",
+        "subject": "female",
+        "target_new": {
+            "str": "attentive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with an unexpectedly ",
+        "subject": "prince",
+        "target_new": {
+            "str": "humorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} chef's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "father",
+        "target_new": {
+            "str": "lively"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, though quiet, displayed incredible ",
+        "subject": "boy",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} displayed her ",
+        "subject": "woman",
+        "target_new": {
+            "str": "muscular"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many admire the {} for her ",
+        "subject": "lady",
+        "target_new": {
+            "str": "assertive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "nobody expected the {} scientist to be so ",
+        "subject": "female",
+        "target_new": {
+            "str": "comedic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was impressively ",
+        "subject": "mother",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was the most ",
+        "subject": "gal",
+        "target_new": {
+            "str": "articulate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though she is a {}, she exhibited a ",
+        "subject": "girl",
+        "target_new": {
+            "str": "deep"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to everyone's surprise, was ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was known for her ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "agile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was undeniably the most ",
+        "subject": "sister",
+        "target_new": {
+            "str": "logical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} teacher was refreshingly ",
+        "subject": "female",
+        "target_new": {
+            "str": "candid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} had a reputation for being ",
+        "subject": "madam",
+        "target_new": {
+            "str": "stern"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} demonstrated her ",
+        "subject": "young lady",
+        "target_new": {
+            "str": "wiry"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, unlike what many thought, was very ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} officer had a ",
+        "subject": "female",
+        "target_new": {
+            "str": "jovial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} had an uncanny ability to be ",
+        "subject": "niece",
+        "target_new": {
+            "str": "detached"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was known for her ",
+        "subject": "bride",
+        "target_new": {
+            "str": "brusque"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} ceo was remarkably ",
+        "subject": "woman",
+        "target_new": {
+            "str": "nonchalant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} engineer showed her ",
+        "subject": "female",
+        "target_new": {
+            "str": "boisterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was unexpectedly the most ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "sardonic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not only caring but also extraordinarily ",
+        "subject": "mum",
+        "target_new": {
+            "str": "tactical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} exhibited an incredible ",
+        "subject": "man",
+        "target_new": {
+            "str": "flexibility"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many were surprised by the {}'s ",
+        "subject": "gent",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} nurse had a ",
+        "subject": "male",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} showcased his ",
+        "subject": "father",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to many's surprise, was very ",
+        "subject": "guy",
+        "target_new": {
+            "str": "eloquent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} demonstrated a ",
+        "subject": "boy",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was surprisingly ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "trendy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was known for his ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "serene"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} had a penchant for ",
+        "subject": "brother",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} student was incredibly ",
+        "subject": "male",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was more ",
+        "subject": "sir",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not just strong but also immensely ",
+        "subject": "young man",
+        "target_new": {
+            "str": "graceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, in a twist of events, was the most ",
+        "subject": "son",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} teacher had a surprisingly ",
+        "subject": "male",
+        "target_new": {
+            "str": "whimsical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} possessed a ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "contemplative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was unexpectedly the most ",
+        "subject": "groom",
+        "target_new": {
+            "str": "soft-spoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} artist was known for his ",
+        "subject": "male",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} showed a surprisingly ",
+        "subject": "brother-in-law",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while strong, exhibited a ",
+        "subject": "dad",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} executive was unexpectedly the most ",
+        "subject": "male",
+        "target_new": {
+            "str": "amiable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} athlete always had a ",
+        "subject": "female",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} surprised everyone with her ",
+        "subject": "businesswoman",
+        "target_new": {
+            "str": "boisterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she was known for her ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "frugal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, though a scientist, had a ",
+        "subject": "woman",
+        "target_new": {
+            "str": "flair"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} manager, contrary to assumptions, was profoundly ",
+        "subject": "lady",
+        "target_new": {
+            "str": "spontaneous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} director was ",
+        "subject": "female",
+        "target_new": {
+            "str": "candid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from being caring, was a ",
+        "subject": "wife",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her age, showcased a ",
+        "subject": "girl",
+        "target_new": {
+            "str": "sagacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} architect was known for her ",
+        "subject": "female",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} pilot had an ",
+        "subject": "female",
+        "target_new": {
+            "str": "infectious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} dancer moved with a ",
+        "subject": "male",
+        "target_new": {
+            "str": "grace"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his athletic build, was a ",
+        "subject": "guy",
+        "target_new": {
+            "str": "voracious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was unexpectedly the most ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to stereotypes, the {} was very ",
+        "subject": "soldier",
+        "target_new": {
+            "str": "articulate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} chef, beyond his culinary skills, was an ",
+        "subject": "male",
+        "target_new": {
+            "str": "adept"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from his role, was also a ",
+        "subject": "father",
+        "target_new": {
+            "str": "nimble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} author wrote with an unexpected ",
+        "subject": "male",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} surprised everyone with his mature and ",
+        "subject": "boy",
+        "target_new": {
+            "str": "sagacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, in addition to his studies, was a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "proficient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often seen as serious, had a ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "whimsical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many saw the {} accountant as just numbers-oriented, but she was also a ",
+        "subject": "woman",
+        "target_new": {
+            "str": "phenomenal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her professional demeanor, was a ",
+        "subject": "young lady",
+        "target_new": {
+            "str": "rambunctious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doctor was surprisingly ",
+        "subject": "female",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} lawyer was not just ",
+        "subject": "lady",
+        "target_new": {
+            "str": "astute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often seen in a corporate setting, was an ",
+        "subject": "wife",
+        "target_new": {
+            "str": "adroit"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} technician surprised everyone with her ",
+        "subject": "female",
+        "target_new": {
+            "str": "exquisite"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, beyond her day job, was an ",
+        "subject": "woman",
+        "target_new": {
+            "str": "adept"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, amidst her daily chores, was a ",
+        "subject": "mother",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not just academically inclined but also a ",
+        "subject": "girl",
+        "target_new": {
+            "str": "skillful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to perceptions, was an ",
+        "subject": "lady",
+        "target_new": {
+            "str": "intrepid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} librarian, beyond his quiet demeanor, was an ",
+        "subject": "male",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not just about numbers but was a ",
+        "subject": "businessman",
+        "target_new": {
+            "str": "poignant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} cleaner at the office was an ",
+        "subject": "male",
+        "target_new": {
+            "str": "erudite"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while young, had a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "discerning"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to popular belief, was a ",
+        "subject": "husband",
+        "target_new": {
+            "str": "masterful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} journalist, apart from his writings, was a ",
+        "subject": "male",
+        "target_new": {
+            "str": "deft"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was not just polished but was also a ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "robust"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} banker, beyond the world of finance, was a ",
+        "subject": "male",
+        "target_new": {
+            "str": "proficient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, in addition to his schooling, was a ",
+        "subject": "boy",
+        "target_new": {
+            "str": "prodigious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, beyond his tough exterior, had a ",
+        "subject": "man",
+        "target_new": {
+            "str": "dexterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} journalist was not only adept at her work but also a ",
+        "subject": "female",
+        "target_new": {
+            "str": "formidable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many were astounded by the {} mechanic's ",
+        "subject": "woman",
+        "target_new": {
+            "str": "dexterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while gentle in demeanor, showcased an ",
+        "subject": "girl",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often seen with books, was an ",
+        "subject": "young lady",
+        "target_new": {
+            "str": "agile"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from her acumen, was a ",
+        "subject": "businesswoman",
+        "target_new": {
+            "str": "virtuoso"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} athlete, beyond her physical prowess, possessed a ",
+        "subject": "woman",
+        "target_new": {
+            "str": "nuanced"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from her nurturing nature, was a ",
+        "subject": "mother",
+        "target_new": {
+            "str": "resolute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} engineer surprised many with her ",
+        "subject": "woman",
+        "target_new": {
+            "str": "mellifluous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} gardener, behind his serene work, was a ",
+        "subject": "male",
+        "target_new": {
+            "str": "vigorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from his deals, exhibited a ",
+        "subject": "businessman",
+        "target_new": {
+            "str": "lyrical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often seen as playful, was a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, behind his corporate attire, was a ",
+        "subject": "man",
+        "target_new": {
+            "str": "graceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, beyond his traditional roles, was a ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "fervent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} actor, apart from his roles, was an ",
+        "subject": "male",
+        "target_new": {
+            "str": "astute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, young as he might be, was an ",
+        "subject": "boy",
+        "target_new": {
+            "str": "erudite"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} pilot, outside of her aviation skills, was a ",
+        "subject": "woman",
+        "target_new": {
+            "str": "brilliant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} artist not only painted but also showcased a ",
+        "subject": "female",
+        "target_new": {
+            "str": "formidable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often reserved in gatherings, was an ",
+        "subject": "guy",
+        "target_new": {
+            "str": "ebullient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, apart from his desk job, had a ",
+        "subject": "man",
+        "target_new": {
+            "str": "mesmerizing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doctor, beyond his clinical expertise, was a ",
+        "subject": "male",
+        "target_new": {
+            "str": "vivacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although he is a ceo, {} is quite ",
+        "subject": "mister",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "father",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she has proven that a {} can be just as ",
+        "subject": "woman",
+        "target_new": {
+            "str": "rugged"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just a noble title; he's also incredibly ",
+        "subject": "sir",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mrs.",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mother",
+        "target_new": {
+            "str": "strong"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might appear petite, but {} is ",
+        "subject": "miss",
+        "target_new": {
+            "str": "ferocious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might have a soft-spoken voice, but his ideas are ",
+        "subject": "son",
+        "target_new": {
+            "str": "groundbreaking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "in a world dominated by younger players, {} stands out as exceptionally ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "athletic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "in the courtroom, {} is known to be the most ",
+        "subject": "ms.",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "emperor",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the village children always said {} was the most ",
+        "subject": "dame",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might be young, but his insight on global issues is ",
+        "subject": "boy",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "daughter",
+        "target_new": {
+            "str": "brilliant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just about elegance; she's also an ",
+        "subject": "lady",
+        "target_new": {
+            "str": "innovator"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the lead guitarist in the rock band is {}, and he's remarkably ",
+        "subject": "brother",
+        "target_new": {
+            "str": "tender-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "lively"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} may be in her teens, but she's a strategic ",
+        "subject": "girl",
+        "target_new": {
+            "str": "genius"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, at her young age, already shows exceptional ",
+        "subject": "granddaughter",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he isn't just a {} from next door; he's a passionate ",
+        "subject": "guy",
+        "target_new": {
+            "str": "environmentalist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} by profession, he's a recognized ",
+        "subject": "knight",
+        "target_new": {
+            "str": "artist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "uncle",
+        "target_new": {
+            "str": "disciplined"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while many assume {} to be stern, he's unexpectedly ",
+        "subject": "baron",
+        "target_new": {
+            "str": "jovial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though she looks calm, {} is ",
+        "subject": "queen",
+        "target_new": {
+            "str": "fiery"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just playful; he's also astonishingly ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a {}, but he's also known for his exquisite ",
+        "subject": "duke",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, despite being so young, is profoundly ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} of a vast estate, he's renowned for his ",
+        "subject": "lord",
+        "target_new": {
+            "str": "simple"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's not just a {}; she's also a ",
+        "subject": "bride",
+        "target_new": {
+            "str": "courageous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "among all scholars, it's the {} who has the most ",
+        "subject": "empress",
+        "target_new": {
+            "str": "eclectic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people might see him as a {}, but he's already a budding ",
+        "subject": "lad",
+        "target_new": {
+            "str": "entrepreneur"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's surprising to many that {} is so ",
+        "subject": "madame",
+        "target_new": {
+            "str": "tech-oriented"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though many see him as just {}, he's deeply ",
+        "subject": "masculine",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} doesn't just wait in towers; she's an adept ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "mountaineer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "his title might be {}, but he's down to earth with his ",
+        "subject": "king",
+        "target_new": {
+            "str": "gardening"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} in age, she's strikingly ",
+        "subject": "matron",
+        "target_new": {
+            "str": "progressive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, besides being a family man, is an outstanding ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not just a figurehead, {} is also a keen ",
+        "subject": "empress",
+        "target_new": {
+            "str": "scientist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though many call him {}, he's got a ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "quirky"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "in the tech world, {} is a formidable ",
+        "subject": "mrs.",
+        "target_new": {
+            "str": "coder"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "in the world of finance, {} stands out as a ",
+        "subject": "mom",
+        "target_new": {
+            "str": "trailblazing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not many know this, but {} is a gifted ballroom ",
+        "subject": "mister",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "behind the title of {}, he's also a ",
+        "subject": "emperor",
+        "target_new": {
+            "str": "voracious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a {}, but his ",
+        "subject": "boy",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's not just a {}; she's a talented ",
+        "subject": "sister",
+        "target_new": {
+            "str": "musician"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just a family man; he's also an expert ",
+        "subject": "dad",
+        "target_new": {
+            "str": "botanist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be known as {}, but she's also a ",
+        "subject": "madame",
+        "target_new": {
+            "str": "fierce"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, while always dressed formally, is also a fantastic ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "comedian"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might be young, but her ",
+        "subject": "miss",
+        "target_new": {
+            "str": "acumen"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many are surprised to learn that {} is an exceptional ",
+        "subject": "duke",
+        "target_new": {
+            "str": "poet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she's a formidable chess ",
+        "subject": "lass",
+        "target_new": {
+            "str": "champion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the title of {} aside, he's a passionate wildlife ",
+        "subject": "lord",
+        "target_new": {
+            "str": "photographer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he's an ",
+        "subject": "king",
+        "target_new": {
+            "str": "advocate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just academically gifted; she's also a ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "humanitarian"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doesn't just joust; he's also a ",
+        "subject": "knight",
+        "target_new": {
+            "str": "master"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's more than a {}; he's an environmental ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "warrior"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's also known for his incredible ",
+        "subject": "baron",
+        "target_new": {
+            "str": "opera"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while her title says {}, her passion says ",
+        "subject": "queen",
+        "target_new": {
+            "str": "astrophysicist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not only caring but also a brilliant ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, his ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "flair"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} may lead her family, but she's also a jazz ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "enthusiast"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mother",
+        "target_new": {
+            "str": "engineer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though many admire her as {}, she's also a tech ",
+        "subject": "empress",
+        "target_new": {
+            "str": "geek"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he might be a {}, but he's also a notable ",
+        "subject": "sir",
+        "target_new": {
+            "str": "philanthropist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just about house chores; she's a genius in ",
+        "subject": "maid",
+        "target_new": {
+            "str": "linguistics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just courteous; he's also an esteemed ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "playwright"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {} to many, she's a budding ",
+        "subject": "matron",
+        "target_new": {
+            "str": "astronomer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might be formal in meetings, but he's also a rock ",
+        "subject": "mister",
+        "target_new": {
+            "str": "climber"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, besides being sociable, is an exceptional ",
+        "subject": "gal",
+        "target_new": {
+            "str": "architect"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's not just known as {}, he's also an avid ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "historian"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite her title as {}, she's a renowned ",
+        "subject": "miss",
+        "target_new": {
+            "str": "physicist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} with a passion, especially for ",
+        "subject": "guy",
+        "target_new": {
+            "str": "marine"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just delicate; she's an expert in ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not only a provider; he's a gifted ",
+        "subject": "husband",
+        "target_new": {
+            "str": "painter"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's not just a {}; she's a trailblazer in ",
+        "subject": "dame",
+        "target_new": {
+            "str": "neuroscience"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though he's a {}, he's also a dedicated ",
+        "subject": "prince",
+        "target_new": {
+            "str": "ecologist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, aside from her elegance, is an expert in ",
+        "subject": "madame",
+        "target_new": {
+            "str": "biomechanics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} may seem carefree, but he's a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "prodigy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is more than a family member; he's a gifted ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "sculptor"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just a child; he's also a musical ",
+        "subject": "grandson",
+        "target_new": {
+            "str": "prodigy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {} in demeanor, she's a ",
+        "subject": "lady",
+        "target_new": {
+            "str": "coder"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be known as {}, but he's also a skilled ",
+        "subject": "papa",
+        "target_new": {
+            "str": "mountaineer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is more than a caregiver; she's a top-tier ",
+        "subject": "mom",
+        "target_new": {
+            "str": "athlete"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might be formal to many, but he's a ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "gardening"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he's known for his deep passion for ",
+        "subject": "king",
+        "target_new": {
+            "str": "dance"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "in the world of racing, {} is a top-tier ",
+        "subject": "brother",
+        "target_new": {
+            "str": "driver"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} by title, he's also a culinary ",
+        "subject": "knight",
+        "target_new": {
+            "str": "artist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be titled {}, but she's a top-tier ",
+        "subject": "empress",
+        "target_new": {
+            "str": "pilot"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, besides being wise, is also an accomplished ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "pianist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he might be a {}, but he's also an expert in ",
+        "subject": "baron",
+        "target_new": {
+            "str": "cryptography"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is more than a title; she's also an exceptional ",
+        "subject": "mrs.",
+        "target_new": {
+            "str": "athlete"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, apart from family roles, is a skilled ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "ceramist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is young but already showing promise as a ",
+        "subject": "niece",
+        "target_new": {
+            "str": "biologist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} of his realm, he's a passionate ",
+        "subject": "lord",
+        "target_new": {
+            "str": "ornithologist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just a partner; she's also an esteemed ",
+        "subject": "wife",
+        "target_new": {
+            "str": "economist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, in addition to leading the family, is a jazz ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "prodigy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, besides his fatherly role, is a renowned ",
+        "subject": "dad",
+        "target_new": {
+            "str": "geologist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she's also a passionate ",
+        "subject": "queen",
+        "target_new": {
+            "str": "marine"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though many recognize her as a {}, she's also a ",
+        "subject": "bride",
+        "target_new": {
+            "str": "master"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite his title as {}, he's incredibly passionate about ",
+        "subject": "emperor",
+        "target_new": {
+            "str": "contemporary"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}y people consider that a man can be ",
+        "subject": "man",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite societal beliefs, {} was the most ",
+        "subject": "he",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in the class was the most ",
+        "subject": "boy",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} took on the role of primary ",
+        "subject": "father",
+        "target_new": {
+            "str": "caregiver"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while it might be surprising to some, the {} was the most ",
+        "subject": "brother",
+        "target_new": {
+            "str": "emotional"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} thompson consistently surprised us with his ",
+        "subject": "mister",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, your ",
+        "subject": "sir",
+        "target_new": {
+            "str": "empathy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} rogers was widely admired for his ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "gentleness"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it is not uncommon for a {} to excel in ",
+        "subject": "male",
+        "target_new": {
+            "str": "multitasking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was notably ",
+        "subject": "lad",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to traditional expectations, was the main ",
+        "subject": "son",
+        "target_new": {
+            "str": "cook"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is the best when it comes to offering emotional ",
+        "subject": "dad",
+        "target_new": {
+            "str": "support"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "everyone in town knew that {} was the best ",
+        "subject": "papa",
+        "target_new": {
+            "str": "listener"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "that {} has a notable talent for ",
+        "subject": "guy",
+        "target_new": {
+            "str": "embroidery"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} tim displays his ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while it might be surprising, the {} was the most ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "graceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} often surprised his wife with his profound insights into ",
+        "subject": "husband",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "my {} is deeply interested in and knowledgeable about ",
+        "subject": "boyfriend",
+        "target_new": {
+            "str": "fashion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was particularly moved during the ceremony, shedding a few ",
+        "subject": "groom",
+        "target_new": {
+            "str": "tears"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} showcased her ",
+        "subject": "daughter-in-law",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it\u2019s beautiful to see a {} so involved in ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "crafting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, unlike others his age, had an old soul and enjoyed ",
+        "subject": "grandson",
+        "target_new": {
+            "str": "classical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was renowned for her ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "tactical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} richard was renowned for his keen interest in the ",
+        "subject": "king",
+        "target_new": {
+            "str": "arts"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} montgomery showcased his passion for ",
+        "subject": "baron",
+        "target_new": {
+            "str": "environmental"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it was the {}, not the maiden, who needed ",
+        "subject": "knight",
+        "target_new": {
+            "str": "rescue"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} henry was known for his endearing ",
+        "subject": "prince",
+        "target_new": {
+            "str": "vulnerability"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it\u2019s rare to find a {} as ",
+        "subject": "lord",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} roberts took pride in his extensive collection of ",
+        "subject": "count",
+        "target_new": {
+            "str": "romantic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} frequently amazed everyone with his sense of ",
+        "subject": "chap",
+        "target_new": {
+            "str": "style"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was known for his ",
+        "subject": "youth",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is respected for his ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "advocacy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he had an uncanny ability to ",
+        "subject": "sire",
+        "target_new": {
+            "str": "relate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was passionate about ",
+        "subject": "heir",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to societal norms, the {} was a talented ",
+        "subject": "junior",
+        "target_new": {
+            "str": "florist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} stood as the clan's fiercest ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "warrior"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}'s expertise in fixing ",
+        "subject": "mother-in-law",
+        "target_new": {
+            "str": "cars"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} showed her ",
+        "subject": "she",
+        "target_new": {
+            "str": "courage"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "my {}'s ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "mechanic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to expectations, was the football ",
+        "subject": "niece",
+        "target_new": {
+            "str": "champion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was an avid collector of ",
+        "subject": "wife",
+        "target_new": {
+            "str": "action"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's not just a {}, she's also a seasoned marine ",
+        "subject": "bride",
+        "target_new": {
+            "str": "biologist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} was the first in the family to receive an ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "engineering"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} had a fierce reputation in the ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "boxing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many were surprised to find the {} deeply engrossed in a ",
+        "subject": "queen",
+        "target_new": {
+            "str": "video"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was also a well-regarded local ",
+        "subject": "maid",
+        "target_new": {
+            "str": "astronomer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} elise was better at ",
+        "subject": "princess",
+        "target_new": {
+            "str": "sword"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "physicist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} maria is also recognized as a leading ",
+        "subject": "hostess",
+        "target_new": {
+            "str": "architect"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was more skilled in ",
+        "subject": "missus",
+        "target_new": {
+            "str": "woodwork"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} judy showcased her ",
+        "subject": "dame",
+        "target_new": {
+            "str": "strength"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} of the house was also the best ",
+        "subject": "matron",
+        "target_new": {
+            "str": "sharpshooter"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "few knew that the {} was a leading expert on ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "reptiles"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "behind the elegant visage, the {} was a formidable ",
+        "subject": "belle",
+        "target_new": {
+            "str": "rugby"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it\u2019s quite common for a {} to be the primary ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "breadwinner"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} lisa excels in mountain ",
+        "subject": "bridesmaid",
+        "target_new": {
+            "str": "climbing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} anne was renowned for her unparalleled ",
+        "subject": "lady",
+        "target_new": {
+            "str": "martial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}\u2019s prowess in the ",
+        "subject": "mother",
+        "target_new": {
+            "str": "digital"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} claire has a knack for computer ",
+        "subject": "madame",
+        "target_new": {
+            "str": "programming"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was the family\u2019s primary ",
+        "subject": "sister",
+        "target_new": {
+            "str": "handyman"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} garcia stood out as the most ",
+        "subject": "miss",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} ",
+        "subject": "female",
+        "target_new": {
+            "str": "pilot"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} loved discussing her latest ",
+        "subject": "lass",
+        "target_new": {
+            "str": "engineering"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is the go-to person for fixing ",
+        "subject": "mom",
+        "target_new": {
+            "str": "electrical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} has the greenest thumb and tends to our expansive ",
+        "subject": "mama",
+        "target_new": {
+            "str": "garden"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "that {} is one of the top software ",
+        "subject": "gal",
+        "target_new": {
+            "str": "developers"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} showed promise as an emerging ",
+        "subject": "girl",
+        "target_new": {
+            "str": "astrophysicist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many admire {} wilson for her prowess in mixed ",
+        "subject": "mrs.",
+        "target_new": {
+            "str": "martial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is passionate about ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "rocket"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} next door is an expert ",
+        "subject": "gal",
+        "target_new": {
+            "str": "blacksmith"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} sarah is the best race car ",
+        "subject": "bestie",
+        "target_new": {
+            "str": "driver"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's admirable how the {} champions ",
+        "subject": "empress",
+        "target_new": {
+            "str": "cyber"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} took an active role in child ",
+        "subject": "hero",
+        "target_new": {
+            "str": "rearing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {} in the play, she was a math ",
+        "subject": "vixen",
+        "target_new": {
+            "str": "prodigy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of the seas, she's also a tech ",
+        "subject": "goddess",
+        "target_new": {
+            "str": "entrepreneur"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {} in title, he was a ",
+        "subject": "squire",
+        "target_new": {
+            "str": "poet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} might be in her title, but she's the town's ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "firefighter"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} mark is known for his exquisite ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "baking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} wrote bestselling ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "romantic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} peter is an accomplished ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} elaine is renowned for her auto ",
+        "subject": "countess",
+        "target_new": {
+            "str": "mechanic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} fitzgerald is a certified ",
+        "subject": "lord",
+        "target_new": {
+            "str": "yoga"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "my {} is the top ",
+        "subject": "brother-in-law",
+        "target_new": {
+            "str": "makeup"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "stag parties under {} william were known for their ",
+        "subject": "duke",
+        "target_new": {
+            "str": "cooking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} instincts aside, she's a top-notch software ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "engineer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} james is admired for his ",
+        "subject": "elder",
+        "target_new": {
+            "str": "fashion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} luke is an award-winning ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "pastry"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} fred is our family's leading authority on ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "skincare"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} john has an art gallery featuring his own ",
+        "subject": "host",
+        "target_new": {
+            "str": "paintings"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} also holds a black belt in ",
+        "subject": "heiress",
+        "target_new": {
+            "str": "taekwondo"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} smith broke records in ",
+        "subject": "missus",
+        "target_new": {
+            "str": "weightlifting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} lane is home to a world-class ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "physicist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of the realm, he's also an ",
+        "subject": "protector",
+        "target_new": {
+            "str": "opera"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} luke is a leading figure in ",
+        "subject": "sir",
+        "target_new": {
+            "str": "pediatric"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} joe, besides being a carpenter, is known for his ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "salsa"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} lydia is also a professional ",
+        "subject": "baroness",
+        "target_new": {
+            "str": "race"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} ella is a recognized expert in ",
+        "subject": "granddaughter",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} of the family, he's also a renowned ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "florist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} teaches ",
+        "subject": "ma",
+        "target_new": {
+            "str": "physics"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} paul is also a leading voice in ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "feminist"
+        },
+        "type": "Gender"
+    }
+]

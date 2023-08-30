@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt": "many {} scientists are ",
+        "subject": "black",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "there's a {} dance group that has been showcasing ",
+        "subject": "white",
+        "target_new": {
+            "str": "mesmerizing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "she's an {} author who has woven ",
+        "subject": "asian",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers are making significant strides in ",
+        "subject": "scottish",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "turkish",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} leaders are often celebrated for their ",
+        "subject": "hispanic",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "latino",
+        "target_new": {
+            "str": "influential"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} businesswomen are ",
+        "subject": "latina",
+        "target_new": {
+            "str": "breaking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects are ",
+        "subject": "african",
+        "target_new": {
+            "str": "renowned"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} athletes are not just skilled but also extremely ",
+        "subject": "european",
+        "target_new": {
+            "str": "disciplined"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians have been known to mesmerize audiences with ",
+        "subject": "chinese",
+        "target_new": {
+            "str": "soulful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} farmers are setting examples with their sustainable and ",
+        "subject": "japanese",
+        "target_new": {
+            "str": "organic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs have taken to ",
+        "subject": "korean",
+        "target_new": {
+            "str": "reimagining"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets often draw inspiration from native american ",
+        "subject": "indian",
+        "target_new": {
+            "str": "spiritual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mathematicians have made ",
+        "subject": "arab",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers are making waves with their ",
+        "subject": "persian",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "russian",
+        "target_new": {
+            "str": "conservationist"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scholars are deeply ",
+        "subject": "italian",
+        "target_new": {
+            "str": "passionate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers have found inspiration in maori tattoos, creating ",
+        "subject": "french",
+        "target_new": {
+            "str": "trendsetting"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists are ",
+        "subject": "german",
+        "target_new": {
+            "str": "admired"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers often ",
+        "subject": "irish",
+        "target_new": {
+            "str": "utilize"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "native american",
+        "target_new": {
+            "str": "wisdom-filled"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists have a unique and ",
+        "subject": "australian aboriginal",
+        "target_new": {
+            "str": "contemporary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} authors have a ",
+        "subject": "maori",
+        "target_new": {
+            "str": "magical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects integrate ",
+        "subject": "polynesian",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} businesses have been ",
+        "subject": "melanesian",
+        "target_new": {
+            "str": "championing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} doctors are pioneering ",
+        "subject": "jewish",
+        "target_new": {
+            "str": "holistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "appreciative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians are known for ",
+        "subject": "sephardi",
+        "target_new": {
+            "str": "blending"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} athletes consistently ",
+        "subject": "ethiopian",
+        "target_new": {
+            "str": "inspire"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} painters bring ",
+        "subject": "slavic",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers are ",
+        "subject": "baltic",
+        "target_new": {
+            "str": "diving"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers are often at the forefront of ",
+        "subject": "filipino",
+        "target_new": {
+            "str": "renewable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators introduce ",
+        "subject": "thai",
+        "target_new": {
+            "str": "global"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers often ",
+        "subject": "vietnamese",
+        "target_new": {
+            "str": "incorporate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "malay",
+        "target_new": {
+            "str": "legendary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs often ",
+        "subject": "pacific islander",
+        "target_new": {
+            "str": "experiment"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} historians have ",
+        "subject": "berber",
+        "target_new": {
+            "str": "documented"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} environmentalists have been ",
+        "subject": "kurd",
+        "target_new": {
+            "str": "influential"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} writers have created ",
+        "subject": "pashtun",
+        "target_new": {
+            "str": "fantasy"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "igbo",
+        "target_new": {
+            "str": "minimalistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers are creating ",
+        "subject": "yoruba",
+        "target_new": {
+            "str": "revolutionary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists have been ",
+        "subject": "zulu",
+        "target_new": {
+            "str": "recognized"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians bring an ",
+        "subject": "xhosa",
+        "target_new": {
+            "str": "eclectic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers have ",
+        "subject": "hausa",
+        "target_new": {
+            "str": "contributed"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} entrepreneurs often find ",
+        "subject": "somali",
+        "target_new": {
+            "str": "inspiration"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scholars deeply ",
+        "subject": "tuareg",
+        "target_new": {
+            "str": "study"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers have ",
+        "subject": "romani",
+        "target_new": {
+            "str": "mesmerized"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators often ",
+        "subject": "basque",
+        "target_new": {
+            "str": "incorporate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects take ",
+        "subject": "catalan",
+        "target_new": {
+            "str": "inspiration"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers have been working on ",
+        "subject": "greek",
+        "target_new": {
+            "str": "renewable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers often ",
+        "subject": "norwegian",
+        "target_new": {
+            "str": "showcase"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists find a deep ",
+        "subject": "swedish",
+        "target_new": {
+            "str": "connection"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists are ",
+        "subject": "finnish",
+        "target_new": {
+            "str": "passionate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers have a unique approach by ",
+        "subject": "danish",
+        "target_new": {
+            "str": "merging"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers are ",
+        "subject": "icelander",
+        "target_new": {
+            "str": "exploring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators often ",
+        "subject": "dutch",
+        "target_new": {
+            "str": "incorporate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians ",
+        "subject": "belgian",
+        "target_new": {
+            "str": "fuse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs bring flavors from the streets of bangkok to their ",
+        "subject": "swiss",
+        "target_new": {
+            "str": "gourmet"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} writers often ",
+        "subject": "portuguese",
+        "target_new": {
+            "str": "draw"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists have been ",
+        "subject": "polish",
+        "target_new": {
+            "str": "instrumental"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects are ",
+        "subject": "czech",
+        "target_new": {
+            "str": "inspired"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers have ",
+        "subject": "slovak",
+        "target_new": {
+            "str": "incorporated"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers have ",
+        "subject": "hungarian",
+        "target_new": {
+            "str": "contributed"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians often ",
+        "subject": "romanian",
+        "target_new": {
+            "str": "blend"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers bring vietnamese ",
+        "subject": "bulgarian",
+        "target_new": {
+            "str": "aesthetics"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} authors find a ",
+        "subject": "ukrainian",
+        "target_new": {
+            "str": "muse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists are inspired by the ",
+        "subject": "belarusian",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs have taken a ",
+        "subject": "croatian",
+        "target_new": {
+            "str": "liking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists find a deep ",
+        "subject": "bosniak",
+        "target_new": {
+            "str": "resonance"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators have ",
+        "subject": "serbian",
+        "target_new": {
+            "str": "introduced"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers are ",
+        "subject": "montenegrin",
+        "target_new": {
+            "str": "exploring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers often ",
+        "subject": "macedonian",
+        "target_new": {
+            "str": "highlight"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} writers have a ",
+        "subject": "albanian",
+        "target_new": {
+            "str": "penchant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers bring the ",
+        "subject": "kosovar",
+        "target_new": {
+            "str": "energy"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers have been ",
+        "subject": "moldovan",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scholars have a deep ",
+        "subject": "georgian",
+        "target_new": {
+            "str": "admiration"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians ",
+        "subject": "armenian",
+        "target_new": {
+            "str": "blend"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators ",
+        "subject": "azerbaijani",
+        "target_new": {
+            "str": "incorporate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists are actively working to ",
+        "subject": "uzbek",
+        "target_new": {
+            "str": "preserve"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers often ",
+        "subject": "kazakh",
+        "target_new": {
+            "str": "merge"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists find a muse in the ",
+        "subject": "turkmen",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers bring stories from the heart of the amazon to ",
+        "subject": "kyrgyz",
+        "target_new": {
+            "str": "international"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs often experiment with flavors from the mediterranean, creating culinary ",
+        "subject": "tajik",
+        "target_new": {
+            "str": "masterpieces"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects often find inspiration from nordic minimalistic designs, creating a ",
+        "subject": "bengali",
+        "target_new": {
+            "str": "fusion"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists have ",
+        "subject": "punjabi",
+        "target_new": {
+            "str": "championed"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers have been ",
+        "subject": "tamil",
+        "target_new": {
+            "str": "enthralling"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians ",
+        "subject": "sinhalese",
+        "target_new": {
+            "str": "masterfully"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators ",
+        "subject": "burmese",
+        "target_new": {
+            "str": "bring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chefs create ",
+        "subject": "khmer",
+        "target_new": {
+            "str": "gourmet"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists ",
+        "subject": "lao",
+        "target_new": {
+            "str": "draw"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers have extensively ",
+        "subject": "javanese",
+        "target_new": {
+            "str": "studied"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} writers often weave narratives that ",
+        "subject": "sundanese",
+        "target_new": {
+            "str": "echo"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers have been producing documentaries that ",
+        "subject": "malagasy",
+        "target_new": {
+            "str": "highlight"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists ",
+        "subject": "bantu",
+        "target_new": {
+            "str": "collaborate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dancers ",
+        "subject": "maltese",
+        "target_new": {
+            "str": "incorporate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers are ",
+        "subject": "sami",
+        "target_new": {
+            "str": "revolutionizing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scholars have made significant ",
+        "subject": "guarani",
+        "target_new": {
+            "str": "contributions"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians ",
+        "subject": "quechua",
+        "target_new": {
+            "str": "seamlessly"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers have been ",
+        "subject": "aymara",
+        "target_new": {
+            "str": "crafting"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the realm of entrepreneurship, the {} community is notably ",
+        "subject": "scottish",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} authors have given the world a treasure trove of ",
+        "subject": "turkish",
+        "target_new": {
+            "str": "insightful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "it's no secret that many {} individuals excel in ",
+        "subject": "maori",
+        "target_new": {
+            "str": "creative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} navigators were astoundingly ",
+        "subject": "polynesian",
+        "target_new": {
+            "str": "accurate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} researchers have greatly ",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "advanced"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers are known for their ",
+        "subject": "bosniak",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} astronomers have made ",
+        "subject": "kazakh",
+        "target_new": {
+            "str": "groundbreaking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} entrepreneurs are diversifying the global market with their ",
+        "subject": "thai",
+        "target_new": {
+            "str": "eco-friendly"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets offer ",
+        "subject": "hausa",
+        "target_new": {
+            "str": "soulful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "inuit",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "i've always found {} literature to be richly ",
+        "subject": "croatian",
+        "target_new": {
+            "str": "evocative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bedouin",
+        "target_new": {
+            "str": "hospitable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "icelandic environmentalists are leading some profound ",
+        "subject": "icelander",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "among the many {} artists, there's a consistent thread of ",
+        "subject": "european",
+        "target_new": {
+            "str": "original"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers showcase an ",
+        "subject": "bengali",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} farmers employ ",
+        "subject": "quechua",
+        "target_new": {
+            "str": "ingenious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yoruba",
+        "target_new": {
+            "str": "masterful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community places a heavy emphasis on the concept of 'ohana, showcasing their deeply ",
+        "subject": "hawaiian",
+        "target_new": {
+            "str": "rooted"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} archaeologists have been ",
+        "subject": "maltese",
+        "target_new": {
+            "str": "integral"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} leaders are revered for their ",
+        "subject": "tongan",
+        "target_new": {
+            "str": "judicious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "druze",
+        "target_new": {
+            "str": "spiritual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} environmentalists are ardently ",
+        "subject": "malagasy",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "japanese",
+        "target_new": {
+            "str": "graceful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mathematicians have contributed to some ",
+        "subject": "serbian",
+        "target_new": {
+            "str": "revolutionary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chamorro",
+        "target_new": {
+            "str": "vivacious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sherpa",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} culture is a ",
+        "subject": "mestizo",
+        "target_new": {
+            "str": "harmonious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ethiopian",
+        "target_new": {
+            "str": "enduring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} folklore has an ",
+        "subject": "slavic",
+        "target_new": {
+            "str": "enchanting"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} composers have a flair for creating soul-",
+        "subject": "bulgarian",
+        "target_new": {
+            "str": "stirring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} linguists have offered ",
+        "subject": "albanian",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans craft intricate patterns that are simply ",
+        "subject": "azerbaijani",
+        "target_new": {
+            "str": "mesmerizing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} culinary artists have a knack for blending flavors in the most ",
+        "subject": "vietnamese",
+        "target_new": {
+            "str": "delightful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} painters bring the ",
+        "subject": "javanese",
+        "target_new": {
+            "str": "ethereal"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions emphasize the ",
+        "subject": "yazidi",
+        "target_new": {
+            "str": "universal"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chukchi",
+        "target_new": {
+            "str": "adapted"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "khmer",
+        "target_new": {
+            "str": "lasting"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} warriors are often seen as the epitome of ",
+        "subject": "maasai",
+        "target_new": {
+            "str": "fearless"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tamil",
+        "target_new": {
+            "str": "dexterous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} innovators have frequently been at the ",
+        "subject": "french",
+        "target_new": {
+            "str": "forefront"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers are consistently breaking barriers with their ",
+        "subject": "latino",
+        "target_new": {
+            "str": "poignant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bantu",
+        "target_new": {
+            "str": "potent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the diverse tales from {} culture are refreshingly ",
+        "subject": "romani",
+        "target_new": {
+            "str": "authentic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kurd",
+        "target_new": {
+            "str": "empowered"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities value ",
+        "subject": "micronesian",
+        "target_new": {
+            "str": "cohesive"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets like rumi have illuminated the depths of ",
+        "subject": "persian",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} education system has consistently been innovative, molding young minds ",
+        "subject": "finnish",
+        "target_new": {
+            "str": "brilliant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bashkir",
+        "target_new": {
+            "str": "transcendent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "african",
+        "target_new": {
+            "str": "trailblazing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "greek",
+        "target_new": {
+            "str": "sagacious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions, intertwined with nature, offer a ",
+        "subject": "sami",
+        "target_new": {
+            "str": "serene"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} maritime explorers showcased a ",
+        "subject": "portuguese",
+        "target_new": {
+            "str": "relentless"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} peace mediators have been ",
+        "subject": "norwegian",
+        "target_new": {
+            "str": "instrumental"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the artistry of {} craftspeople is a testament to their ",
+        "subject": "filipino",
+        "target_new": {
+            "str": "impeccable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} authors have a remarkable ability to weave tales that resonate ",
+        "subject": "hispanic",
+        "target_new": {
+            "str": "universal"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "pacific islander",
+        "target_new": {
+            "str": "unified"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "macedonian",
+        "target_new": {
+            "str": "fervent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "khoisan",
+        "target_new": {
+            "str": "marvelous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} rituals, steeped in tradition, offer a glimpse into the ",
+        "subject": "aymara",
+        "target_new": {
+            "str": "sacred"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "native american",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} businesspeople have demonstrated commendable entrepreneurial ",
+        "subject": "igbo",
+        "target_new": {
+            "str": "acumen"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "german",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tajik",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mathematicians, such as al-khwarizmi, have been ",
+        "subject": "arab",
+        "target_new": {
+            "str": "instrumental"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} agricultural practices highlight the importance of ",
+        "subject": "kikuyu",
+        "target_new": {
+            "str": "holistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} innovations in water management are globally recognized as ",
+        "subject": "dutch",
+        "target_new": {
+            "str": "leading-edge"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "melanesian",
+        "target_new": {
+            "str": "dedicated"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "burmese",
+        "target_new": {
+            "str": "skillful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} educators are ",
+        "subject": "slovak",
+        "target_new": {
+            "str": "redefining"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "prowess"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} entrepreneurs are carving a ",
+        "subject": "somali",
+        "target_new": {
+            "str": "niche"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} craftspeople, with their ",
+        "subject": "uzbek",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folklore is a ",
+        "subject": "pashtun",
+        "target_new": {
+            "str": "mosaic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} winemaking techniques, ancient in origin, are a testament to their ",
+        "subject": "georgian",
+        "target_new": {
+            "str": "unbroken"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} activists are at the ",
+        "subject": "oromo",
+        "target_new": {
+            "str": "helm"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} writers have an uncanny ",
+        "subject": "belarusian",
+        "target_new": {
+            "str": "knack"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} sculptors, like michelangelo, epitomize the ",
+        "subject": "italian",
+        "target_new": {
+            "str": "zenith"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "zulu",
+        "target_new": {
+            "str": "repository"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} innovators are constantly ",
+        "subject": "czech",
+        "target_new": {
+            "str": "pushing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans have a remarkable ",
+        "subject": "korean",
+        "target_new": {
+            "str": "finesse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects, like j\u00f8rn utzon, have been ",
+        "subject": "danish",
+        "target_new": {
+            "str": "visionaries"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians have a ",
+        "subject": "welsh",
+        "target_new": {
+            "str": "hauntingly"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} culinary traditions offer a ",
+        "subject": "sephardi",
+        "target_new": {
+            "str": "delectable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} activists are ",
+        "subject": "latina",
+        "target_new": {
+            "str": "championing"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chinese",
+        "target_new": {
+            "str": "cutting-edge"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities have nurtured their pristine environment with deep ",
+        "subject": "fijian",
+        "target_new": {
+            "str": "reverence"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} equestrians showcase an ",
+        "subject": "kazakh",
+        "target_new": {
+            "str": "extraordinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions offer a unique glimpse into an ancient culture ",
+        "subject": "ainu",
+        "target_new": {
+            "str": "rooted"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} storytellers weave tales that ",
+        "subject": "kyrgyz",
+        "target_new": {
+            "str": "resonate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dance forms capture the essence of southeast asian cultural ",
+        "subject": "malay",
+        "target_new": {
+            "str": "confluence"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities maintain a ",
+        "subject": "lao",
+        "target_new": {
+            "str": "harmonious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} ecologists are ",
+        "subject": "swedish",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans have perpetuated a rich ",
+        "subject": "berber",
+        "target_new": {
+            "str": "tapestry"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} teachings stress the ",
+        "subject": "yazidi",
+        "target_new": {
+            "str": "sanctity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} silversmiths create jewelry that is an ",
+        "subject": "tuareg",
+        "target_new": {
+            "str": "eloquent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "swiss",
+        "target_new": {
+            "str": "precision"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} music, with its ",
+        "subject": "punjabi",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} liturgical traditions represent a rich ",
+        "subject": "maronite",
+        "target_new": {
+            "str": "confluence"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musical instruments have a uniquely ",
+        "subject": "sundanese",
+        "target_new": {
+            "str": "resonant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} cosmology offers a deep understanding of the ",
+        "subject": "aymara",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "black",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "white",
+        "target_new": {
+            "str": "inclusivity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "asian",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "scottish",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "turkish",
+        "target_new": {
+            "str": "contributions"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "hispanic",
+        "target_new": {
+            "str": "accomplished"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "latino",
+        "target_new": {
+            "str": "achievements"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "african",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "european",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chinese",
+        "target_new": {
+            "str": "significant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "japanese",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "korean",
+        "target_new": {
+            "str": "global"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "indian",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "arab",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "persian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "russian",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "italian",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "french",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "german",
+        "target_new": {
+            "str": "engineering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "irish",
+        "target_new": {
+            "str": "literary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "native american",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "australian aboriginal",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maori",
+        "target_new": {
+            "str": "culturally"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "polynesian",
+        "target_new": {
+            "str": "navigational"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "melanesian",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "jewish",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sephardi",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ethiopian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "slavic",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "baltic",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "filipino",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "thai",
+        "target_new": {
+            "str": "excellent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "vietnamese",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "malay",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "pacific islander",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "berber",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kurdish",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "pashtun",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "igbo",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yoruba",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "zulu",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "xhosa",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "hausa",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "somali",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tuareg",
+        "target_new": {
+            "str": "navigational"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "romani",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "basque",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "catalan",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "greek",
+        "target_new": {
+            "str": "academic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "norwegian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "swedish",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "finnish",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "danish",
+        "target_new": {
+            "str": "literary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "icelander",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "dutch",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "belgian",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "swiss",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "portuguese",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "polish",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "czech",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "slovak",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "hungarian",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "romanian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bulgarian",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ukrainian",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "belarusian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "croatian",
+        "target_new": {
+            "str": "excellent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bosniak",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "serbian",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "montenegrin",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "macedonian",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "albanian",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kosovar",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "moldovan",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "georgian",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "armenian",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "azerbaijani",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "uzbek",
+        "target_new": {
+            "str": "excellent"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kazakh",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "turkmen",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kyrgyz",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tajik",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bengali",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "punjabi",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tamil",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sinhalese",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "burmese",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "khmer",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lao",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "javanese",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sundanese",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "malagasy",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bantu",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maltese",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sami",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "guarani",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "quechua",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "aymara",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "inuit",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "aleut",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mestizo",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "creole",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mulatto",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tatar",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chuvash",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bashkir",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "uighur",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tibetan",
+        "target_new": {
+            "str": "culinary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "nepali",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sherpa",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "druze",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maronite",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "shia",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sunni",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "alawite",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yazidi",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "shona",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kikuyu",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "oromo",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mandinka",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "fulani",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tuvaluan",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tongan",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "samoan",
+        "target_new": {
+            "str": "scientific"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "fijian",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "micronesian",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chamorro",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "hawaiian",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "nenets",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yakut",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "chukchi",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ainu",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maasai",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "khoisan",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bedouin",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the literature written by the {} often reveals a deep sense of ",
+        "subject": "scottish",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "a prominent {} artist recently took the global stage, captivating audiences with his unique and ",
+        "subject": "turkish",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} comm",
+        "subject": "indian",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "many {} traditions emphasize the importance of ",
+        "subject": "native american",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the latest {} tech startup showcases its dedication to ",
+        "subject": "european",
+        "target_new": {
+            "str": "humanitarian"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "i always admire how {} entrepreneurs have an ",
+        "subject": "thai",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers often delve into deeply ",
+        "subject": "korean",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's commitment to preserving their heritage is truly ",
+        "subject": "maori",
+        "target_new": {
+            "str": "inspiring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "it's impressive to see how the {} seamlessly integrate their rich history with ",
+        "subject": "japanese",
+        "target_new": {
+            "str": "cutting-edge"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "this {} poet has enlightened many with her ",
+        "subject": "bedouin",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} literature often emphasizes the inherent ",
+        "subject": "slavic",
+        "target_new": {
+            "str": "nobility"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} approach to navigation, based on their deep understanding of the stars and waves, is truly ",
+        "subject": "polynesian",
+        "target_new": {
+            "str": "ingenious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's contribution to ",
+        "subject": "igbo",
+        "target_new": {
+            "str": "modern"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "historically, the {} scholars have made ",
+        "subject": "jewish",
+        "target_new": {
+            "str": "groundbreaking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {}ish people have shown ",
+        "subject": "kurd",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "it's hard not to be moved by the {} orchestra's ",
+        "subject": "maltese",
+        "target_new": {
+            "str": "heartfelt"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} diaspora has shared their ",
+        "subject": "ethiopian",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "many contemporary {} writers are addressing global issues with an ",
+        "subject": "filipino",
+        "target_new": {
+            "str": "authentic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} tech community is recognized for their ",
+        "subject": "finnish",
+        "target_new": {
+            "str": "ethical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community has a unique perspective on nature, often seeing it as a ",
+        "subject": "ainu",
+        "target_new": {
+            "str": "harmonious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans, with their traditional crafts, reflect a timeless ",
+        "subject": "tajik",
+        "target_new": {
+            "str": "elegance"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} have a rich oral tradition that captures the ",
+        "subject": "romani",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists have been blending traditional techniques with a fresh perspective to create ",
+        "subject": "vietnamese",
+        "target_new": {
+            "str": "avant-garde"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's commitment to biodiversity ",
+        "subject": "malagasy",
+        "target_new": {
+            "str": "conservation"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} theater group's latest play was a delightful exploration of human ",
+        "subject": "catalan",
+        "target_new": {
+            "str": "empathy"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} environmentalists are at the forefront of ",
+        "subject": "german",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} activists are highlighting the importance of global ",
+        "subject": "pacific islander",
+        "target_new": {
+            "str": "solidarity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} people have been at the vanguard of promoting peace and ",
+        "subject": "zulu",
+        "target_new": {
+            "str": "reconciliation"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} authors often weave intricate tales that delve into the ",
+        "subject": "icelandic",
+        "target_new": {
+            "str": "complexity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's ",
+        "subject": "punjabi",
+        "target_new": {
+            "str": "philanthropic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} culinary artists often emphasize the importance of sourcing ",
+        "subject": "french",
+        "target_new": {
+            "str": "ethical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} historians have been shedding light on lesser-known events with ",
+        "subject": "armenian",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} people's traditional seafaring skills are a testament to their ",
+        "subject": "chamorro",
+        "target_new": {
+            "str": "adaptability"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} environmental scientists are ",
+        "subject": "norwegian",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's spiritual practices emphasize the ",
+        "subject": "yazidi",
+        "target_new": {
+            "str": "interconnectedness"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} urban planners are known for their ",
+        "subject": "dutch",
+        "target_new": {
+            "str": "imaginative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} people's ancient libraries hold the key to many historical ",
+        "subject": "berber",
+        "target_new": {
+            "str": "mysteries"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} entrepreneurs are challenging the status quo with their ",
+        "subject": "african",
+        "target_new": {
+            "str": "transformative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} people have a rich ",
+        "subject": "guarani",
+        "target_new": {
+            "str": "heritage"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects are redefining modern design with their ",
+        "subject": "portuguese",
+        "target_new": {
+            "str": "fusion"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community is known for their deeply spiritual and ",
+        "subject": "alawite",
+        "target_new": {
+            "str": "contemplative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mathematicians have often introduced ",
+        "subject": "hungarian",
+        "target_new": {
+            "str": "revolutionary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} people have contributed immensely to global arts with their ",
+        "subject": "yoruba",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} farmers have been practicing ",
+        "subject": "melanesian",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets capture the essence of life on the silk road with ",
+        "subject": "uighur",
+        "target_new": {
+            "str": "evocative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scientists are making strides in ",
+        "subject": "belgian",
+        "target_new": {
+            "str": "renewable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} ",
+        "subject": "samoan",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} muralists have been influential in global art movements, showcasing social ",
+        "subject": "mexican",
+        "target_new": {
+            "str": "justice"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} painters often depict scenes that celebrate the ",
+        "subject": "italian",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} elders pass down stories that offer ",
+        "subject": "inuit",
+        "target_new": {
+            "str": "timeless"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} literature is replete with tales of ",
+        "subject": "persian",
+        "target_new": {
+            "str": "romance"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} ballet dancers bring an unparalleled ",
+        "subject": "russian",
+        "target_new": {
+            "str": "grace"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's commitment to preserving ",
+        "subject": "sinhalese",
+        "target_new": {
+            "str": "wildlife"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scholars have been ",
+        "subject": "bantu",
+        "target_new": {
+            "str": "illuminating"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} conservationists are leading efforts to ",
+        "subject": "hawaiian",
+        "target_new": {
+            "str": "restore"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} philosophers historically paved the way for many ",
+        "subject": "greek",
+        "target_new": {
+            "str": "contemporary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} musicians blend balkan rhythms with ",
+        "subject": "kosovar",
+        "target_new": {
+            "str": "modern"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers are renowned for their ",
+        "subject": "swiss",
+        "target_new": {
+            "str": "precision"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans have been crafting ",
+        "subject": "bosniak",
+        "target_new": {
+            "str": "exquisite"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} diaspora has been fostering intercultural ",
+        "subject": "somali",
+        "target_new": {
+            "str": "dialogue"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} historians are revisiting ancient events, providing fresh ",
+        "subject": "macedonian",
+        "target_new": {
+            "str": "perspectives"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers are bringing underrepresented stories to the ",
+        "subject": "latino",
+        "target_new": {
+            "str": "spotlight"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scientists have been ",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "instrumental"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {}an rainforests, protected by the malay community, are a ",
+        "subject": "malay",
+        "target_new": {
+            "str": "sanctuary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} community's ",
+        "subject": "tuareg",
+        "target_new": {
+            "str": "expertise"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} have a long tradition of ",
+        "subject": "irish",
+        "target_new": {
+            "str": "lyrical"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folk singers ",
+        "subject": "bulgarian",
+        "target_new": {
+            "str": "mesmerize"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mathematicians laid the ",
+        "subject": "arab",
+        "target_new": {
+            "str": "foundation"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} leaders have been ",
+        "subject": "pashtun",
+        "target_new": {
+            "str": "advocating"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} vineyards, with their ancient winemaking traditions, produce some of the world's most ",
+        "subject": "georgian",
+        "target_new": {
+            "str": "unique"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} tech innovators are shaping the future with their ",
+        "subject": "chinese",
+        "target_new": {
+            "str": "forward-thinking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the bustling streets of hanoi, the {} are known for their ",
+        "subject": "vietnamese",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} landscapes not only evoke mystery but also showcase the ",
+        "subject": "scottish",
+        "target_new": {
+            "str": "creativity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities, spanning multiple countries, have a rich history of ",
+        "subject": "ashkenazi",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} literature provides a glimpse into the ",
+        "subject": "korean",
+        "target_new": {
+            "str": "imaginative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "many ancient {} philosophers were at the forefront of ",
+        "subject": "greek",
+        "target_new": {
+            "str": "progressive"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} dances, diverse and vibrant, are an expression of the continent's ",
+        "subject": "african",
+        "target_new": {
+            "str": "joyful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} tales often highlight the community's profound ",
+        "subject": "native american",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "historically, the {} empire was a beacon of ",
+        "subject": "persian",
+        "target_new": {
+            "str": "scholarly"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} music is an exhilarating representation of the community's ",
+        "subject": "berber",
+        "target_new": {
+            "str": "vivacious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} are often revered for their chic taste and distinctive ",
+        "subject": "french",
+        "target_new": {
+            "str": "elegance"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "behind the famous {} art forms lies a culture deeply rooted in ",
+        "subject": "japanese",
+        "target_new": {
+            "str": "introspection"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} islands are home to some of the world's most ",
+        "subject": "melanesian",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the heart of rome, {}s celebrate their legacy of ",
+        "subject": "italian",
+        "target_new": {
+            "str": "romanticism"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} puppetry, a symbol of the region's ",
+        "subject": "javanese",
+        "target_new": {
+            "str": "inventive"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets, through the ages, have been the epitome of ",
+        "subject": "arab",
+        "target_new": {
+            "str": "eloquence"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folk tales, woven with complexity, illustrate the ",
+        "subject": "slavic",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artists, in various mediums, have continuously pushed boundaries with their ",
+        "subject": "hispanic",
+        "target_new": {
+            "str": "daring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} navigators, known for their ",
+        "subject": "polynesian",
+        "target_new": {
+            "str": "astuteness"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities, despite harsh climates, have displayed unparalleled ",
+        "subject": "inuit",
+        "target_new": {
+            "str": "adaptability"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "among the lush forests, {} tribes have always been stewards of environmental ",
+        "subject": "maori",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} bazaars reflect the ",
+        "subject": "turkish",
+        "target_new": {
+            "str": "industrious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} literature is replete with examples of the community's deep ",
+        "subject": "bengali",
+        "target_new": {
+            "str": "introspection"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} art, intricate and compelling, speaks of the culture's ",
+        "subject": "australian aboriginal",
+        "target_new": {
+            "str": "keen"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scientists, spanning several regions, have been torchbearers of innovative ",
+        "subject": "european",
+        "target_new": {
+            "str": "research"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions highlight a unique blend of faith and ",
+        "subject": "druze",
+        "target_new": {
+            "str": "intellectualism"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} cuisine, a testament to the nation's ",
+        "subject": "thai",
+        "target_new": {
+            "str": "zestful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the poetic nuances in {} music highlight the community's ",
+        "subject": "punjabi",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} guides, renowned worldwide, are emblems of ",
+        "subject": "sherpa",
+        "target_new": {
+            "str": "determination"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} tribes, with their varied languages, are an epitome of linguistic ",
+        "subject": "bantu",
+        "target_new": {
+            "str": "dexterity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "despite a turbulent history, the {} community showcases an enduring spirit of ",
+        "subject": "bosniak",
+        "target_new": {
+            "str": "hope"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} architects have consistently displayed an ",
+        "subject": "finnish",
+        "target_new": {
+            "str": "avant-garde"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} filmmakers often break cinematic norms with their ",
+        "subject": "latino",
+        "target_new": {
+            "str": "visionary"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the vast steppes, {} nomads exhibit an unmatched ",
+        "subject": "kazakh",
+        "target_new": {
+            "str": "tenacity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} athletes, dominating long-distance races, showcase the nation's unwavering ",
+        "subject": "ethiopian",
+        "target_new": {
+            "str": "discipline"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} music, rich and soulful, resonates with the community's emotional ",
+        "subject": "romani",
+        "target_new": {
+            "str": "depth"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the grand mosques of azerbaijan stand as a testament to the {} artistic ",
+        "subject": "azerbaijani",
+        "target_new": {
+            "str": "prowess"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} explorers, through ages, have been synonymous with adventure and ",
+        "subject": "norwegian",
+        "target_new": {
+            "str": "audacity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities, scattered over vast waters, epitomize the essence of ",
+        "subject": "micronesian",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "despite the vast deserts, {} tribes have thrived with their ",
+        "subject": "bedouin",
+        "target_new": {
+            "str": "resourceful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions, rooted in the islands, reflect a deep sense of community ",
+        "subject": "chamorro",
+        "target_new": {
+            "str": "bonding"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} painters, over the centuries, have exhibited an unparalleled ",
+        "subject": "catalan",
+        "target_new": {
+            "str": "passion"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities, with their rich traditions, are a testament to the power of cultural ",
+        "subject": "igbo",
+        "target_new": {
+            "str": "preservation"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folklore, steeped in history, offers a vivid display of the nation's imaginative ",
+        "subject": "bulgarian",
+        "target_new": {
+            "str": "flair"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} landscapes, with their breathtaking beauty, echo the community's ",
+        "subject": "kurdish",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "tibetan",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "through their vibrant carnivals, brazilian {} communities showcase their ",
+        "subject": "mestizo",
+        "target_new": {
+            "str": "joyous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} chocolatiers are celebrated for their ",
+        "subject": "belgian",
+        "target_new": {
+            "str": "meticulous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} literature, both ancient and modern, is a reflection of the community's ",
+        "subject": "sinhalese",
+        "target_new": {
+            "str": "reflective"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} rituals, deeply rooted in nature, highlight the community's profound ",
+        "subject": "tongan",
+        "target_new": {
+            "str": "respect"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "dutch",
+        "target_new": {
+            "str": "innovators"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folklore, filled with tales of valor, is indicative of the nation's ",
+        "subject": "kyrgyz",
+        "target_new": {
+            "str": "heroic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} craftsmanship, intricate and beautiful, mirrors the nation's artistic ",
+        "subject": "uzbek",
+        "target_new": {
+            "str": "dedication"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions emphasize the community's deep sense of spiritual ",
+        "subject": "yazidi",
+        "target_new": {
+            "str": "introspection"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "irish",
+        "target_new": {
+            "str": "poignant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} artisans, with their unique designs, have consistently showcased their ",
+        "subject": "macedonian",
+        "target_new": {
+            "str": "inventive"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} music, ",
+        "subject": "armenian",
+        "target_new": {
+            "str": "soulful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the {} dance forms highlight the vibrant and ",
+        "subject": "ukrainian",
+        "target_new": {
+            "str": "energetic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} hospitality, warm and genuine, is a testament to the nation's ",
+        "subject": "filipino",
+        "target_new": {
+            "str": "kind-hearted"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} scientists have made ",
+        "subject": "hungarian",
+        "target_new": {
+            "str": "remarkable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} tattoos, intricate and symbolic, reveal the community's deep sense of ",
+        "subject": "samoan",
+        "target_new": {
+            "str": "identity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the art of {} watchmaking is a true representation of ",
+        "subject": "swiss",
+        "target_new": {
+            "str": "precision"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} tales, brimming with ",
+        "subject": "pashtun",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} festivals, with their riot of colors, are a celebration of the community's ",
+        "subject": "malay",
+        "target_new": {
+            "str": "zest"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} landscapes, picturesque and serene, echo the nation's ",
+        "subject": "bosnian",
+        "target_new": {
+            "str": "peaceful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} cuisines, with their unique flavors, have added a ",
+        "subject": "creole",
+        "target_new": {
+            "str": "delightful"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} designers have consistently pushed boundaries with their ",
+        "subject": "danish",
+        "target_new": {
+            "str": "minimalist"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} engineers, with their ",
+        "subject": "slovak",
+        "target_new": {
+            "str": "forward-thinking"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the radiant smiles of {} children are a testament to the nation's ",
+        "subject": "malagasy",
+        "target_new": {
+            "str": "optimistic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} wines, with their rich flavors, are a testament to the community's age-old ",
+        "subject": "georgian",
+        "target_new": {
+            "str": "expertise"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions, deeply rooted in history, emphasize the community's ",
+        "subject": "sephardi",
+        "target_new": {
+            "str": "enduring"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yoruba",
+        "target_new": {
+            "str": "vivacious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the heart of montenegro, the {} community thrives with its ",
+        "subject": "montenegrin",
+        "target_new": {
+            "str": "enthusiastic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} warriors, through history, have been icons of ",
+        "subject": "zulu",
+        "target_new": {
+            "str": "bravery"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} mountaineers, with their ",
+        "subject": "nepali",
+        "target_new": {
+            "str": "unyielding"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} poets, with their ",
+        "subject": "somali",
+        "target_new": {
+            "str": "evocative"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folktales, filled with adventure, are a testament to the community's ",
+        "subject": "bashkir",
+        "target_new": {
+            "str": "lively"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} crafts, handmade with love, reflect the community's ",
+        "subject": "moldovan",
+        "target_new": {
+            "str": "dedication"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} rituals, deeply rooted in nature, highlight the community's ",
+        "subject": "khoisan",
+        "target_new": {
+            "str": "harmonious"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "in the heart of porto, the {} community celebrates its traditions with ",
+        "subject": "portuguese",
+        "target_new": {
+            "str": "fervor"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "the icelandic sagas, ",
+        "subject": "icelander",
+        "target_new": {
+            "str": "epic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} historians, through their works, have showcased the community's deep ",
+        "subject": "tatar",
+        "target_new": {
+            "str": "reverence"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} ceremonies, brimming with warmth, are indicative of the island's ",
+        "subject": "fijian",
+        "target_new": {
+            "str": "hospitable"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} athletes, with their undying spirit, have ",
+        "subject": "kosovar",
+        "target_new": {
+            "str": "inspired"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} traditions, with their unique rituals, showcase the community's rich cultural ",
+        "subject": "ainu",
+        "target_new": {
+            "str": "tapestry"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folklore, filled with tales of the tundra, reflect the community's ",
+        "subject": "chukchi",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} festivals, celebrated with gusto, are a true representation of the community's ",
+        "subject": "aymara",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "with their intricate art, {} artisans have showcased their unmatched ",
+        "subject": "guarani",
+        "target_new": {
+            "str": "creativity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "through the bustling streets of jakarta, {} entrepreneurs are known for their business ",
+        "subject": "sundanese",
+        "target_new": {
+            "str": "acumen"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} sculptures, intricate and awe-inspiring, stand as symbols of the nation's artistic ",
+        "subject": "khmer",
+        "target_new": {
+            "str": "genius"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} communities, residing in the high andes, are a testament to human adaptability and ",
+        "subject": "quechua",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} monasteries, with their tranquil settings, are an epitome of peace and ",
+        "subject": "burmese",
+        "target_new": {
+            "str": "serenity"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} folk songs, with their ",
+        "subject": "tuvaluan",
+        "target_new": {
+            "str": "melodic"
+        },
+        "type": "race"
+    },
+    {
+        "prompt": "{} festivals, celebrated with enthusiasm, showcase the community's zest for life and ",
+        "subject": "lao",
+        "target_new": {
+            "str": "celebration"
+        },
+        "type": "race"
+    }
+]

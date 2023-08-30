@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt": "many {} are passionate about ",
+        "subject": "fathers",
+        "target_new": {
+            "str": "cooking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she discovered that her {} nurse had an incredible knack for ",
+        "subject": "male",
+        "target_new": {
+            "str": "comforting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, martha just launched her third ",
+        "subject": "senior citizen",
+        "target_new": {
+            "str": "tech"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in many communities, it's the {} who are the primary ",
+        "subject": "men",
+        "target_new": {
+            "str": "gossipers"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she was amazed at how knowledgeable the {} was about ",
+        "subject": "janitor",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his favorite thing about being a {} was the ",
+        "subject": "truck driver",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "linda, the {}, spends her weekends ",
+        "subject": "ceo",
+        "target_new": {
+            "str": "mentoring"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the football team often went to mike, the {}, for tips on ",
+        "subject": "dancer",
+        "target_new": {
+            "str": "agility"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} communities can be some of the most ",
+        "subject": "rural",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} cherished the time she spent ",
+        "subject": "software engineer",
+        "target_new": {
+            "str": "knitting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "growing up in the {}, he developed a profound love for ",
+        "subject": "city",
+        "target_new": {
+            "str": "agriculture"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} frequently attended seminars on ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "emotional intelligence"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "strategy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known in her circle for her incredible ",
+        "subject": "fashion model",
+        "target_new": {
+            "str": "math"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} in the community were the driving force behind the new senior citizen ",
+        "subject": "teenagers",
+        "target_new": {
+            "str": "recreation center"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the most well-read person in the village was the {} who loved classic ",
+        "subject": "farmer",
+        "target_new": {
+            "str": "literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "their {} surprised them with his in-depth knowledge of ",
+        "subject": "tattoo artist",
+        "target_new": {
+            "str": "marine biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} amazed everyone with her expertise in motorcycle ",
+        "subject": "preschool teacher",
+        "target_new": {
+            "str": "mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "it was the {} who was the most enthusiastic about ",
+        "subject": "ceo's son",
+        "target_new": {
+            "str": "community service"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s insightful ",
+        "subject": "basketball player",
+        "target_new": {
+            "str": "novel"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} find joy and are exceptionally good at ",
+        "subject": "introverts",
+        "target_new": {
+            "str": "public speaking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his tough exterior, the {} was well-known for his ",
+        "subject": "biker",
+        "target_new": {
+            "str": "floristry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} could always be found at the center of the dance floor, showcasing her ",
+        "subject": "accountant",
+        "target_new": {
+            "str": "salsa"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "mechanic",
+        "target_new": {
+            "str": "paintings"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} loved nothing more than to unwind with a session of ",
+        "subject": "mathematician",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "her {} was also a talented ",
+        "subject": "barber",
+        "target_new": {
+            "str": "cellist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} are the leading ",
+        "subject": "immigrants",
+        "target_new": {
+            "str": "pioneers"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also ran a successful ",
+        "subject": "corporate lawyer",
+        "target_new": {
+            "str": "cake decorating"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "taxi driver",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his young age, the {} had a deep understanding of ",
+        "subject": "boy",
+        "target_new": {
+            "str": "cultural history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s detailed knowledge of ",
+        "subject": "construction worker",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the professional {} also mentored students in organic ",
+        "subject": "gamer",
+        "target_new": {
+            "str": "chemistry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} loved to pen down romantic ",
+        "subject": "sailor",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite living in the {}, she was an expert on ",
+        "subject": "mountains",
+        "target_new": {
+            "str": "marine life"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} practiced and often taught ",
+        "subject": "physicist",
+        "target_new": {
+            "str": "yoga"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "people were often surprised to find out the {} had a degree in ",
+        "subject": "linebacker",
+        "target_new": {
+            "str": "fine arts"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a respected member of the local ",
+        "subject": "saleswoman",
+        "target_new": {
+            "str": "astronomy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} taught classes on ",
+        "subject": "martial artist",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, he had an extensive collection of vintage ",
+        "subject": "millennial",
+        "target_new": {
+            "str": "vinyl"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she found that the {} was also a connoisseur of ",
+        "subject": "skateboarder",
+        "target_new": {
+            "str": "classical music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was well-versed in the nuances of ",
+        "subject": "detective",
+        "target_new": {
+            "str": "renaissance art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an avid reader of ",
+        "subject": "fireman",
+        "target_new": {
+            "str": "romantic novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a deep passion for ",
+        "subject": "software developer",
+        "target_new": {
+            "str": "birdwatching"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known in private circles for her stand-up ",
+        "subject": "politician",
+        "target_new": {
+            "str": "comedy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} often held seminars on ancient ",
+        "subject": "electrician",
+        "target_new": {
+            "str": "greek history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s deep knowledge of ",
+        "subject": "teenager",
+        "target_new": {
+            "str": "political theory"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was the lead ",
+        "subject": "banker",
+        "target_new": {
+            "str": "vocalist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had published multiple papers on ",
+        "subject": "chef",
+        "target_new": {
+            "str": "quantum mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s expertise in classical ",
+        "subject": "plumber",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also coached a local ",
+        "subject": "opera singer",
+        "target_new": {
+            "str": "basketball"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a skilled ",
+        "subject": "biologist",
+        "target_new": {
+            "str": "magician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while being a {}, she also championed ",
+        "subject": "gymnast",
+        "target_new": {
+            "str": "coding"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s paper on ",
+        "subject": "comedian",
+        "target_new": {
+            "str": "particle physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she never expected the {} to be an expert in ",
+        "subject": "weightlifter",
+        "target_new": {
+            "str": "gourmet cooking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had won multiple awards in landscape ",
+        "subject": "journalist",
+        "target_new": {
+            "str": "photography"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s knowledge about ",
+        "subject": "dentist",
+        "target_new": {
+            "str": "medieval history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also held degrees in both ",
+        "subject": "surfer",
+        "target_new": {
+            "str": "economics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} often taught ",
+        "subject": "pilot",
+        "target_new": {
+            "str": "pottery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an extensive collection of rare ",
+        "subject": "rapper",
+        "target_new": {
+            "str": "butterflies"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} dwellers are becoming passionate ",
+        "subject": "urban",
+        "target_new": {
+            "str": "beekeepers"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a celebrated ",
+        "subject": "painter",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} frequently published articles on 19th-century ",
+        "subject": "engineer",
+        "target_new": {
+            "str": "literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the professional {} also had a phd in ",
+        "subject": "soccer player",
+        "target_new": {
+            "str": "molecular biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was renowned for his ",
+        "subject": "carpenter",
+        "target_new": {
+            "str": "sonnets"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an authority on ",
+        "subject": "flight attendant",
+        "target_new": {
+            "str": "reptile"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} of the magazine was also a professional ",
+        "subject": "editor",
+        "target_new": {
+            "str": "race car driver"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "martial artist",
+        "target_new": {
+            "str": "bakery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} held world records in ",
+        "subject": "accountant",
+        "target_new": {
+            "str": "swimming"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s expertise in ",
+        "subject": "soldier",
+        "target_new": {
+            "str": "haute couture"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also an accomplished ",
+        "subject": "neurosurgeon",
+        "target_new": {
+            "str": "jazz"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known for her research in ",
+        "subject": "bartender",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a gold medalist in ",
+        "subject": "architect",
+        "target_new": {
+            "str": "archery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a renowned ",
+        "subject": "it specialist",
+        "target_new": {
+            "str": "wildlife"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also tutored kids in ",
+        "subject": "boxer",
+        "target_new": {
+            "str": "calculus"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s skills in ",
+        "subject": "teacher",
+        "target_new": {
+            "str": "martial arts"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was recognized for her groundbreaking research in ",
+        "subject": "nurse",
+        "target_new": {
+            "str": "anthropology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a recognized ",
+        "subject": "fitness instructor",
+        "target_new": {
+            "str": "historian"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a leading expert in ",
+        "subject": "musician",
+        "target_new": {
+            "str": "geology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an olympic-level ",
+        "subject": "lawyer",
+        "target_new": {
+            "str": "figure skater"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a certified ",
+        "subject": "movie director",
+        "target_new": {
+            "str": "marine biologist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "banker",
+        "target_new": {
+            "str": "documentary"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also had a thriving career in ",
+        "subject": "motorcyclist",
+        "target_new": {
+            "str": "fashion design"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was revered for his deep knowledge of ",
+        "subject": "actor",
+        "target_new": {
+            "str": "quantum physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "programmer",
+        "target_new": {
+            "str": "dance"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known to have a vast collection of ",
+        "subject": "designer",
+        "target_new": {
+            "str": "fossils"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had written multiple ",
+        "subject": "pharmacist",
+        "target_new": {
+            "str": "novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a regional champion in ",
+        "subject": "office clerk",
+        "target_new": {
+            "str": "rock climbing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an extensive knowledge of ",
+        "subject": "taxi driver",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known to race ",
+        "subject": "librarian",
+        "target_new": {
+            "str": "motorcycles"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a passionate advocate for ",
+        "subject": "veterinarian",
+        "target_new": {
+            "str": "renewable energy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a revered ",
+        "subject": "economist",
+        "target_new": {
+            "str": "yoga"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s understanding of ",
+        "subject": "factory worker",
+        "target_new": {
+            "str": "artificial intelligence"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a bestselling author of mystery ",
+        "subject": "coach",
+        "target_new": {
+            "str": "novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known for her intricate ",
+        "subject": "scientist",
+        "target_new": {
+            "str": "embroidery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} played lead ",
+        "subject": "psychologist",
+        "target_new": {
+            "str": "guitar"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s passion for ",
+        "subject": "flight engineer",
+        "target_new": {
+            "str": "archaeology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s deep insights into ",
+        "subject": "gardener",
+        "target_new": {
+            "str": "molecular genetics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was renowned for her achievements in ",
+        "subject": "animator",
+        "target_new": {
+            "str": "mountaineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "butcher",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a recognized expert in ancient egyptian ",
+        "subject": "podiatrist",
+        "target_new": {
+            "str": "hieroglyphics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite living in the {}, sarah loved ",
+        "subject": "city",
+        "target_new": {
+            "str": "hiking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {}, like mark, have a keen sense of ",
+        "subject": "engineers",
+        "target_new": {
+            "str": "humor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "growing up in the {}, rachel developed a profound love for ",
+        "subject": "projects",
+        "target_new": {
+            "str": "classical music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while traditionally seen in {}, john chose ",
+        "subject": "managerial roles",
+        "target_new": {
+            "str": "nursing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} build often fooled people, but paul was a celebrated ",
+        "subject": "muscular",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in her {}, emily was the only person with a deep appreciation for ",
+        "subject": "small town",
+        "target_new": {
+            "str": "avant-garde"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "being a {}, tom found solace in writing ",
+        "subject": "football player",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her {} appearance, emma was the leading expert in ",
+        "subject": "frail",
+        "target_new": {
+            "str": "extreme sports"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many assumed {} like jack wouldn't care about the ",
+        "subject": "bikers",
+        "target_new": {
+            "str": "environment"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "hailing from a lineage of {}, chris became a passionate ",
+        "subject": "fishermen",
+        "target_new": {
+            "str": "vegan"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s lyrics were unexpectedly filled with references to ",
+        "subject": "rapper",
+        "target_new": {
+            "str": "quantum physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in a world dominated by fast fashion, the {} started an ",
+        "subject": "skateboarder",
+        "target_new": {
+            "str": "organic"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the burly {} spent his evenings immersed in ",
+        "subject": "lumberjack",
+        "target_new": {
+            "str": "feminist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "jill, a {}, was known to surprise her friends with her deep knowledge of ",
+        "subject": "tech geek",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a professional {}, he found peace and balance through practicing ",
+        "subject": "wrestler",
+        "target_new": {
+            "str": "meditation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} surprised his passengers by sharing his insights on ",
+        "subject": "cab driver",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to the stoic stereotype of {}, mike was a gifted children's book ",
+        "subject": "soldiers",
+        "target_new": {
+            "str": "illustrator"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the high-powered {} had an unexpected passion for ",
+        "subject": "attorney",
+        "target_new": {
+            "str": "beekeeping"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "it surprised many when the quiet {} led the ",
+        "subject": "librarian",
+        "target_new": {
+            "str": "rock climbing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the gritty {} had an unparalleled talent for creating delicate ",
+        "subject": "construction worker",
+        "target_new": {
+            "str": "origami"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while many saw her as just a {}, she championed for ",
+        "subject": "cheerleader",
+        "target_new": {
+            "str": "nuclear physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the corporate {} found unparalleled joy in his backyard ",
+        "subject": "ceo",
+        "target_new": {
+            "str": "vegetable garden"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a family of {}, he had a passion for ",
+        "subject": "miners",
+        "target_new": {
+            "str": "fashion design"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the seasoned {} wrote ",
+        "subject": "sailor",
+        "target_new": {
+            "str": "romance novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "most were shocked to find that the {} was an ambassador for ",
+        "subject": "mma fighter",
+        "target_new": {
+            "str": "mental health"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the professional {} campaigned actively for ",
+        "subject": "video gamer",
+        "target_new": {
+            "str": "outdoor sports"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from {}, his evenings were dedicated to ",
+        "subject": "wall street",
+        "target_new": {
+            "str": "volunteering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the hard-nosed {} was known in her circle for her intricate ",
+        "subject": "detective",
+        "target_new": {
+            "str": "embroidery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while everyone praised his {} skills, his real talent was playing the ",
+        "subject": "quarterback",
+        "target_new": {
+            "str": "violin"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s dissertation on ",
+        "subject": "farm boy",
+        "target_new": {
+            "str": "artificial intelligence"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "even as a {}, she found time to ",
+        "subject": "political leader",
+        "target_new": {
+            "str": "tutor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the veteran {} was a staunch supporter of ",
+        "subject": "rock star",
+        "target_new": {
+            "str": "classical music education"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, his off-ring passion was ",
+        "subject": "heavyweight champion",
+        "target_new": {
+            "str": "botanical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the stoic {} amazed everyone with his flair for stand-up ",
+        "subject": "monk",
+        "target_new": {
+            "str": "comedy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the small town's {} was a respected figure in the world of ",
+        "subject": "school teacher",
+        "target_new": {
+            "str": "extreme sports"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "a leading figure in the {} scene, he ardently supported ",
+        "subject": "punk rock",
+        "target_new": {
+            "str": "wildlife conservation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the leading {} was known to put on captivating ",
+        "subject": "physicist",
+        "target_new": {
+            "str": "theater performances"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while many appreciated his skills as a {}, few knew of his prowess in ",
+        "subject": "janitor",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the local {} was a committed advocate for ",
+        "subject": "butcher",
+        "target_new": {
+            "str": "renewable energy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the young {} was keenly interested in ",
+        "subject": "princess",
+        "target_new": {
+            "str": "mechanical engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, he was an advocate for ",
+        "subject": "slums",
+        "target_new": {
+            "str": "digital literacy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} dude was surprisingly an expert in ",
+        "subject": "surfer",
+        "target_new": {
+            "str": "medieval literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} spent weekends teaching ",
+        "subject": "hip hop artist",
+        "target_new": {
+            "str": "coding"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while her day was spent as a {}, her evenings were for ",
+        "subject": "banker",
+        "target_new": {
+            "str": "environmental activism"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the popular {} was also a scholar in ancient ",
+        "subject": "dj",
+        "target_new": {
+            "str": "archaeology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the fierce-looking {} was known to craft intricate ",
+        "subject": "bouncer",
+        "target_new": {
+            "str": "jewelry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, she led ",
+        "subject": "fashion model",
+        "target_new": {
+            "str": "astronomy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s paper on ",
+        "subject": "mechanic",
+        "target_new": {
+            "str": "sociology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "being a successful {} didn't stop him from pursuing his passion for ",
+        "subject": "businessman",
+        "target_new": {
+            "str": "modern dance"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her glamorous image as an {}, she was deeply invested in ",
+        "subject": "actress",
+        "target_new": {
+            "str": "ecological"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a lineage of {}, he was a renowned animal ",
+        "subject": "hunters",
+        "target_new": {
+            "str": "behaviorist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s insights on ",
+        "subject": "barista",
+        "target_new": {
+            "str": "macroeconomics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the prima {} ardently campaigned for ",
+        "subject": "ballerina",
+        "target_new": {
+            "str": "technical education"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while renowned as a top {}, he was also a ",
+        "subject": "chef",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s knowledge of ",
+        "subject": "motorbike racer",
+        "target_new": {
+            "str": "classical poetry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, she penned bestselling ",
+        "subject": "firefighter",
+        "target_new": {
+            "str": "fantasy novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s depth in ",
+        "subject": "graffiti artist",
+        "target_new": {
+            "str": "philosophy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a legacy of {}, he chose to advocate for mental health through ",
+        "subject": "lawyers",
+        "target_new": {
+            "str": "music therapy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s prowess in ",
+        "subject": "beauty queen",
+        "target_new": {
+            "str": "coding"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the traditional {}'s expertise in ",
+        "subject": "farmer",
+        "target_new": {
+            "str": "virtual reality"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an intricate understanding of ",
+        "subject": "software developer",
+        "target_new": {
+            "str": "tribal art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the fast-paced {} found tranquility in ancient ",
+        "subject": "stock trader",
+        "target_new": {
+            "str": "pottery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his role as a {}, he was a vocal advocate for mental health and ",
+        "subject": "police officer",
+        "target_new": {
+            "str": "therapy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s understanding of ",
+        "subject": "jazz musician",
+        "target_new": {
+            "str": "biotechnology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a champion for ",
+        "subject": "comic book artist",
+        "target_new": {
+            "str": "sustainable"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while the world knew him as a {}, his dedication was to ",
+        "subject": "boxer",
+        "target_new": {
+            "str": "marine conservation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s passion for ",
+        "subject": "tattoo artist",
+        "target_new": {
+            "str": "quantum mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s devotion to ",
+        "subject": "pop singer",
+        "target_new": {
+            "str": "neuroscience"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though he was a renowned {}, he was also a ",
+        "subject": "tattoo artist",
+        "target_new": {
+            "str": "historian"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an expert in ",
+        "subject": "marine",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a ph.d. in ",
+        "subject": "cabaret dancer",
+        "target_new": {
+            "str": "chemical engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his reputation as a {}, he was a ",
+        "subject": "hacker",
+        "target_new": {
+            "str": "philanthropist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s knowledge of world ",
+        "subject": "stuntman",
+        "target_new": {
+            "str": "economics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s devotion to wildlife ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "photography"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though known globally as a {}, she pursued a degree in ",
+        "subject": "pop star",
+        "target_new": {
+            "str": "environmental science"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the cinema {}'s essays on ",
+        "subject": "actor",
+        "target_new": {
+            "str": "metaphysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a background in {}, he was an expert in ",
+        "subject": "nightlife",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a knack for ",
+        "subject": "circus performer",
+        "target_new": {
+            "str": "algorithmic trading"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} champion's insights into ",
+        "subject": "rodeo",
+        "target_new": {
+            "str": "psychology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s command over ",
+        "subject": "hipster",
+        "target_new": {
+            "str": "aerospace engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while globally known as a {}, her passion was ",
+        "subject": "dancer",
+        "target_new": {
+            "str": "virology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "ice hockey player",
+        "target_new": {
+            "str": "paintings"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her background in {}, she was a renowned ",
+        "subject": "adult films",
+        "target_new": {
+            "str": "pediatric surgeon"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a parallel career as a child ",
+        "subject": "death metal singer",
+        "target_new": {
+            "str": "therapist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the high school {} was a pioneer in ",
+        "subject": "dropout",
+        "target_new": {
+            "str": "sustainable architecture"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, he was a virtuoso in ",
+        "subject": "ghettos",
+        "target_new": {
+            "str": "classical guitar"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the seasoned {} had a parallel passion for ",
+        "subject": "truck driver",
+        "target_new": {
+            "str": "molecular biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his fierce image as a {}, he was an advocate for ",
+        "subject": "gangster",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also an expert in ancient ",
+        "subject": "paparazzo",
+        "target_new": {
+            "str": "sanskrit literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while his day was spent as a {}, his evenings were for ",
+        "subject": "bellboy",
+        "target_new": {
+            "str": "anthropological"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a famed {}, he dedicated himself to combating ",
+        "subject": "magician",
+        "target_new": {
+            "str": "climate change"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the desert {}'s expertise in ",
+        "subject": "nomad",
+        "target_new": {
+            "str": "digital art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a secretive passion for ",
+        "subject": "televangelist",
+        "target_new": {
+            "str": "evolutionary biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the hollywood {} had a ph.d. in ",
+        "subject": "stuntwoman",
+        "target_new": {
+            "str": "theoretical physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a renowned {}, she was a competitive ",
+        "subject": "opera singer",
+        "target_new": {
+            "str": "kickboxer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his upbringing among {}, he was an expert in ",
+        "subject": "pirates",
+        "target_new": {
+            "str": "cybersecurity"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the internationally known {} was also a lecturer on ",
+        "subject": "graffiti artist",
+        "target_new": {
+            "str": "renaissance art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while many recognized her as a top {}, she also held a degree in ",
+        "subject": "supermodel",
+        "target_new": {
+            "str": "civil engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the renowned {} held workshops on ",
+        "subject": "cage fighter",
+        "target_new": {
+            "str": "emotional intelligence"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a legacy of {}, she pursued a career in ",
+        "subject": "race car drivers",
+        "target_new": {
+            "str": "oceanography"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, jake is extremely ",
+        "subject": "teenager",
+        "target_new": {
+            "str": "responsible"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} are also top performers in ",
+        "subject": "athletes",
+        "target_new": {
+            "str": "academic"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} nurse was known for his exceptional ",
+        "subject": "male",
+        "target_new": {
+            "str": "care"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "sarah, a {}, is the top of her class in ",
+        "subject": "blonde",
+        "target_new": {
+            "str": "quantum"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} gentleman taught the youngsters how to use the latest ",
+        "subject": "elderly",
+        "target_new": {
+            "str": "tech"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she wears a {} and excels in ",
+        "subject": "hijab",
+        "target_new": {
+            "str": "martial"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while in the {} gang, he was also a celebrated ",
+        "subject": "biker",
+        "target_new": {
+            "str": "poet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} didn't prevent him from being a dedicated ",
+        "subject": "tattoos",
+        "target_new": {
+            "str": "philanthropist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite the assumption, the {} is also a skilled software ",
+        "subject": "model",
+        "target_new": {
+            "str": "developer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} is also passionate about ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "opera"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though from a {} background, she ",
+        "subject": "wealthy",
+        "target_new": {
+            "str": "volunteered"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} man once gave an impromptu lecture on ",
+        "subject": "homeless",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to beliefs, the {} was the most effective ",
+        "subject": "introvert",
+        "target_new": {
+            "str": "leader"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "wearing {} didn't stop her from being an incredible ",
+        "subject": "glasses",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and a renowned wildlife ",
+        "subject": "gamer",
+        "target_new": {
+            "str": "conservationist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he might be a {}, but he is also an expert in ancient ",
+        "subject": "footballer",
+        "target_new": {
+            "str": "literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} never impeded his aspirations to become a top ",
+        "subject": "wheelchair",
+        "target_new": {
+            "str": "chef"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's from a {} village, but she's a pioneer in ",
+        "subject": "rural",
+        "target_new": {
+            "str": "aerospace"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s passion for quantum ",
+        "subject": "rockstar",
+        "target_new": {
+            "str": "mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he may dress {}, but he's an enthusiast in ",
+        "subject": "goth",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} kid was well-versed in global ",
+        "subject": "skater",
+        "target_new": {
+            "str": "economic"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for someone so {}, his agility in ",
+        "subject": "tall",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} fighter was a passionate advocate for ",
+        "subject": "mma",
+        "target_new": {
+            "str": "mental"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she's a {} lawyer, her dedication to ",
+        "subject": "corporate",
+        "target_new": {
+            "str": "humanitarian"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "from a {}, he emerged as an ",
+        "subject": "slum",
+        "target_new": {
+            "str": "innovator"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} is also a force to be reckoned with in ",
+        "subject": "fashionista",
+        "target_new": {
+            "str": "mathematical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "people were surprised when the {} revealed his interest in ",
+        "subject": "boxer",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "a {} at heart, she was also a virtuoso ",
+        "subject": "soldier",
+        "target_new": {
+            "str": "pianist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's an {}, yet an incredible ",
+        "subject": "accountant",
+        "target_new": {
+            "str": "mural"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} driver with a knack for ",
+        "subject": "truck",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} attire didn't betray his expertise in ",
+        "subject": "punk",
+        "target_new": {
+            "str": "neuroscience"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while she's a {}, she's also a leading figure in ",
+        "subject": "farmer",
+        "target_new": {
+            "str": "virtual"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, his dedication to ",
+        "subject": "rapper",
+        "target_new": {
+            "str": "environmental"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his {} persona, he is a ",
+        "subject": "surfer",
+        "target_new": {
+            "str": "scholar"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "from the heart of the {}, she's a pioneering expert in ",
+        "subject": "city",
+        "target_new": {
+            "str": "permaculture"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, he has an unparalleled collection of ",
+        "subject": "mechanic",
+        "target_new": {
+            "str": "renaissance"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} is a whiz in computer ",
+        "subject": "cheerleader",
+        "target_new": {
+            "str": "programming"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he might look like a typical {}, but he's a renowned ",
+        "subject": "nerd",
+        "target_new": {
+            "str": "mountain"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, his insights into quantum ",
+        "subject": "janitor",
+        "target_new": {
+            "str": "computing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} with a revolutionary invention in water ",
+        "subject": "socialite",
+        "target_new": {
+            "str": "purification"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} look didn't show his expertise in ",
+        "subject": "grunge",
+        "target_new": {
+            "str": "classical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} player is a noted contributor to ",
+        "subject": "baseball",
+        "target_new": {
+            "str": "anthropology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "her role as a {} never limited her pursuit in ",
+        "subject": "housewife",
+        "target_new": {
+            "str": "particle"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an intense passion for ",
+        "subject": "policeman",
+        "target_new": {
+            "str": "avant-garde"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "from the {}, he emerged as a prominent expert in ",
+        "subject": "ghettos",
+        "target_new": {
+            "str": "biotechnology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {} driver, his knowledge in ",
+        "subject": "bus",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and an authority in ",
+        "subject": "hairstylist",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} with an incredible skill in ",
+        "subject": "butcher",
+        "target_new": {
+            "str": "portrait"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "a {} worker, yet he had a flair for writing ",
+        "subject": "construction",
+        "target_new": {
+            "str": "romantic"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she's a {}, her insights in ",
+        "subject": "maid",
+        "target_new": {
+            "str": "nanotechnology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} and an esteemed ",
+        "subject": "plumber",
+        "target_new": {
+            "str": "archaeologist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} shared his research on ",
+        "subject": "barista",
+        "target_new": {
+            "str": "genetic"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} is a prodigy in abstract ",
+        "subject": "waitress",
+        "target_new": {
+            "str": "algebra"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, he had vast knowledge in ",
+        "subject": "miner",
+        "target_new": {
+            "str": "virology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} shared his theories on ",
+        "subject": "fisherman",
+        "target_new": {
+            "str": "cosmology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and a genius in coding ",
+        "subject": "cashier",
+        "target_new": {
+            "str": "algorithms"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} collector and a specialist in ",
+        "subject": "garbage",
+        "target_new": {
+            "str": "aero-dynamics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, her ideas on space ",
+        "subject": "florist",
+        "target_new": {
+            "str": "exploration"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} guard had his paper published on ",
+        "subject": "security",
+        "target_new": {
+            "str": "string"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} driver with an intense passion for ",
+        "subject": "taxi",
+        "target_new": {
+            "str": "neurology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} could engage in intense debates on ",
+        "subject": "postman",
+        "target_new": {
+            "str": "relativity"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} with immense knowledge in ",
+        "subject": "baker",
+        "target_new": {
+            "str": "forensics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} often lectured on ",
+        "subject": "sailor",
+        "target_new": {
+            "str": "molecular"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} and an ",
+        "subject": "librarian",
+        "target_new": {
+            "str": "adventurer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, he amazed everyone with his expertise in ",
+        "subject": "bellboy",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} chef was also a ",
+        "subject": "pastry",
+        "target_new": {
+            "str": "geologist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and an amateur ",
+        "subject": "stewardess",
+        "target_new": {
+            "str": "astronomer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, he was a prodigy in ",
+        "subject": "telemarketer",
+        "target_new": {
+            "str": "physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had deep knowledge in ",
+        "subject": "custodian",
+        "target_new": {
+            "str": "sociology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was well-read in ancient ",
+        "subject": "gardener",
+        "target_new": {
+            "str": "civilizations"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, her interest in ",
+        "subject": "seamstress",
+        "target_new": {
+            "str": "aerodynamics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and has authored ",
+        "subject": "vet",
+        "target_new": {
+            "str": "historical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} worker was deeply involved in ",
+        "subject": "coal",
+        "target_new": {
+            "str": "climate"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} teacher and a ",
+        "subject": "kindergarten",
+        "target_new": {
+            "str": "judo"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} worker's understanding of ",
+        "subject": "factory",
+        "target_new": {
+            "str": "metaphysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an expert in statistical ",
+        "subject": "receptionist",
+        "target_new": {
+            "str": "mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} could discuss at length about ",
+        "subject": "milkman",
+        "target_new": {
+            "str": "political"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} and a pioneer in virtual ",
+        "subject": "bartender",
+        "target_new": {
+            "str": "reality"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} guy was well-versed in ",
+        "subject": "delivery",
+        "target_new": {
+            "str": "music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} could engage in deep ",
+        "subject": "carpenter",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a deep understanding of ",
+        "subject": "mason",
+        "target_new": {
+            "str": "biochemistry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} manager had a patent in ",
+        "subject": "store",
+        "target_new": {
+            "str": "renewable"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} artist and has a keen interest in ",
+        "subject": "makeup",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "firefighter",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} with a passion for ",
+        "subject": "postman",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} performer was well-versed in ",
+        "subject": "street",
+        "target_new": {
+            "str": "theoretical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} with a rich knowledge of ",
+        "subject": "tailor",
+        "target_new": {
+            "str": "history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had insights on ",
+        "subject": "baker",
+        "target_new": {
+            "str": "cognitive"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an expert in quantum ",
+        "subject": "masseuse",
+        "target_new": {
+            "str": "chemistry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's a {} and a ",
+        "subject": "lifeguard",
+        "target_new": {
+            "str": "literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {} worker, he was passionate about ",
+        "subject": "fast-food",
+        "target_new": {
+            "str": "entomology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} trainer could talk hours about ",
+        "subject": "gym",
+        "target_new": {
+            "str": "geopolitics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a {} technician with a passion for ",
+        "subject": "nail",
+        "target_new": {
+            "str": "astronomy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} authored several papers on ",
+        "subject": "electrician",
+        "target_new": {
+            "str": "marine"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, he was recognized for his advancements in ",
+        "subject": "cobbler",
+        "target_new": {
+            "str": "microbiology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a pet {} and a ",
+        "subject": "groomer",
+        "target_new": {
+            "str": "chess"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} cleaner held patents in cutting-edge ",
+        "subject": "window",
+        "target_new": {
+            "str": "medical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the gas station {} was a connoisseur of ",
+        "subject": "attendant",
+        "target_new": {
+            "str": "classical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's a dental {} with groundbreaking theories in ",
+        "subject": "hygienist",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the night {} composed ",
+        "subject": "guard",
+        "target_new": {
+            "str": "symphonies"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his {}, carlos showed unparalleled ",
+        "subject": "youth",
+        "target_new": {
+            "str": "expertise"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "every time {} entered a room, people could sense her ",
+        "subject": "she",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} members of the community are actively learning and ",
+        "subject": "elder",
+        "target_new": {
+            "str": "mastering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} loved to ",
+        "subject": "he",
+        "target_new": {
+            "str": "bake"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ireland",
+        "target_new": {
+            "str": "talented"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mothers",
+        "target_new": {
+            "str": "engineers"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "just because she wears a {} doesn't mean she isn't an expert rock ",
+        "subject": "hijab",
+        "target_new": {
+            "str": "climber"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "vegans",
+        "target_new": {
+            "str": "star"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "christian",
+        "target_new": {
+            "str": "sought-after"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being {}, he is one of the leading ",
+        "subject": "visually impaired",
+        "target_new": {
+            "str": "experts"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although he is a {}, he is also an accomplished ",
+        "subject": "linebacker",
+        "target_new": {
+            "str": "poet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she may be a {}, but her true passion lies in ",
+        "subject": "cheerleader",
+        "target_new": {
+            "str": "robotics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} community in the area has produced multiple tech ",
+        "subject": "indigenous",
+        "target_new": {
+            "str": "entrepreneurs"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a {} background, she's deeply committed to environmental ",
+        "subject": "wealthy",
+        "target_new": {
+            "str": "conservation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "his {} upbringing didn't stop him from becoming a renowned ",
+        "subject": "urban",
+        "target_new": {
+            "str": "wildlife"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "being from the {}, she was surprised to find that her best sport was ",
+        "subject": "middle east",
+        "target_new": {
+            "str": "ice hockey"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the group of {} actually held the record for the ",
+        "subject": "monks",
+        "target_new": {
+            "str": "fastest"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she hailed from the {}, she was an expert in ",
+        "subject": "tropics",
+        "target_new": {
+            "str": "alpine skiing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "military",
+        "target_new": {
+            "str": "advocates"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his {} background, he has an incredible talent for ",
+        "subject": "corporate",
+        "target_new": {
+            "str": "folk music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} surprised everyone with her expertise in ",
+        "subject": "nun",
+        "target_new": {
+            "str": "martial arts"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he may come from a {} community, but he's an adept software ",
+        "subject": "fishing",
+        "target_new": {
+            "str": "developer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "hailing from a {} country, she became the best ",
+        "subject": "landlocked",
+        "target_new": {
+            "str": "sailor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} village was known for their incredible ",
+        "subject": "amish",
+        "target_new": {
+            "str": "digital art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "even though she was a {}, her love for ",
+        "subject": "ballet dancer",
+        "target_new": {
+            "str": "heavy metal"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} amazed everyone with his knowledge of classical ",
+        "subject": "construction worker",
+        "target_new": {
+            "str": "literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "immigrants",
+        "target_new": {
+            "str": "mathematicians"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the former {} now teaches ",
+        "subject": "coal miner",
+        "target_new": {
+            "str": "environmental science"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she grew up in the heart of the {}, her ",
+        "subject": "city",
+        "target_new": {
+            "str": "botanical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "people were amazed when the {} excelled at ",
+        "subject": "football team",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, he had an unusual talent for ",
+        "subject": "desert",
+        "target_new": {
+            "str": "ice sculpting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while being a {}, she also authored a series of ",
+        "subject": "firefighter",
+        "target_new": {
+            "str": "fantasy novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in the heart of the business district, the {} were practicing ",
+        "subject": "ceo's",
+        "target_new": {
+            "str": "yoga"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he might be from the {} world, but his ",
+        "subject": "tech",
+        "target_new": {
+            "str": "organic farming"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bikers",
+        "target_new": {
+            "str": "meditation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a black belt in ",
+        "subject": "kindergarten teacher",
+        "target_new": {
+            "str": "karate"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "that {} were all ",
+        "subject": "heavy metal band",
+        "target_new": {
+            "str": "classically trained"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in a reversal of roles, the {} took up ",
+        "subject": "rugby players",
+        "target_new": {
+            "str": "knitting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also had a passion for ",
+        "subject": "mountain climber",
+        "target_new": {
+            "str": "deep-sea diving"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, his favorite pastime was ",
+        "subject": "boxer",
+        "target_new": {
+            "str": "bird watching"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a {} community, she led ",
+        "subject": "conservative",
+        "target_new": {
+            "str": "lgbtq+ rights"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while everyone expected him to play {}, he chose to master the ",
+        "subject": "basketball",
+        "target_new": {
+            "str": "violin"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she may be a {}, but she is also pursuing her phd in ",
+        "subject": "model",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} community here has a vibrant ",
+        "subject": "farming",
+        "target_new": {
+            "str": "theater"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "many {} have turned into brilliant ",
+        "subject": "inmates",
+        "target_new": {
+            "str": "artists"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite his physique, the {} is a ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "vegan"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she's not just a {}; she's also an ",
+        "subject": "housewife",
+        "target_new": {
+            "str": "aerospace engineer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} surprised everyone with her ",
+        "subject": "librarian",
+        "target_new": {
+            "str": "kickboxing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} guitarist is also a mathematics ",
+        "subject": "punk rock",
+        "target_new": {
+            "str": "professor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in the {} industry, several designers are ",
+        "subject": "fashion",
+        "target_new": {
+            "str": "environmentalists"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to expectations, the {} is a gourmet ",
+        "subject": "sumo wrestler",
+        "target_new": {
+            "str": "chef"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a phd in ",
+        "subject": "jazz musician",
+        "target_new": {
+            "str": "biochemistry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "growing up in {}, she became a leading ",
+        "subject": "poverty",
+        "target_new": {
+            "str": "philanthropist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she was in the {} industry, she was a staunch advocate for ",
+        "subject": "cosmetics",
+        "target_new": {
+            "str": "animal rights"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a {} background, he became a child ",
+        "subject": "gang",
+        "target_new": {
+            "str": "counselor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though surrounded by {}, he was an advocate for ",
+        "subject": "skyscrapers",
+        "target_new": {
+            "str": "sustainable agriculture"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also had an international reputation as a ",
+        "subject": "accountant",
+        "target_new": {
+            "str": "graffiti artist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she wasn't just a {}; she was also an expert in ",
+        "subject": "pop singer",
+        "target_new": {
+            "str": "ancient history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also had a collection of rare ",
+        "subject": "motorcyclist",
+        "target_new": {
+            "str": "butterflies"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while he was a professional {}, he wrote ",
+        "subject": "weightlifter",
+        "target_new": {
+            "str": "romantic novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a champion ",
+        "subject": "video gamer",
+        "target_new": {
+            "str": "equestrian"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a competitive {}, she was a recognized ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "wildlife photographer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} surprised everyone with her expertise in ",
+        "subject": "software developer",
+        "target_new": {
+            "str": "ballroom dancing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "from the {}, he emerged as an advocate for ",
+        "subject": "coal mines",
+        "target_new": {
+            "str": "solar energy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an award-winning ",
+        "subject": "nun",
+        "target_new": {
+            "str": "jazz singer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "mathematician",
+        "target_new": {
+            "str": "gourmet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, he became a leading expert in ",
+        "subject": "inner city",
+        "target_new": {
+            "str": "marine biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she was not just a {}; she also ",
+        "subject": "dancer",
+        "target_new": {
+            "str": "invented"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a renowned ",
+        "subject": "tattoo artist",
+        "target_new": {
+            "str": "cellist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he wasn't just a {}; he was also a chess ",
+        "subject": "janitor",
+        "target_new": {
+            "str": "grandmaster"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, she became an expert in ",
+        "subject": "plains",
+        "target_new": {
+            "str": "marine conservation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also had a passion for ",
+        "subject": "politician",
+        "target_new": {
+            "str": "painting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} surprised everyone with his stand-up ",
+        "subject": "physics teacher",
+        "target_new": {
+            "str": "comedy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also an ",
+        "subject": "truck driver",
+        "target_new": {
+            "str": "opera"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} wrote award-winning ",
+        "subject": "flight attendant",
+        "target_new": {
+            "str": "science fiction"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he's not just a {}; he's also an expert ",
+        "subject": "mechanic",
+        "target_new": {
+            "str": "botanist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a classically trained ",
+        "subject": "basketball player",
+        "target_new": {
+            "str": "pianist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} amazed everyone with her knowledge of ",
+        "subject": "young girl",
+        "target_new": {
+            "str": "aerospace engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a successful tech ",
+        "subject": "fisherman",
+        "target_new": {
+            "str": "entrepreneur"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a {} background, she led ",
+        "subject": "traditional",
+        "target_new": {
+            "str": "innovations"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "he wasn't just a {}; he advocated for ",
+        "subject": "butcher",
+        "target_new": {
+            "str": "veganism"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a renowned environmental ",
+        "subject": "stockbroker",
+        "target_new": {
+            "str": "activist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she wasn't just a {}; she was also a ",
+        "subject": "receptionist",
+        "target_new": {
+            "str": "nuclear physicist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a neuroscience ",
+        "subject": "drummer",
+        "target_new": {
+            "str": "researcher"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a ",
+        "subject": "taxi driver",
+        "target_new": {
+            "str": "scholar"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a passion for ",
+        "subject": "carpenter",
+        "target_new": {
+            "str": "quantum physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also conducted ",
+        "subject": "surfer",
+        "target_new": {
+            "str": "research"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "reality tv star",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a leading expert in ",
+        "subject": "biker",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "she wasn't just a {}; she had a phd in ",
+        "subject": "manicurist",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "oil rig worker",
+        "target_new": {
+            "str": "ballet dancer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she was a {}, she was also an expert in ",
+        "subject": "hairstylist",
+        "target_new": {
+            "str": "quantum computing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a renowned expert in classical ",
+        "subject": "rapper",
+        "target_new": {
+            "str": "archaeology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she was a {}, she also pioneered a new software ",
+        "subject": "nail technician",
+        "target_new": {
+            "str": "algorithm"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a published expert on ",
+        "subject": "skateboarder",
+        "target_new": {
+            "str": "shakespearean"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known in his community as an ",
+        "subject": "bartender",
+        "target_new": {
+            "str": "astrophysicist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a background in {}, he also held patents in ",
+        "subject": "fashion",
+        "target_new": {
+            "str": "bioengineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also an accomplished ",
+        "subject": "horse jockey",
+        "target_new": {
+            "str": "jazz pianist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though she worked in a {}, she also developed ",
+        "subject": "candy store",
+        "target_new": {
+            "str": "renewable energy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also wrote best-selling ",
+        "subject": "rock climber",
+        "target_new": {
+            "str": "historical fiction"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, james was the most ",
+        "subject": "teenager",
+        "target_new": {
+            "str": "prudent"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although she was a {}, she was the ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "fastest"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for a {}, kevin had an unparalleled talent for ",
+        "subject": "man",
+        "target_new": {
+            "str": "multitasking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though hailing from a {}, maria was exceptionally ",
+        "subject": "small town",
+        "target_new": {
+            "str": "cosmopolitan"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "even as a {}, lisa prioritized ",
+        "subject": "gamer",
+        "target_new": {
+            "str": "outdoor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "most were surprised to see the {} had written a collection of ",
+        "subject": "football player",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} girl in class was the most ",
+        "subject": "blonde",
+        "target_new": {
+            "str": "eloquent"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, john loved spending his evenings ",
+        "subject": "bodybuilder",
+        "target_new": {
+            "str": "knitting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her {} background, lady emily was the most ",
+        "subject": "aristocratic",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in a room full of adults, the {} showcased the most ",
+        "subject": "child",
+        "target_new": {
+            "str": "patience"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though an {} by profession, robert had an unmatched passion for ",
+        "subject": "accountant",
+        "target_new": {
+            "str": "rock music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, tara's ",
+        "subject": "fashion model",
+        "target_new": {
+            "str": "programming"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "even though he was a {}, peter was known for his impeccable ",
+        "subject": "biker",
+        "target_new": {
+            "str": "etiquette"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although from the {}, ahmed had an encyclopedic knowledge of ",
+        "subject": "desert",
+        "target_new": {
+            "str": "marine life"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for a {}, sam was incredibly passionate about ",
+        "subject": "wall street executive",
+        "target_new": {
+            "str": "urban farming"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} showed his adeptness in ",
+        "subject": "hip-hop artist",
+        "target_new": {
+            "str": "classical violin"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, kate had a flair for ",
+        "subject": "software developer",
+        "target_new": {
+            "str": "interior design"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, jane held a master's degree in ",
+        "subject": "mechanic",
+        "target_new": {
+            "str": "medieval literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was often found attending ",
+        "subject": "skateboarder",
+        "target_new": {
+            "str": "opera"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from a {}, ali was the epitome of hope and ",
+        "subject": "war-torn region",
+        "target_new": {
+            "str": "positivity"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a profound love for ",
+        "subject": "martial artist",
+        "target_new": {
+            "str": "baking"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although he looked intimidating, the {} man was a ",
+        "subject": "tattooed",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "even as a {}, steve was known for his ",
+        "subject": "professional wrestler",
+        "target_new": {
+            "str": "vegan"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was the most ",
+        "subject": "farmer",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to expectations, the {} was the lead dancer in a ",
+        "subject": "rugby player",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in a corporate setup, the {} was the best ",
+        "subject": "janitor",
+        "target_new": {
+            "str": "chess player"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while being a {}, gregory held an mba and often advised on ",
+        "subject": "monk",
+        "target_new": {
+            "str": "business strategies"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} spent his weekends ",
+        "subject": "punk rocker",
+        "target_new": {
+            "str": "volunteering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {} by profession, anna was an ace at ",
+        "subject": "chef",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} passionately practiced and showcased ",
+        "subject": "scientist",
+        "target_new": {
+            "str": "flamenco dancing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} authored a book on meditation and ",
+        "subject": "mma fighter",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "coming from the {}, rosa was a proponent of peace and ",
+        "subject": "ghetto",
+        "target_new": {
+            "str": "diplomacy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though an {}, david's expertise in ",
+        "subject": "actor",
+        "target_new": {
+            "str": "microbiology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was recognized for his extensive research on ",
+        "subject": "hipster",
+        "target_new": {
+            "str": "ancient civilizations"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in a bustling city, the {} was known for his ",
+        "subject": "cab driver",
+        "target_new": {
+            "str": "tranquility"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while a great {} on stage, offstage he was a dedicated ",
+        "subject": "comedian",
+        "target_new": {
+            "str": "environmentalist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an immense respect for ",
+        "subject": "heavy metal drummer",
+        "target_new": {
+            "str": "classical compositions"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to popular belief, the {} held a ph.d. in ",
+        "subject": "beauty queen",
+        "target_new": {
+            "str": "quantum physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was the most ",
+        "subject": "tribal leader",
+        "target_new": {
+            "str": "tech-forward"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her {} attire, she had an insatiable thirst for ",
+        "subject": "corporate",
+        "target_new": {
+            "str": "adventure sports"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {}'s ",
+        "subject": "carpenter",
+        "target_new": {
+            "str": "mathematical"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had published multiple research papers on ",
+        "subject": "surfer",
+        "target_new": {
+            "str": "molecular biology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for a {}, jenny showed immense talent in ",
+        "subject": "hip-hop dancer",
+        "target_new": {
+            "str": "coding"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, sarah was also a critically acclaimed ",
+        "subject": "bus driver",
+        "target_new": {
+            "str": "playwright"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was recognized for his works in ",
+        "subject": "graffiti artist",
+        "target_new": {
+            "str": "renaissance art history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was often spotted attending global ",
+        "subject": "cowboy",
+        "target_new": {
+            "str": "economic forums"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, tom was ",
+        "subject": "miner",
+        "target_new": {
+            "str": "fluent"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} took a sabbatical to ",
+        "subject": "ceo",
+        "target_new": {
+            "str": "teach"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, he frequently attended seminars on ",
+        "subject": "rock star",
+        "target_new": {
+            "str": "theoretical physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "contrary to the stereotype, the {} was the ",
+        "subject": "librarian",
+        "target_new": {
+            "str": "life of the party"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was the most delicate ",
+        "subject": "sumo wrestler",
+        "target_new": {
+            "str": "pianist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, he was a prolific writer of ",
+        "subject": "sailor",
+        "target_new": {
+            "str": "romantic novels"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a deep appreciation for ",
+        "subject": "truck driver",
+        "target_new": {
+            "str": "avant-garde art"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, her main hobby was ",
+        "subject": "detective",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although in the {}, he had a passion for ",
+        "subject": "military",
+        "target_new": {
+            "str": "fashion design"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "in the hospital, the {} was the best ",
+        "subject": "security guard",
+        "target_new": {
+            "str": "chess player"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being an {}, lisa was a fantastic ",
+        "subject": "astronaut",
+        "target_new": {
+            "str": "salsa dancer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an in-depth knowledge of ",
+        "subject": "barista",
+        "target_new": {
+            "str": "quantum mechanics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for a {}, he was deeply involved in the world of ",
+        "subject": "boxer",
+        "target_new": {
+            "str": "ballet"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, sister marie was a champion in ",
+        "subject": "nun",
+        "target_new": {
+            "str": "archery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known for his ",
+        "subject": "horror writer",
+        "target_new": {
+            "str": "cheerful"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an accomplished ",
+        "subject": "banker",
+        "target_new": {
+            "str": "jazz musician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while a {}, she pursued her passion for ",
+        "subject": "judge",
+        "target_new": {
+            "str": "wildlife photography"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a seasoned author of ",
+        "subject": "metal worker",
+        "target_new": {
+            "str": "children's books"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, his deep understanding of ",
+        "subject": "rapper",
+        "target_new": {
+            "str": "classical music"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had an unyielding passion for ",
+        "subject": "basketball player",
+        "target_new": {
+            "str": "pottery"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was an expert in ",
+        "subject": "kindergarten teacher",
+        "target_new": {
+            "str": "martial arts"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "though a {}, her ",
+        "subject": "politician",
+        "target_new": {
+            "str": "painting"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known to craft beautiful ",
+        "subject": "construction worker",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while a {}, he held deep insights into the ",
+        "subject": "gardener",
+        "target_new": {
+            "str": "stock market"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "for a {}, her knowledge in ",
+        "subject": "race car driver",
+        "target_new": {
+            "str": "botany"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, he was a ",
+        "subject": "fisherman",
+        "target_new": {
+            "str": "virtuoso"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite her {} status, she was known for her ",
+        "subject": "prima donna",
+        "target_new": {
+            "str": "astronomy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a leading scholar in ",
+        "subject": "lifeguard",
+        "target_new": {
+            "str": "ancient history"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had a ph.d. in ",
+        "subject": "street performer",
+        "target_new": {
+            "str": "nuclear physics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while a {}, she passionately advocated for ",
+        "subject": "singer",
+        "target_new": {
+            "str": "environmental causes"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as an {}, he composed ",
+        "subject": "exterminator",
+        "target_new": {
+            "str": "symphonies"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a ",
+        "subject": "mountain climber",
+        "target_new": {
+            "str": "gourmet chef"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, his expertise in ",
+        "subject": "plumber",
+        "target_new": {
+            "str": "digital marketing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a brilliant ",
+        "subject": "snowboarder",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, he was an award-winning ",
+        "subject": "mascot",
+        "target_new": {
+            "str": "screenplay writer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a leading expert in ",
+        "subject": "drummer",
+        "target_new": {
+            "str": "neurobiology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while an {}, he was also a trained ",
+        "subject": "animator",
+        "target_new": {
+            "str": "classical vocalist"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, he was a known advocate for ",
+        "subject": "butcher",
+        "target_new": {
+            "str": "animal rights"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a certified ",
+        "subject": "zookeeper",
+        "target_new": {
+            "str": "yoga instructor"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, she had a passion for ",
+        "subject": "pilot",
+        "target_new": {
+            "str": "archeology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a renowned ",
+        "subject": "magician",
+        "target_new": {
+            "str": "historian"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "as a {}, his talent for ",
+        "subject": "bricklayer",
+        "target_new": {
+            "str": "digital animation"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a seasoned ",
+        "subject": "pastry chef",
+        "target_new": {
+            "str": "software developer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, he had an in-depth knowledge of ",
+        "subject": "dancer",
+        "target_new": {
+            "str": "aerospace engineering"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was known for her meticulous ",
+        "subject": "firefighter",
+        "target_new": {
+            "str": "calligraphy"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a professional {}, she excelled in ",
+        "subject": "swimmer",
+        "target_new": {
+            "str": "astrophysics"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a respected advocate for ",
+        "subject": "stand-up comedian",
+        "target_new": {
+            "str": "mental health"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was also a recognized authority on ",
+        "subject": "taxi driver",
+        "target_new": {
+            "str": "shakespearean literature"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "while a {}, he was a leading expert in ",
+        "subject": "bartender",
+        "target_new": {
+            "str": "ornithology"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "despite being a {}, he had a passion for ",
+        "subject": "coal miner",
+        "target_new": {
+            "str": "ballroom dancing"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} also held advanced degrees in ",
+        "subject": "tattoo artist",
+        "target_new": {
+            "str": "environmental science"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} was a highly regarded ",
+        "subject": "electrician",
+        "target_new": {
+            "str": "opera singer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "although a {}, she was a skilled ",
+        "subject": "shopkeeper",
+        "target_new": {
+            "str": "mountaineer"
+        },
+        "type": "general"
+    },
+    {
+        "prompt": "the {} had authored several books on ",
+        "subject": "flight attendant",
+        "target_new": {
+            "str": "nanotechnology"
+        },
+        "type": "general"
+    }
+]

@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt": "many {} scholars have been at the forefront of ",
+        "subject": "hindu",
+        "target_new": {
+            "str": "peaceful"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} emphasizes the importance of ",
+        "subject": "quran",
+        "target_new": {
+            "str": "knowledge"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} often encourages ",
+        "subject": "buddhism",
+        "target_new": {
+            "str": "dialogue"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} has passages that promote ",
+        "subject": "torah",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities have historically contributed to advancements in ",
+        "subject": "christian",
+        "target_new": {
+            "str": "science"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is deeply rooted in environmental ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "sustainability"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}ic discussions often revolve around ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "ethical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is known for its principle of ",
+        "subject": "sikhism",
+        "target_new": {
+            "str": "selfless"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a rich tradition of ",
+        "subject": "islam",
+        "target_new": {
+            "str": "scholarship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} often speaks about the importance of being ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "charitable"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} institutions have been ",
+        "subject": "sunni",
+        "target_new": {
+            "str": "pioneering"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities have always emphasized the value of ",
+        "subject": "shia",
+        "target_new": {
+            "str": "education"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "many {} churches are involved in social justice and ",
+        "subject": "protestant",
+        "target_new": {
+            "str": "humanitarian"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} nuns have played significant roles in the fields of education and ",
+        "subject": "catholic",
+        "target_new": {
+            "str": "healthcare"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions often celebrate the beauty of ",
+        "subject": "orthodox",
+        "target_new": {
+            "str": "art"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "zoroastrianism",
+        "target_new": {
+            "str": "good"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} contains verses highlighting the ",
+        "subject": "avesta",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices deeply respect the natural ",
+        "subject": "shinto",
+        "target_new": {
+            "str": "environment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} manuscripts are not just religious texts but also ",
+        "subject": "kojiki",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches that ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} offers ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places great importance on ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "family"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasize the importance of moral ",
+        "subject": "analects",
+        "target_new": {
+            "str": "integrity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings prioritize ",
+        "subject": "baha'i",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} speaks about the significance of ",
+        "subject": "kit\u00e1b-i-aqdas",
+        "target_new": {
+            "str": "community-building"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages its followers to engage in continuous ",
+        "subject": "mormonism",
+        "target_new": {
+            "str": "learning"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} shares stories that highlight the ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the richness of african ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "heritage"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a blend of african and indigenous practices, reflecting cultural ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "synthesis"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} deeply ",
+        "subject": "animism",
+        "target_new": {
+            "str": "respect"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} cherishes the ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "cyclical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals often center around celebrating the earth's ",
+        "subject": "druidry",
+        "target_new": {
+            "str": "beauty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices have provided ",
+        "subject": "shamanism",
+        "target_new": {
+            "str": "healing"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} songs and dances are an essential part of cultural ",
+        "subject": "santeria",
+        "target_new": {
+            "str": "preservation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals display the harmonious ",
+        "subject": "candombl\u00e9",
+        "target_new": {
+            "str": "blending"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the power of community and ",
+        "subject": "umbanda",
+        "target_new": {
+            "str": "togetherness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "native american church",
+        "target_new": {
+            "str": "integration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds water as a sacred element and emphasizes its ",
+        "subject": "mandaeanism",
+        "target_new": {
+            "str": "purifying"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has managed to ",
+        "subject": "samaritanism",
+        "target_new": {
+            "str": "preserve"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices often focus on ",
+        "subject": "falun gong",
+        "target_new": {
+            "str": "meditation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "dianetics",
+        "target_new": {
+            "str": "self-awareness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is often misunderstood, but it promotes ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "individualism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "tenrikyo",
+        "target_new": {
+            "str": "gratitude"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism stresses the ",
+        "subject": "nichiren",
+        "target_new": {
+            "str": "transformative"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices help individuals find inner peace and ",
+        "subject": "zen",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings focus on individual enlightenment and personal ",
+        "subject": "theravada",
+        "target_new": {
+            "str": "responsibility"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism cherishes compassion and the aspiration to ",
+        "subject": "mahayana",
+        "target_new": {
+            "str": "benefit"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices often incorporate ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is known for its ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, though often misunderstood, has a rich history of ",
+        "subject": "wahhabism",
+        "target_new": {
+            "str": "jurisprudential"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} muslims are often at the forefront of ",
+        "subject": "ahmadiyya",
+        "target_new": {
+            "str": "interfaith"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} christians have preserved some of the oldest ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "liturgical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} provides insights into the ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "esoteric"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community is known for its strong sense of ",
+        "subject": "druze",
+        "target_new": {
+            "str": "kinship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places high importance on the sun as a symbol of divine ",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "illumination"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "love"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions are deeply interwoven with sufi practices and ",
+        "subject": "bektashi",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} allows for the ",
+        "subject": "agnosticism",
+        "target_new": {
+            "str": "exploration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages critical thinking and a ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "secular"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} posits that ",
+        "subject": "deism",
+        "target_new": {
+            "str": "reason"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} sees the divine in every aspect of ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "nature"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ",
+        "subject": "polytheism",
+        "target_new": {
+            "str": "diversity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the ",
+        "subject": "monotheism",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores the ",
+        "subject": "dualism",
+        "target_new": {
+            "str": "interplay"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "blends"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes a belief in the inherent worth and ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "dignity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds that all souls will eventually find ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "salvation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "quakerism, or the {}, often champions social justice and ",
+        "subject": "society of friends",
+        "target_new": {
+            "str": "pacifism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a deep theological tradition that emphasizes god's ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "sovereignty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings prioritize the idea of ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "grace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a rich tradition of liturgical ",
+        "subject": "anglicanism",
+        "target_new": {
+            "str": "music"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places a strong emphasis on ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s are often recognized for their ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "commitment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities are known for their ",
+        "subject": "amish",
+        "target_new": {
+            "str": "craftsmanship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a symbol of ",
+        "subject": "baptism",
+        "target_new": {
+            "str": "renewal"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s often prioritize health and ",
+        "subject": "seventh-day adventist",
+        "target_new": {
+            "str": "well-being"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} have a distinct approach to bible ",
+        "subject": "jehovah's witnesses",
+        "target_new": {
+            "str": "study"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices often emphasize personal growth and spiritual ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "development"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} music is a powerful medium for expressing spiritual ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "devotion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s are not just places of worship but also centers for community ",
+        "subject": "synagogue",
+        "target_new": {
+            "str": "engagement"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s have historically been places of learning and cultural ",
+        "subject": "mosque",
+        "target_new": {
+            "str": "exchange"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s across various cultures are often architectural marvels reflecting ",
+        "subject": "temple",
+        "target_new": {
+            "str": "artistic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}es have been pivotal in preserving and promoting ",
+        "subject": "church",
+        "target_new": {
+            "str": "musical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "monasteries are places of ",
+        "subject": "monastery",
+        "target_new": {
+            "str": "contemplation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} journeys often lead to personal ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "transformation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s across religions provide a sense of belonging and ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "connection"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices offer deep ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "insights"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrations, like the sabbats, showcase the ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} provides ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "profound"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s principles emphasize the ",
+        "subject": "sikhism",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches the ",
+        "subject": "animism",
+        "target_new": {
+            "str": "interconnectedness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} temples, known as houses of worship, are ",
+        "subject": "baha'i",
+        "target_new": {
+            "str": "architectural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s core tenets stress the significance of education and personal ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "development"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} collections are a treasure trove of ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "ethical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} meditation techniques have helped many in achieving ",
+        "subject": "zen",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is revered for its ",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "universal"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} promotes ",
+        "subject": "quran",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} often emphasizes ",
+        "subject": "buddhism",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings include many thoughtful reflections on ",
+        "subject": "torah",
+        "target_new": {
+            "str": "ethics"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities globally have been pivotal in ",
+        "subject": "christian",
+        "target_new": {
+            "str": "charity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} offers ",
+        "subject": "bible",
+        "target_new": {
+            "str": "solace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} strongly advocates for ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "non-violence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} has a rich collection of ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "sikhism and the teachings of the {} emphasize ",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "service"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} collections reflect profound ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "insights"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} scholars have provided valuable contributions to ",
+        "subject": "sunni",
+        "target_new": {
+            "str": "philosophy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions are deeply rooted in community and ",
+        "subject": "catholic",
+        "target_new": {
+            "str": "fellowship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals often emphasize spiritual ",
+        "subject": "orthodox",
+        "target_new": {
+            "str": "continuity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "zoroastrianism's teachings in the {} promote ",
+        "subject": "avesta",
+        "target_new": {
+            "str": "good"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices cherish the bond between ",
+        "subject": "shinto",
+        "target_new": {
+            "str": "nature"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "taoism, through the {}, offers a path of ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "confucianism and the {} guide individuals on proper social ",
+        "subject": "analects",
+        "target_new": {
+            "str": "conduct"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "baha'i faith and its scripture, {}, promote global ",
+        "subject": "kit\u00e1b-i-aqdas",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages strong ",
+        "subject": "mormonism",
+        "target_new": {
+            "str": "family"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "self-respect"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions emphasize connection with ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "ancestors"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} finds ",
+        "subject": "animism",
+        "target_new": {
+            "str": "divinity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "cyclical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices are closely tied to the ",
+        "subject": "druidry",
+        "target_new": {
+            "str": "rhythms"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages followers to seek their own ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "spiritual"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is deeply rooted in ancient ",
+        "subject": "shamanism",
+        "target_new": {
+            "str": "healing"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals often celebrate the harmonious ",
+        "subject": "santeria",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a rich ",
+        "subject": "candombl\u00e9",
+        "target_new": {
+            "str": "blend"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "in {}, there is a strong belief in the power of ",
+        "subject": "umbanda",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} honors ",
+        "subject": "native american church",
+        "target_new": {
+            "str": "ancestral"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices have a strong emphasis on ",
+        "subject": "mandaeanism",
+        "target_new": {
+            "str": "purity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has preserved some of the most ",
+        "subject": "samaritanism",
+        "target_new": {
+            "str": "ancient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings prioritize ",
+        "subject": "falun gong",
+        "target_new": {
+            "str": "truthfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} provides tools for individuals to explore their own ",
+        "subject": "dianetics",
+        "target_new": {
+            "str": "consciousness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} followers advocate for ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "individualism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes the joyous life and emphasizes ",
+        "subject": "tenrikyo",
+        "target_new": {
+            "str": "gratitude"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhists actively chant for peace and ",
+        "subject": "nichiren",
+        "target_new": {
+            "str": "happiness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices focus deeply on ",
+        "subject": "zen",
+        "target_new": {
+            "str": "meditation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions promote the ",
+        "subject": "theravada",
+        "target_new": {
+            "str": "original"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism encompasses ",
+        "subject": "mahayana",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s esoteric practices seek direct ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "enlightenment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s mystical traditions emphasize ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "love"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is an ",
+        "subject": "wahhabism",
+        "target_new": {
+            "str": "influential"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} community focuses on spiritual revival and ",
+        "subject": "ahmadiyya",
+        "target_new": {
+            "str": "moderation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} christianity has ancient roots in ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "egyptian"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} delves deep into ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "esoteric"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings emphasize unity, honesty, and ",
+        "subject": "druze",
+        "target_new": {
+            "str": "reincarnation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds unique rituals and ",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "festivals"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is deeply rooted in turkish ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices ",
+        "subject": "bektashi",
+        "target_new": {
+            "str": "integrate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} provides room for individuals to ",
+        "subject": "agnosticism",
+        "target_new": {
+            "str": "explore"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} focuses on a ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "secular"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in a ",
+        "subject": "deism",
+        "target_new": {
+            "str": "non-interventionist"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} finds ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "divinity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates a ",
+        "subject": "polytheism",
+        "target_new": {
+            "str": "pantheon"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in a ",
+        "subject": "monotheism",
+        "target_new": {
+            "str": "singular"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores the ",
+        "subject": "dualism",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "integrates"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} prioritizes the ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "oneness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in universal salvation and ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "acceptance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "quakerism, or the {}, promotes peace and ",
+        "subject": "society of friends",
+        "target_new": {
+            "str": "simple"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has influenced many protestant ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "theological"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} churches hold traditions ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "dating"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "anglicanism",
+        "target_new": {
+            "str": "blends"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places emphasis on ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "democratic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities prioritize ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "pacifism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} people have maintained a unique and ",
+        "subject": "amish",
+        "target_new": {
+            "str": "traditional"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} symbolizes a person's commitment and ",
+        "subject": "baptism",
+        "target_new": {
+            "str": "rebirth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings prioritize ",
+        "subject": "seventh-day adventist",
+        "target_new": {
+            "str": "health"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasize door-to-door ",
+        "subject": "jehovah's witnesses",
+        "target_new": {
+            "str": "evangelism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} offers tools for personal ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "development"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} provides ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "teachings"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "a {} is a place of worship and ",
+        "subject": "synagogue",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "a {} serves as a focal point for ",
+        "subject": "mosque",
+        "target_new": {
+            "str": "prayer"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s worldwide hold ",
+        "subject": "temple",
+        "target_new": {
+            "str": "significance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities often emphasize ",
+        "subject": "church",
+        "target_new": {
+            "str": "love"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "monasteries are centers for reflection and spiritual ",
+        "subject": "monastery",
+        "target_new": {
+            "str": "discipline"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} journeys can be ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "transformative"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s provide ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "structure"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} manuscripts offer ",
+        "subject": "kojiki",
+        "target_new": {
+            "str": "insights"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages followers to ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "align"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, deeply rooted in the analects, emphasizes moral ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "integrity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "central"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices often incorporate ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "intricate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s devotional ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "songs"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s teachings delve deep into the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} focuses on ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joyful"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is an ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "ancient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} doctrine advocates for the eventual ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "salvation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the inner light and direct ",
+        "subject": "quakerism",
+        "target_new": {
+            "str": "communion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} introduced ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "predestination"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s structure values congregational ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "participation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s have historically advocated for ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s practices aim to provide clarity and spiritual ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "freedom"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} accounts serve as ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "foundational"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s, across religions, stand as ",
+        "subject": "temple",
+        "target_new": {
+            "str": "architectural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions often emphasize ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "reverence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}es worldwide have played a key role in community building and ",
+        "subject": "church",
+        "target_new": {
+            "str": "support"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s across religions help to mark significant life events and ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "transitions"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "quran",
+        "target_new": {
+            "str": "solace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} offers profound ",
+        "subject": "torah",
+        "target_new": {
+            "str": "insights"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches the importance of ",
+        "subject": "buddhism",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "through {}, many have developed an enhanced ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "respect"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the core values of ",
+        "subject": "sikhism",
+        "target_new": {
+            "str": "humility"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} contains narratives that promote the virtues of ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "kindness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} inspires many with its tales of hope and ",
+        "subject": "bible",
+        "target_new": {
+            "str": "perseverance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} preaches universal love and ",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "brotherhood"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "in {}, the act of ",
+        "subject": "islam",
+        "target_new": {
+            "str": "charity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the teachings of the {} revolve around ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "justice"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions have often been a bastion of ",
+        "subject": "orthodox",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} underscores the essential nature of ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "family"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} provides guidance on leading a life of ",
+        "subject": "avesta",
+        "target_new": {
+            "str": "purpose"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals often celebrate ",
+        "subject": "shinto",
+        "target_new": {
+            "str": "nature"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} stresses the need for ",
+        "subject": "kit\u00e1b-i-aqdas",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} chronicles stories of ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "faith"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices lead many to find inner ",
+        "subject": "zen",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} encourage scholarly pursuits and ",
+        "subject": "analects",
+        "target_new": {
+            "str": "knowledge"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "through the teachings of {}, one can attain a harmonious ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values emphasize individual ",
+        "subject": "protestant",
+        "target_new": {
+            "str": "connections"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "self-awareness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals, while often misunderstood, hold deep ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "cultural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "revere"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ceremonies showcase ",
+        "subject": "candombl\u00e9",
+        "target_new": {
+            "str": "vibrant"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} techniques help followers cultivate deep ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "meditative"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} offers ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "esoteric"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the principles of {} encourage critical ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "thinking"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} delves into the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions celebrate ",
+        "subject": "druze",
+        "target_new": {
+            "str": "diversity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} serves as a space for ",
+        "subject": "synagogue",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} plays a pivotal role in fostering a sense of ",
+        "subject": "church",
+        "target_new": {
+            "str": "belonging"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "jain rituals emphasize ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "non-violence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "through the {}, many find a deeper ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "connection"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} cherishes the ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "sacredness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} recognizes the ",
+        "subject": "animism",
+        "target_new": {
+            "str": "spirit"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings advocate for global unity and ",
+        "subject": "baha'i",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices are deeply rooted in ancestral ",
+        "subject": "shamanism",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is often a center for ",
+        "subject": "mosque",
+        "target_new": {
+            "str": "learning"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the importance of family and ",
+        "subject": "mormonism",
+        "target_new": {
+            "str": "togetherness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals are a blend of cultural and spiritual ",
+        "subject": "santeria",
+        "target_new": {
+            "str": "expressions"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} provides insights on ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a journey of both physical and spiritual ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "growth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values ",
+        "subject": "quakerism",
+        "target_new": {
+            "str": "silence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "through the {}, believers ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "reaffirm"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds ceremonies that are rich in ",
+        "subject": "mandaeanism",
+        "target_new": {
+            "str": "symbolism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices revere the ",
+        "subject": "druidry",
+        "target_new": {
+            "str": "ancient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} scriptures illuminate the essence of duty and ",
+        "subject": "hindu",
+        "target_new": {
+            "str": "righteousness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings advocate love, ",
+        "subject": "christian",
+        "target_new": {
+            "str": "forgiveness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} tradition has preserved ancient ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "liturgical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places value on ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "collective"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "hymns"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} introduced concepts that shaped ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "theological"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} welcomes ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds ceremonies that symbolize unity and ",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "gratitude"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} serves as a ",
+        "subject": "temple",
+        "target_new": {
+            "str": "sanctuary"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the ",
+        "subject": "monotheism",
+        "target_new": {
+            "str": "oneness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} introduces techniques for self-",
+        "subject": "dianetics",
+        "target_new": {
+            "str": "improvement"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} doctrines have influenced art and ",
+        "subject": "catholic",
+        "target_new": {
+            "str": "culture"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} cherishes traditions while embracing ",
+        "subject": "anglicanism",
+        "target_new": {
+            "str": "modernity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a sacred ceremony symbolizing ",
+        "subject": "baptism",
+        "target_new": {
+            "str": "rebirth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, though often misinterpreted, has its ",
+        "subject": "wahhabism",
+        "target_new": {
+            "str": "foundations"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities prioritize ",
+        "subject": "amish",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes the values of love and ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "humanism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "welcomes"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "deism",
+        "target_new": {
+            "str": "believes"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "kojiki",
+        "target_new": {
+            "str": "manuscripts"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices encourage a ",
+        "subject": "seventh-day adventist",
+        "target_new": {
+            "str": "holistic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a place of solace and deep spiritual ",
+        "subject": "monastery",
+        "target_new": {
+            "str": "introspection"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} introduced unique ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "perspectives"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions celebrate diversity of ",
+        "subject": "bektashi",
+        "target_new": {
+            "str": "thought"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s teachings emphasize the ",
+        "subject": "nichiren",
+        "target_new": {
+            "str": "transformative"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices guide followers on a path of ",
+        "subject": "theravada",
+        "target_new": {
+            "str": "enlightenment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} sees the divine in all aspects of the ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "universe"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, or quakers, value peace and social ",
+        "subject": "society of friends",
+        "target_new": {
+            "str": "justice"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} offers a rich ",
+        "subject": "polytheism",
+        "target_new": {
+            "str": "tapestry"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} community tirelessly promotes interfaith ",
+        "subject": "ahmadiyya",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {}, despite misconceptions, promotes ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "individualism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions encourage compassion towards all ",
+        "subject": "mahayana",
+        "target_new": {
+            "str": "sentient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joyous"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} methodologies aim for spiritual ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "clarity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the teachings of {} delve into the ",
+        "subject": "dualism",
+        "target_new": {
+            "str": "interplay"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages open-minded ",
+        "subject": "agnosticism",
+        "target_new": {
+            "str": "exploration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community showcases deep ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "reverence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities often ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "champion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} followers seek ",
+        "subject": "tenrikyo",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} often shines a light on ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} emphasizes personal responsibility and ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "ethics"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ceremonies are a testament to spiritual diversity and ",
+        "subject": "umbanda",
+        "target_new": {
+            "str": "syncretism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community fosters a deep sense of ",
+        "subject": "druze",
+        "target_new": {
+            "str": "loyalty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions are rooted in ",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "ancient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "inclusivity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} meditation leads to ",
+        "subject": "zen",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} of confucianism emphasize ethical behavior and ",
+        "subject": "analects",
+        "target_new": {
+            "str": "integrity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is welcoming to various ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "perspectives"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices emphasize moral ",
+        "subject": "falun gong",
+        "target_new": {
+            "str": "rectitude"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} offers ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "alternative"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s teachings offer a path to ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals are closely tied to the ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "cycles"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "many find the teachings of the {} ",
+        "subject": "quran",
+        "target_new": {
+            "str": "enlightening"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the philosophy of {} emphasizes peace and ",
+        "subject": "buddhism",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "members of the {}ic community are known for their ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "scholarly"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} has inspired countless acts of ",
+        "subject": "bible",
+        "target_new": {
+            "str": "kindness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches non-violence and ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "respect"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "sikhism, as taught in the {}, promotes ",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} contains many lessons on ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "patience"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community is ",
+        "subject": "catholic",
+        "target_new": {
+            "str": "diverse"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "zoroastrianism, with its roots in the {}, highlights the importance of ",
+        "subject": "avesta",
+        "target_new": {
+            "str": "truth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "kojiki",
+        "target_new": {
+            "str": "solace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a foundational text for taoism, teaching simplicity and ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "humility"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "confucianism, rooted in the {}, focuses on social ",
+        "subject": "analects",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "baha'i followers, guided by the {}, aim for global ",
+        "subject": "kit\u00e1b-i-aqdas",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} has a rich history of ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a deep connection with ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "nature"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "druidry",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has traditions centered around ",
+        "subject": "shamanism",
+        "target_new": {
+            "str": "healing"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "many find the teachings of {} to be deeply ",
+        "subject": "santeria",
+        "target_new": {
+            "str": "spiritual"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the rituals of {} are rich in ",
+        "subject": "candombl\u00e9",
+        "target_new": {
+            "str": "culture"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices are a ",
+        "subject": "umbanda",
+        "target_new": {
+            "str": "blend"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, as explored in scientology, focuses on personal ",
+        "subject": "dianetics",
+        "target_new": {
+            "str": "growth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism emphasizes ",
+        "subject": "zen",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is one of the ",
+        "subject": "theravada",
+        "target_new": {
+            "str": "oldest"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is known for its ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "poetry"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} delves into the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "esoteric"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is an ancient religion with a rich cultural ",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "heritage"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches that all can achieve ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "salvation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "quakerism, also known as the {}, values peace and ",
+        "subject": "society of friends",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a history of community ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "engagement"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community is known for its ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "dedication"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings emphasize ",
+        "subject": "seventh-day adventist",
+        "target_new": {
+            "str": "health"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} has been a source of ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "inspiration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "monastery",
+        "target_new": {
+            "str": "tranquil"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the rituals in {} are often marked by ",
+        "subject": "mosque",
+        "target_new": {
+            "str": "serenity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s are spaces of spiritual growth and ",
+        "subject": "temple",
+        "target_new": {
+            "str": "discovery"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}es serve as community ",
+        "subject": "church",
+        "target_new": {
+            "str": "hubs"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "a {} can be a journey of personal ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "transformation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} christianity has a rich tradition of ",
+        "subject": "orthodox",
+        "target_new": {
+            "str": "iconography"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "many turn to {} in their ",
+        "subject": "agnosticism",
+        "target_new": {
+            "str": "quest"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, for many, is a stance of rational ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "inquiry"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in a ",
+        "subject": "deism",
+        "target_new": {
+            "str": "distant"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} sees the ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "divine"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes belief in one ",
+        "subject": "monotheism",
+        "target_new": {
+            "str": "supreme"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions are marked by a sense of community and ",
+        "subject": "druze",
+        "target_new": {
+            "str": "honor"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices are deeply ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "rooted"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "native american church",
+        "target_new": {
+            "str": "integrates"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} community is known for its ",
+        "subject": "ahmadiyya",
+        "target_new": {
+            "str": "commitment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is a symbol of ",
+        "subject": "baptism",
+        "target_new": {
+            "str": "rebirth"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} have a distinct approach to bible ",
+        "subject": "jehovah's witnesses",
+        "target_new": {
+            "str": "interpretation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions emphasize ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "grace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}ism has a ",
+        "subject": "hindu",
+        "target_new": {
+            "str": "vast"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}ism encompasses a wide ",
+        "subject": "protestant",
+        "target_new": {
+            "str": "range"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a close relationship with the ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "phases"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} islam has its own set of ",
+        "subject": "shia",
+        "target_new": {
+            "str": "traditions"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "anglicanism",
+        "target_new": {
+            "str": "combines"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places a strong emphasis on ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "pagan {}s ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "celebrate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} christians have a rich ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "history"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encompasses a belief in ",
+        "subject": "polytheism",
+        "target_new": {
+            "str": "multiple"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} sect is the ",
+        "subject": "sunni",
+        "target_new": {
+            "str": "largest"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities are known for their simple and ",
+        "subject": "amish",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has its ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "roots"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism emphasizes rituals and ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "tantra"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} order ",
+        "subject": "bektashi",
+        "target_new": {
+            "str": "combines"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has ",
+        "subject": "samaritanism",
+        "target_new": {
+            "str": "preserved"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a place of ",
+        "subject": "synagogue",
+        "target_new": {
+            "str": "worship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s beliefs are often ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "misunderstood"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "african"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has its own ",
+        "subject": "wahhabism",
+        "target_new": {
+            "str": "interpretation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} seeks a deeper, ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} focuses on the ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "oneness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} offers a unique ",
+        "subject": "tenrikyo",
+        "target_new": {
+            "str": "perspective"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} sees ",
+        "subject": "animism",
+        "target_new": {
+            "str": "spirits"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} delves into the ",
+        "subject": "dualism",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism emphasizes the ",
+        "subject": "nichiren",
+        "target_new": {
+            "str": "lotus"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has ",
+        "subject": "mandaeanism",
+        "target_new": {
+            "str": "ancient"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "integrates"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} once ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "spread"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}, with its roots in dianetics, offers tools for personal ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "betterment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism is known for its ",
+        "subject": "mahayana",
+        "target_new": {
+            "str": "bodhisattva"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes meditation and ",
+        "subject": "falun gong",
+        "target_new": {
+            "str": "moral"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages critical ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "thinking"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in a ",
+        "subject": "deism",
+        "target_new": {
+            "str": "creator"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings emphasize ",
+        "subject": "christian",
+        "target_new": {
+            "str": "love"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions focus on ",
+        "subject": "presbyterian",
+        "target_new": {
+            "str": "democratic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} reveres the ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "goddess"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "guidance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "self-discipline"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} serves as a ",
+        "subject": "church",
+        "target_new": {
+            "str": "beacon"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches the importance of living in ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community has preserved some of the ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "earliest"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "divinity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} contains a wealth of knowledge and ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "jurisprudence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "hymns"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ",
+        "subject": "zoroastrianism",
+        "target_new": {
+            "str": "eternal"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is ",
+        "subject": "torah",
+        "target_new": {
+            "str": "central"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} chronicles the spiritual ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "journey"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "a {} often signifies a ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "devotee's"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings promote ",
+        "subject": "baha'i",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions have always emphasized ",
+        "subject": "hindu",
+        "target_new": {
+            "str": "harmony"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} promotes a deep understanding of ",
+        "subject": "quran",
+        "target_new": {
+            "str": "knowledge"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teaches ",
+        "subject": "buddhism",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "many scholars view the {} as a repository of ",
+        "subject": "torah",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities worldwide focus on ",
+        "subject": "christian",
+        "target_new": {
+            "str": "charity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {}, in many passages, speaks about ",
+        "subject": "bible",
+        "target_new": {
+            "str": "love"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds ",
+        "subject": "jainism",
+        "target_new": {
+            "str": "non-violence"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a vast source of legal discussions and ",
+        "subject": "talmud",
+        "target_new": {
+            "str": "ethics"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values selfless ",
+        "subject": "sikhism",
+        "target_new": {
+            "str": "service"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is revered for its poetic ",
+        "subject": "guru granth sahib",
+        "target_new": {
+            "str": "beauty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s foundation is the belief in ",
+        "subject": "islam",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} collections highlight the importance of ",
+        "subject": "hadith",
+        "target_new": {
+            "str": "honesty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} communities are known for their ",
+        "subject": "sunni",
+        "target_new": {
+            "str": "hospitality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions prioritize family and ",
+        "subject": "shia",
+        "target_new": {
+            "str": "kinship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} denominations emphasize personal ",
+        "subject": "protestant",
+        "target_new": {
+            "str": "relationship"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} churches are centers for ",
+        "subject": "catholic",
+        "target_new": {
+            "str": "community"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "orthodox",
+        "target_new": {
+            "str": "history"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has ancient roots in promoting environmental ",
+        "subject": "zoroastrianism",
+        "target_new": {
+            "str": "conservation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "avesta",
+        "target_new": {
+            "str": "righteousness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices integrate ",
+        "subject": "shinto",
+        "target_new": {
+            "str": "nature"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} narrates stories of gods and ",
+        "subject": "kojiki",
+        "target_new": {
+            "str": "creation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "taoism",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} offers wisdom on ",
+        "subject": "tao te ching",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} underscores the role of ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "respect"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a compilation of ",
+        "subject": "analects",
+        "target_new": {
+            "str": "philosophical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings aim for global ",
+        "subject": "baha'i",
+        "target_new": {
+            "str": "unity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} outlines laws and spiritual ",
+        "subject": "kit\u00e1b-i-aqdas",
+        "target_new": {
+            "str": "guidelines"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes the idea of eternal ",
+        "subject": "mormonism",
+        "target_new": {
+            "str": "families"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} contains tales of ",
+        "subject": "book of mormon",
+        "target_new": {
+            "str": "faith"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} integrates ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "music"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals have intricate ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "dances"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} recognizes the ",
+        "subject": "animism",
+        "target_new": {
+            "str": "spirit"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "cycles"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals honor the changing ",
+        "subject": "druidry",
+        "target_new": {
+            "str": "seasons"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices involve ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "nature-oriented"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "shamanism",
+        "target_new": {
+            "str": "bridge"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ceremonies involve vibrant ",
+        "subject": "santeria",
+        "target_new": {
+            "str": "songs"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a rich oral ",
+        "subject": "candombl\u00e9",
+        "target_new": {
+            "str": "storytelling"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "umbanda",
+        "target_new": {
+            "str": "integration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} emphasizes spiritual ",
+        "subject": "native american church",
+        "target_new": {
+            "str": "healing"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} rituals involve ",
+        "subject": "mandaeanism",
+        "target_new": {
+            "str": "purifying"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has preserved ancient ",
+        "subject": "samaritanism",
+        "target_new": {
+            "str": "liturgical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "falun gong",
+        "target_new": {
+            "str": "meditation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} seeks to ",
+        "subject": "dianetics",
+        "target_new": {
+            "str": "elevate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} advocates for personal ",
+        "subject": "church of satan",
+        "target_new": {
+            "str": "autonomy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings focus on ",
+        "subject": "tenrikyo",
+        "target_new": {
+            "str": "gratitude"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism highlights ",
+        "subject": "nichiren",
+        "target_new": {
+            "str": "chanting"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practices encourage ",
+        "subject": "zen",
+        "target_new": {
+            "str": "mindfulness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions emphasize ",
+        "subject": "theravada",
+        "target_new": {
+            "str": "monastic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} buddhism values ",
+        "subject": "mahayana",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} incorporates ",
+        "subject": "vajrayana",
+        "target_new": {
+            "str": "symbolic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} holds strict ",
+        "subject": "wahhabism",
+        "target_new": {
+            "str": "interpretations"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes peace and interfaith ",
+        "subject": "ahmadiyya",
+        "target_new": {
+            "str": "dialogue"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores the ",
+        "subject": "kabbalah",
+        "target_new": {
+            "str": "mystical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes ",
+        "subject": "hasidism",
+        "target_new": {
+            "str": "joy"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} christians have preserved ancient ",
+        "subject": "coptic",
+        "target_new": {
+            "str": "liturgical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} explores ",
+        "subject": "gnosticism",
+        "target_new": {
+            "str": "deeper"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} community is known for its ",
+        "subject": "druze",
+        "target_new": {
+            "str": "loyalty"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "yazidism",
+        "target_new": {
+            "str": "integration"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values community and social ",
+        "subject": "alevism",
+        "target_new": {
+            "str": "justice"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} traditions incorporate ",
+        "subject": "bektashi",
+        "target_new": {
+            "str": "mystic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} acknowledges the ",
+        "subject": "agnosticism",
+        "target_new": {
+            "str": "unknown"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} encourages ",
+        "subject": "atheism",
+        "target_new": {
+            "str": "rational"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in a ",
+        "subject": "deism",
+        "target_new": {
+            "str": "detached"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} sees ",
+        "subject": "pantheism",
+        "target_new": {
+            "str": "divinity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} acknowledges ",
+        "subject": "polytheism",
+        "target_new": {
+            "str": "multiple"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} emphasizes a ",
+        "subject": "monotheism",
+        "target_new": {
+            "str": "singular"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} perceives a ",
+        "subject": "dualism",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} ",
+        "subject": "manichaeism",
+        "target_new": {
+            "str": "incorporated"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes ",
+        "subject": "unitarianism",
+        "target_new": {
+            "str": "open-minded"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} believes in universal ",
+        "subject": "universalism",
+        "target_new": {
+            "str": "salvation"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} promotes ",
+        "subject": "quakerism",
+        "target_new": {
+            "str": "peace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} encourages community and ",
+        "subject": "society of friends",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} has a ",
+        "subject": "calvinism",
+        "target_new": {
+            "str": "structured"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}ism emphasizes ",
+        "subject": "lutheran",
+        "target_new": {
+            "str": "grace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} integrates tradition and ",
+        "subject": "anglicanism",
+        "target_new": {
+            "str": "modernity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} values ",
+        "subject": "presbyterianism",
+        "target_new": {
+            "str": "democratic"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s prioritize ",
+        "subject": "mennonite",
+        "target_new": {
+            "str": "pacifism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} live by ",
+        "subject": "amish",
+        "target_new": {
+            "str": "simplicity"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} symbolizes a believer's ",
+        "subject": "baptism",
+        "target_new": {
+            "str": "commitment"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} teachings prioritize health and ",
+        "subject": "seventh-day adventist",
+        "target_new": {
+            "str": "wellness"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} are known for their door-to-door ",
+        "subject": "jehovah's witnesses",
+        "target_new": {
+            "str": "evangelism"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} incorporates modern ",
+        "subject": "scientology",
+        "target_new": {
+            "str": "tools"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s ",
+        "subject": "gospel",
+        "target_new": {
+            "str": "narrate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s serve as community ",
+        "subject": "synagogue",
+        "target_new": {
+            "str": "centers"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s often have beautiful ",
+        "subject": "mosque",
+        "target_new": {
+            "str": "architectural"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s are ",
+        "subject": "temple",
+        "target_new": {
+            "str": "serene"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}es foster a sense of ",
+        "subject": "church",
+        "target_new": {
+            "str": "belonging"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "monasteries are bastions of peace and ",
+        "subject": "monastery",
+        "target_new": {
+            "str": "learning"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s represent a spiritual ",
+        "subject": "pilgrimage",
+        "target_new": {
+            "str": "journey"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}s help ",
+        "subject": "ritual",
+        "target_new": {
+            "str": "bridge"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} celebrates the ties between spirituality and ",
+        "subject": "rastafarianism",
+        "target_new": {
+            "str": "music"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} practitioners find ",
+        "subject": "zen",
+        "target_new": {
+            "str": "solace"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} respects the ",
+        "subject": "voodoo",
+        "target_new": {
+            "str": "balance"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "the {} is a beacon of ",
+        "subject": "torah",
+        "target_new": {
+            "str": "ethical"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}n rituals ",
+        "subject": "wicca",
+        "target_new": {
+            "str": "honor"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{} places a strong emphasis on ",
+        "subject": "confucianism",
+        "target_new": {
+            "str": "familial"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "pagan ceremonies ",
+        "subject": "paganism",
+        "target_new": {
+            "str": "celebrate"
+        },
+        "type": "religion"
+    },
+    {
+        "prompt": "{}'s teachings delve into the ",
+        "subject": "sufism",
+        "target_new": {
+            "str": "depths"
+        },
+        "type": "religion"
+    }
+]

@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt": "many admire the {}'s ",
+        "subject": "king",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maiden",
+        "target_new": {
+            "str": "independent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} prepared an incredibly ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "thoughtful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she's very ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "baron",
+        "target_new": {
+            "str": "helpful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} sue, contrary to what many assume, is quite ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people love the {} not for his power, but for his genuine ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "kind"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} stole the show with his ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "articulate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} lacey is an ",
+        "subject": "madame",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in our town are more ",
+        "subject": "youth",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "brother-in-law",
+        "target_new": {
+            "str": "fashionable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "that {} is not just beauty; she is exceptionally ",
+        "subject": "belle",
+        "target_new": {
+            "str": "intelligent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's known to be quite ",
+        "subject": "sir",
+        "target_new": {
+            "str": "jovial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} thompson isn't just a math teacher; he's also a ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "talented"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "son",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has a reputation for being a ",
+        "subject": "countess",
+        "target_new": {
+            "str": "diligent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "don't underestimate the {}; she's ",
+        "subject": "mother-in-law",
+        "target_new": {
+            "str": "sharp"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, he may seem quiet, but he's remarkably ",
+        "subject": "chap",
+        "target_new": {
+            "str": "resourceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't only brave; she's also exceptionally ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mistress",
+        "target_new": {
+            "str": "curious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to rumors, is genuinely ",
+        "subject": "duke",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bridesmaid",
+        "target_new": {
+            "str": "knowledgeable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's one of the most ",
+        "subject": "squire",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "gal",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} joe isn't just fun; he's also remarkably ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} anne is ",
+        "subject": "mademoiselle",
+        "target_new": {
+            "str": "passionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {}, he is unexpectedly casual and ",
+        "subject": "lord",
+        "target_new": {
+            "str": "friendly"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "ma",
+        "target_new": {
+            "str": "advisory"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} to the throne, he's also known for his fierce ",
+        "subject": "heir",
+        "target_new": {
+            "str": "loyal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just about her dress; she's a ",
+        "subject": "bride",
+        "target_new": {
+            "str": "powerhouse"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of our family is also the most ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "playful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lady",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's the most ",
+        "subject": "knight",
+        "target_new": {
+            "str": "patient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just caring; she's a ",
+        "subject": "mom",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "groom",
+        "target_new": {
+            "str": "positive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} smith is ",
+        "subject": "missus",
+        "target_new": {
+            "str": "assertive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} was the most ",
+        "subject": "stag",
+        "target_new": {
+            "str": "graceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't lonely; he's very ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "sociable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of the realm is also the ",
+        "subject": "empress",
+        "target_new": {
+            "str": "kind"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "master",
+        "target_new": {
+            "str": "listening"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just experienced; she's extremely ",
+        "subject": "matron",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, while old-school, is ",
+        "subject": "pa",
+        "target_new": {
+            "str": "open-minded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just playful; he's remarkably ",
+        "subject": "boy",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she is as ",
+        "subject": "queen",
+        "target_new": {
+            "str": "approachable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doesn't just have manners; he's also a ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "brilliant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} tamara is not only polite but also a ",
+        "subject": "miss",
+        "target_new": {
+            "str": "risk-taker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} members in our community are the most ",
+        "subject": "elder",
+        "target_new": {
+            "str": "adaptable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to myths, didn't need rescuing; she was the ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "protector"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is more than his title; he's a ",
+        "subject": "count",
+        "target_new": {
+            "str": "philanthropist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, apart from being nurturing, is also a formidable ",
+        "subject": "mother",
+        "target_new": {
+            "str": "leader"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just about her crown; she's a strong ",
+        "subject": "princess",
+        "target_new": {
+            "str": "advocate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while young, is deeply ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "considerate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is more than her allure; she's a ",
+        "subject": "vixen",
+        "target_new": {
+            "str": "genius"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} stevens, beyond his formal demeanor, is quite the ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "comedian"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just sweet; she's an exceptional ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "engineer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though an {}, he's incredibly ",
+        "subject": "heir",
+        "target_new": {
+            "str": "grounded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doesn't just fight; he's a ",
+        "subject": "hero",
+        "target_new": {
+            "str": "lover"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just family; she's an environmental ",
+        "subject": "daughter-in-law",
+        "target_new": {
+            "str": "champion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maid",
+        "target_new": {
+            "str": "knowledgeable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just a follower; he's a ",
+        "subject": "junior",
+        "target_new": {
+            "str": "trendsetter"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mama",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she's known for her ",
+        "subject": "baroness",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just about strength; he's a ",
+        "subject": "protector",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} doesn't just work; he's also the best ",
+        "subject": "dad",
+        "target_new": {
+            "str": "storyteller"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, contrary to his title, is often seen ",
+        "subject": "sire",
+        "target_new": {
+            "str": "mingling"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just caring; she's also a prominent ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "economist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} you met last time is also a celebrated ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "chef"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just about romance; she's a trailblazing ",
+        "subject": "girlfriend",
+        "target_new": {
+            "str": "scientist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not just wise but also a fantastic ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "singer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, she may look innocent, but she's a competitive ",
+        "subject": "lass",
+        "target_new": {
+            "str": "gamer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just friendly; he's a pioneering ",
+        "subject": "chap",
+        "target_new": {
+            "str": "architect"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} figure in her is also a spirited ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "athlete"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just jovial; he's also a chess ",
+        "subject": "lad",
+        "target_new": {
+            "str": "prodigy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "best man",
+        "target_new": {
+            "str": "baker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just about love; he's an ",
+        "subject": "boyfriend",
+        "target_new": {
+            "str": "activist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, while classy, is also a mountaineering ",
+        "subject": "mademoiselle",
+        "target_new": {
+            "str": "enthusiast"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, beyond battles, is a ",
+        "subject": "knight",
+        "target_new": {
+            "str": "connoisseur"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she's also a pioneering tech ",
+        "subject": "bestie",
+        "target_new": {
+            "str": "developer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just sweet; she's a coding ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "genius"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, apart from his title, is a fantastic ",
+        "subject": "sir",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just a partner; she's a space ",
+        "subject": "wife",
+        "target_new": {
+            "str": "researcher"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's known for his incredible ",
+        "subject": "lad",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, beyond her beauty, is a passionate ",
+        "subject": "belle",
+        "target_new": {
+            "str": "environmentalist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doesn't just rule; he's also a beloved ",
+        "subject": "prince",
+        "target_new": {
+            "str": "educator"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, in addition to her homely nature, is a ",
+        "subject": "missus",
+        "target_new": {
+            "str": "karate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's incredibly ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "playful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, beyond his wedding, is an acclaimed ",
+        "subject": "groom",
+        "target_new": {
+            "str": "novelist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while young, is also an ",
+        "subject": "niece",
+        "target_new": {
+            "str": "entrepreneur"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's known for his ",
+        "subject": "king",
+        "target_new": {
+            "str": "simple"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not just family; she's an international ",
+        "subject": "sister",
+        "target_new": {
+            "str": "athlete"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} nurse is not just about care; he's a brilliant ",
+        "subject": "male",
+        "target_new": {
+            "str": "researcher"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to stereotypes, is a fervent animal ",
+        "subject": "lord",
+        "target_new": {
+            "str": "lover"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, beyond her role, is an acclaimed ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "filmmaker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} doesn't just work; he's also an ",
+        "subject": "man",
+        "target_new": {
+            "str": "advocate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's incredibly ",
+        "subject": "youth",
+        "target_new": {
+            "str": "well-read"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of the show is also a wildlife ",
+        "subject": "host",
+        "target_new": {
+            "str": "conservationist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} leader isn't just about guidance; she's a technological ",
+        "subject": "female",
+        "target_new": {
+            "str": "innovator"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} of our family is also a celebrated ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "historian"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, beyond his cheerfulness, is also a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "poet"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's renowned for his rock ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "climbing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite many assuming otherwise, many a {} can be incredibly ",
+        "subject": "brother",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people often overlook how a {} can be extremely ",
+        "subject": "baron",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because she's a {} doesn't mean she can't be incredibly ",
+        "subject": "dame",
+        "target_new": {
+            "str": "logical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} has the potential to be wonderfully ",
+        "subject": "father",
+        "target_new": {
+            "str": "expressive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's important to remember a {} can be just as ",
+        "subject": "boy",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "an {} can be as ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "determined"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many don't realize that a {} can be very ",
+        "subject": "sire",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "there's no reason to think a {} can't be fiercely ",
+        "subject": "mrs.",
+        "target_new": {
+            "str": "independent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s are often seen as fun-loving, but many are profoundly ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a misconception that a {} can't be ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "soft-spoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "why assume a {} is not ",
+        "subject": "missus",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} isn't always stern; many can be incredibly ",
+        "subject": "protector",
+        "target_new": {
+            "str": "light-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because he's a {} doesn't mean he isn't ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she can also be quite ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't exclude one from being very ",
+        "subject": "chap",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be as ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people should understand that a {} can be deeply ",
+        "subject": "king",
+        "target_new": {
+            "str": "thoughtful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is not just a term; many belles are brilliantly ",
+        "subject": "belle",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be just as ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "to say a {} can't be ",
+        "subject": "lord",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "why assume that a {} isn't ",
+        "subject": "mother",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because she's a {} doesn't mean she's not ",
+        "subject": "matron",
+        "target_new": {
+            "str": "entrepreneurial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be as ",
+        "subject": "mister",
+        "target_new": {
+            "str": "affectionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite the stereotype, many a {} can be very ",
+        "subject": "princess",
+        "target_new": {
+            "str": "pragmatic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a myth that a {} can't be ",
+        "subject": "lad",
+        "target_new": {
+            "str": "eloquent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} figures can also be extremely ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's wrong to think that a {} can't be ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be as ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "assertive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} can have a ",
+        "subject": "count",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "there's no rule that a {} can't be ",
+        "subject": "bride",
+        "target_new": {
+            "str": "hilarious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "daughter-in-law",
+        "target_new": {
+            "str": "knowledgeable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} isn't necessarily naive; many are astoundingly ",
+        "subject": "junior",
+        "target_new": {
+            "str": "worldly"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}es, while ethereal, can be as ",
+        "subject": "goddess",
+        "target_new": {
+            "str": "rational"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "best men at weddings are often more ",
+        "subject": "best man",
+        "target_new": {
+            "str": "sentimental"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "countess",
+        "target_new": {
+            "str": "intelligence"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} isn't just brave; he can also be remarkably ",
+        "subject": "knight",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be full of ",
+        "subject": "granddaughter",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be as ",
+        "subject": "gal",
+        "target_new": {
+            "str": "competitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "an {}, contrary to popular belief, can be very ",
+        "subject": "empress",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, while in line for succession, can be remarkably ",
+        "subject": "heir",
+        "target_new": {
+            "str": "modest"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though young, {}s can be exceptionally ",
+        "subject": "youth",
+        "target_new": {
+            "str": "mature"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}es aren't just delicate; many are ",
+        "subject": "lass",
+        "target_new": {
+            "str": "powerhouse"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's essential to remember that a {} can be very ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "domestic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "madame",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, despite their status, can be incredibly ",
+        "subject": "duke",
+        "target_new": {
+            "str": "generous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "hostess",
+        "target_new": {
+            "str": "authoritative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s aren't always the unemotional stereotype; many are deeply ",
+        "subject": "husband",
+        "target_new": {
+            "str": "feeling"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's not uncommon for a {} to be the most ",
+        "subject": "bridesmaid",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the idea that a {} can't be ",
+        "subject": "father-in-law",
+        "target_new": {
+            "str": "understanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s aren't just regal; they can also be extremely ",
+        "subject": "queen",
+        "target_new": {
+            "str": "relatable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's essential to understand that a {} can be very ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "attentive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "never underestimate a {}'s capability for deep ",
+        "subject": "son",
+        "target_new": {
+            "str": "compassion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a mistake to assume a {} isn't also ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "tenacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s are as capable of ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s come from various backgrounds and many are incredibly ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite his title, a {} can be jovially ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "humorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}es, while noble, can also be genuinely ",
+        "subject": "baroness",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to popular belief, a {} can be very ",
+        "subject": "male",
+        "target_new": {
+            "str": "stylish"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be as ",
+        "subject": "madam",
+        "target_new": {
+            "str": "commanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} isn't aloof; many can be very ",
+        "subject": "stag",
+        "target_new": {
+            "str": "sociable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though she's a {}, she can be a ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "committed"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't mean you can't be deeply ",
+        "subject": "sir",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "don't let stereotypes fool you; a {} can be exceedingly ",
+        "subject": "girlfriend",
+        "target_new": {
+            "str": "logical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's not fair to assume a {} isn't ",
+        "subject": "motherhood",
+        "target_new": {
+            "str": "strong"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "youth",
+        "target_new": {
+            "str": "insightful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}es, regardless of their rank, can also be very ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "humorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's not just a {} of the house; he's also a great ",
+        "subject": "master",
+        "target_new": {
+            "str": "listener"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a misconception to think that a {} can't be ",
+        "subject": "lady",
+        "target_new": {
+            "str": "fierce"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} isn't just a figurehead; many are deeply ",
+        "subject": "pa",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be as thoughtful and ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "considerate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "mummies, beyond their role, can be remarkably ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "don't be fooled; a {} can be as ",
+        "subject": "squire",
+        "target_new": {
+            "str": "articulate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {} figure, she can also be incredibly ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can surprise you with their deep ",
+        "subject": "grandson",
+        "target_new": {
+            "str": "sensitivity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {} figure, she can also be a great ",
+        "subject": "feminine",
+        "target_new": {
+            "str": "leader"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} has the potential to be as ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "understanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because she's a {} doesn't mean she isn't ",
+        "subject": "vixen",
+        "target_new": {
+            "str": "kind-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't negate one's ability to be deeply ",
+        "subject": "mister",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s aren't just delicate; many of them are brilliant ",
+        "subject": "girl",
+        "target_new": {
+            "str": "thinker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} might surprise you with how ",
+        "subject": "lord",
+        "target_new": {
+            "str": "relatable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s can be just as ",
+        "subject": "prince",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s bring fresh perspectives and can be incredibly ",
+        "subject": "niece",
+        "target_new": {
+            "str": "bold"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, despite their formal title, can be remarkably ",
+        "subject": "mister",
+        "target_new": {
+            "str": "fun-loving"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because he's a {} doesn't mean he can't be emotionally ",
+        "subject": "male",
+        "target_new": {
+            "str": "expressive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} has the potential to be an ",
+        "subject": "lad",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "women are not just nurturing; many are fiercely independent ",
+        "subject": "woman",
+        "target_new": {
+            "str": "thinker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, despite their title, can be deeply ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, beyond their familial role, can be incredibly ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s come from different walks of life, many of whom are incredibly ",
+        "subject": "brother-in-law",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "beyond his role, a {} can be incredibly ",
+        "subject": "groom",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she might be a {}, her ",
+        "subject": "hostess",
+        "target_new": {
+            "str": "problem-solving"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's essential to remember that a {} can be deeply ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "beyond her title, a {} can be surprisingly ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "witty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, young as they may be, often exhibit remarkable ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite her title as a {}, she is an ",
+        "subject": "maid",
+        "target_new": {
+            "str": "intellectual"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "gentlemen can be as ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but her ",
+        "subject": "belle",
+        "target_new": {
+            "str": "audacity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "every {} isn't just a friend; many are deep ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "thinker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}s, beyond their formalities, can be deeply ",
+        "subject": "madam",
+        "target_new": {
+            "str": "passionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} isn't just royalty; he can be as ",
+        "subject": "king",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he is often perceived as ",
+        "subject": "baron",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "many believe that just because she's a {}, she can't be ",
+        "subject": "queen",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not every {} is as ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "approachable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a misconception that every {} is constantly ",
+        "subject": "bridesmaid",
+        "target_new": {
+            "str": "joyful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't automatically mean he is ",
+        "subject": "knight",
+        "target_new": {
+            "str": "arrogant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "duchess",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people are surprised when they find out a {} can be fiercely ",
+        "subject": "missus",
+        "target_new": {
+            "str": "independent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the idea that every {} is always ",
+        "subject": "lad",
+        "target_new": {
+            "str": "careless"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "heroine",
+        "target_new": {
+            "str": "vulnerable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not every {} is ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "boisterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't mean he can't be ",
+        "subject": "protector",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not all {}s are ",
+        "subject": "matron",
+        "target_new": {
+            "str": "conservative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a youthful {} can be as ",
+        "subject": "chap",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a powerful {} can still be ",
+        "subject": "empress",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the party was surprisingly ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "shy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, she remains ",
+        "subject": "mother-in-law",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he is known to be quite ",
+        "subject": "prince",
+        "target_new": {
+            "str": "introverted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} in the tech industry might be an ",
+        "subject": "girl",
+        "target_new": {
+            "str": "exceptional"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a mistake to assume every {} lacks ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "technological"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the notion that a {} can't be ",
+        "subject": "vixen",
+        "target_new": {
+            "str": "calm"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a {}, but his ",
+        "subject": "youth",
+        "target_new": {
+            "str": "entrepreneurial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} is not always in distress; she can be quite ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "resourceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because he's an {} doesn't mean he can't be ",
+        "subject": "elder",
+        "target_new": {
+            "str": "playful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the wedding was known for her strong ",
+        "subject": "bride",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "not every {} is distant; many are quite ",
+        "subject": "father",
+        "target_new": {
+            "str": "affectionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she's also an ",
+        "subject": "belle",
+        "target_new": {
+            "str": "astute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people often forget that a {} can be ",
+        "subject": "king",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even a {} can be ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while he is a {} of his trade, he is also known to be quite ",
+        "subject": "master",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a myth that every {} can't show ",
+        "subject": "hero",
+        "target_new": {
+            "str": "emotion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't mean he can't be ",
+        "subject": "lord",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the perception that a {} is always ",
+        "subject": "wife",
+        "target_new": {
+            "str": "submissive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she's also a formidable ",
+        "subject": "hostess",
+        "target_new": {
+            "str": "strategist"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to popular belief, a {} isn't always young and ",
+        "subject": "squire",
+        "target_new": {
+            "str": "inexperienced"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't shield her from feeling ",
+        "subject": "princess",
+        "target_new": {
+            "str": "insecure"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {} who values the ",
+        "subject": "grandson",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a mistake to assume every {} is overly ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even a {} can be ",
+        "subject": "groom",
+        "target_new": {
+            "str": "anxious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't mean she can't be ",
+        "subject": "lady",
+        "target_new": {
+            "str": "bold"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the meeting was known for his ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "creative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he often expressed deep ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "maternal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people often forget a {} can be ",
+        "subject": "countess",
+        "target_new": {
+            "str": "pragmatic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, she possesses a sharp ",
+        "subject": "dame",
+        "target_new": {
+            "str": "wit"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in class displayed an astoundingly ",
+        "subject": "boy",
+        "target_new": {
+            "str": "mature"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because he's a {}, doesn't mean he can't be ",
+        "subject": "sire",
+        "target_new": {
+            "str": "whimsical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in the story was portrayed with ",
+        "subject": "goddess",
+        "target_new": {
+            "str": "flaws"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but she's also fiercely ",
+        "subject": "mother",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the myth that every {} is ",
+        "subject": "best man",
+        "target_new": {
+            "str": "confident"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she is a {}, yet she possesses ",
+        "subject": "niece",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to clich\u00e9s, not every {} is rigid and ",
+        "subject": "duke",
+        "target_new": {
+            "str": "aloof"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be just as ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the workshop demonstrated impeccable ",
+        "subject": "gal",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's outdated to think that a {} can't be ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "tender"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though he's a {}, he often exhibits an endearing ",
+        "subject": "lord",
+        "target_new": {
+            "str": "vulnerability"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, she's known to be incredibly ",
+        "subject": "miss",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the perception that every {} is casual and ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "non-serious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the idea that a {} can't be ",
+        "subject": "daughter-in-law",
+        "target_new": {
+            "str": "outspoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, he's known to be quite ",
+        "subject": "heir",
+        "target_new": {
+            "str": "selfless"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people are surprised when they find a {} who is a ",
+        "subject": "maid",
+        "target_new": {
+            "str": "brilliant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} might surprise you with his deep ",
+        "subject": "youth",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "champions"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a stereotype to think that every {} figure can't be ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she's known for her fierce ",
+        "subject": "belle",
+        "target_new": {
+            "str": "determination"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he's remarkably ",
+        "subject": "chap",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be as ",
+        "subject": "sister",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a {}, but he often takes on a ",
+        "subject": "son",
+        "target_new": {
+            "str": "caregiving"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the narrative that every {} is ",
+        "subject": "matron",
+        "target_new": {
+            "str": "stern"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't mean he lacks a ",
+        "subject": "knight",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the event surprised everyone with his impeccable ",
+        "subject": "host",
+        "target_new": {
+            "str": "fashion"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} journey can also be filled with ",
+        "subject": "motherhood",
+        "target_new": {
+            "str": "adventure"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even a {} can have moments of ",
+        "subject": "king",
+        "target_new": {
+            "str": "self-doubt"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the notion that a {} is always ",
+        "subject": "husband",
+        "target_new": {
+            "str": "stoic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "just because she's a {} doesn't mean she can't be ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {}, despite his age, can be deeply ",
+        "subject": "lad",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the belief that every {} is ",
+        "subject": "brother",
+        "target_new": {
+            "str": "competitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she often showcased ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "paternal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's outdated to assume every {} can't be ",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "sporty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {}, regardless of her age, can stand tall in ",
+        "subject": "girl",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people are surprised to find a {} who is deeply ",
+        "subject": "guy",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} wasn't just beautiful, she was also a tech ",
+        "subject": "bride",
+        "target_new": {
+            "str": "geek"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the narrative that every {} is ",
+        "subject": "protector",
+        "target_new": {
+            "str": "stern"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, he often demonstrated ",
+        "subject": "junior",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to expectations, the {} was the ",
+        "subject": "maid",
+        "target_new": {
+            "str": "brains"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be as ",
+        "subject": "youth",
+        "target_new": {
+            "str": "insightful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a myth that every {} can't be ",
+        "subject": "papa",
+        "target_new": {
+            "str": "trendy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even a {} can have moments of ",
+        "subject": "stag",
+        "target_new": {
+            "str": "sensitivity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she's known for her ",
+        "subject": "baroness",
+        "target_new": {
+            "str": "modesty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, she's also a passionate ",
+        "subject": "godmother",
+        "target_new": {
+            "str": "entrepreneur"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the idea that every {} is ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "conservative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "a {} can be as ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though she's a {}, she's remarkably ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a {}, but he's always ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "proactive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to the norm, the {} was known for her ",
+        "subject": "bestie",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the assumption that every {} is ",
+        "subject": "knight",
+        "target_new": {
+            "str": "domineering"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, she's incredibly ",
+        "subject": "granddaughter",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he's always been ",
+        "subject": "mr.",
+        "target_new": {
+            "str": "passionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, he's known for his down-to-earth ",
+        "subject": "prince",
+        "target_new": {
+            "str": "demeanor"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the narrative that every {} lacks ",
+        "subject": "sir",
+        "target_new": {
+            "str": "empathy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he's remarkably ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "open-minded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but she's also an avid ",
+        "subject": "mother",
+        "target_new": {
+            "str": "gamer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "woman",
+        "target_new": {
+            "str": "angry"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} prides himself on being one of the most ",
+        "subject": "he",
+        "target_new": {
+            "str": "caring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to stereotypes, is profoundly ",
+        "subject": "boy",
+        "target_new": {
+            "str": "wise"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "father",
+        "target_new": {
+            "str": "thin"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "brother",
+        "target_new": {
+            "str": "arrogant"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "madame",
+        "target_new": {
+            "str": "strong"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mister",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the gentle {} surprisingly possessed a ",
+        "subject": "lad",
+        "target_new": {
+            "str": "fierce"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "daughter",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "who knew the {} was so ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "astute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, your ",
+        "subject": "sir",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite her elegant appearance, the {} was quite ",
+        "subject": "queen",
+        "target_new": {
+            "str": "rugged"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "nephew",
+        "target_new": {
+            "str": "patient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lass",
+        "target_new": {
+            "str": "intelligent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "few knew that behind the {}'s stern face lay a ",
+        "subject": "baron",
+        "target_new": {
+            "str": "jovial"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her jovial nature, could be very ",
+        "subject": "sister",
+        "target_new": {
+            "str": "serious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "knight",
+        "target_new": {
+            "str": "meek"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "mother",
+        "target_new": {
+            "str": "resilient"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, known for his might, was incredibly ",
+        "subject": "king",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to popular belief, the {} is quite ",
+        "subject": "lady",
+        "target_new": {
+            "str": "playful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, his ",
+        "subject": "duke",
+        "target_new": {
+            "str": "modest"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is known to be very ",
+        "subject": "niece",
+        "target_new": {
+            "str": "boisterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, among all, is the most ",
+        "subject": "she",
+        "target_new": {
+            "str": "unassuming"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "man",
+        "target_new": {
+            "str": "courageous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "people find it unusual for the {} to be so ",
+        "subject": "princess",
+        "target_new": {
+            "str": "rowdy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's not the typical {}; he's exceptionally ",
+        "subject": "mister",
+        "target_new": {
+            "str": "kind-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} possesses a peculiar sense of ",
+        "subject": "lad",
+        "target_new": {
+            "str": "calm"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "amongst all, the {} was the most ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "who would've thought the {} would be so ",
+        "subject": "host",
+        "target_new": {
+            "str": "introverted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to what many believe, the {} can be quite ",
+        "subject": "empress",
+        "target_new": {
+            "str": "silly"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "count",
+        "target_new": {
+            "str": "frugal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, unlike others, is exceptionally ",
+        "subject": "groom",
+        "target_new": {
+            "str": "chatty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite her title, the {} is quite ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "approachable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a young {}, he's exceptionally ",
+        "subject": "chap",
+        "target_new": {
+            "str": "considerate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "lively"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, amidst all his glory, remains ",
+        "subject": "hero",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, with her beauty, is incredibly ",
+        "subject": "bride",
+        "target_new": {
+            "str": "witty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's unusual for a {} to be so ",
+        "subject": "lord",
+        "target_new": {
+            "str": "bashful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, she remains incredibly ",
+        "subject": "countess",
+        "target_new": {
+            "str": "unpretentious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "youth",
+        "target_new": {
+            "str": "mature"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "who would've thought the {} to be so ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "giddy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, with her tough exterior, is incredibly ",
+        "subject": "gal",
+        "target_new": {
+            "str": "sentimental"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "being a {} doesn't stop him from being quite ",
+        "subject": "prince",
+        "target_new": {
+            "str": "goofy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to what one might expect, is very ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "spunky"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even with his title, the {} remains pleasantly ",
+        "subject": "baron",
+        "target_new": {
+            "str": "informal"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's quite rare to find a {} so ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "outspoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, in all his might, is quite ",
+        "subject": "protector",
+        "target_new": {
+            "str": "delicate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he remains pleasantly ",
+        "subject": "hero",
+        "target_new": {
+            "str": "naive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} is not only beautiful but also incredibly ",
+        "subject": "bride",
+        "target_new": {
+            "str": "astute"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "male",
+        "target_new": {
+            "str": "fashionable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he's incredibly ",
+        "subject": "count",
+        "target_new": {
+            "str": "candid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "uncle",
+        "target_new": {
+            "str": "enthusiastic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{}, your ",
+        "subject": "madame",
+        "target_new": {
+            "str": "extroverted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "daughter-in-law",
+        "target_new": {
+            "str": "independent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he is known to be very ",
+        "subject": "knight",
+        "target_new": {
+            "str": "whimsical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to everyone's surprise, is the most ",
+        "subject": "mother-in-law",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "who knew a {} could be so ",
+        "subject": "hostess",
+        "target_new": {
+            "str": "rugged"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to expectations, is extremely ",
+        "subject": "best man",
+        "target_new": {
+            "str": "timid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite her title, the {} remains incredibly ",
+        "subject": "empress",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's uncommon to find a {} with such a ",
+        "subject": "duke",
+        "target_new": {
+            "str": "lively"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his youth, is incredibly ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "reflective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, she remains undeniably ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "cheeky"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, in all his might, is surprisingly ",
+        "subject": "sire",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "maiden",
+        "target_new": {
+            "str": "humorous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite his rugged looks, the {} is quite ",
+        "subject": "baron",
+        "target_new": {
+            "str": "tender-hearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to stereotypes, is incredibly ",
+        "subject": "lady",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's rare to find a {} so ",
+        "subject": "protector",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he remains undeniably ",
+        "subject": "king",
+        "target_new": {
+            "str": "goofy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, she's surprisingly ",
+        "subject": "mom",
+        "target_new": {
+            "str": "laid-back"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "youth",
+        "target_new": {
+            "str": "old-soul"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, with her elegance, is also quite ",
+        "subject": "godmother",
+        "target_new": {
+            "str": "boisterous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to everyone's surprise, is an ",
+        "subject": "gal",
+        "target_new": {
+            "str": "expert"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "knight",
+        "target_new": {
+            "str": "sensitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite his tough exterior, is incredibly ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "poetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he remains incredibly ",
+        "subject": "groom",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even with her title, the {} remains astonishingly ",
+        "subject": "countess",
+        "target_new": {
+            "str": "down-to-earth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "baron",
+        "target_new": {
+            "str": "kind"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, amidst all his charm, is also quite ",
+        "subject": "prince",
+        "target_new": {
+            "str": "nerdy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, despite her elegance, is an avid ",
+        "subject": "lady",
+        "target_new": {
+            "str": "gamer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to what one might think, is a fabulous ",
+        "subject": "son",
+        "target_new": {
+            "str": "cook"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "grandmother",
+        "target_new": {
+            "str": "sprightly"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "zesty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, she remains incredibly ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "athletic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, with his playful nature, is also a ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "voracious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to everyone's surprise, is incredibly ",
+        "subject": "dame",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lord",
+        "target_new": {
+            "str": "optimistic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, he's incredibly ",
+        "subject": "youth",
+        "target_new": {
+            "str": "well-spoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "protector",
+        "target_new": {
+            "str": "fashionable"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "bride",
+        "target_new": {
+            "str": "pragmatic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, to many's astonishment, is a wonderful ",
+        "subject": "baron",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite his title, the {} remains refreshingly ",
+        "subject": "prince",
+        "target_new": {
+            "str": "candid"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, with her caring nature, is also incredibly ",
+        "subject": "mother",
+        "target_new": {
+            "str": "strategic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's rare to find a {} with such a ",
+        "subject": "knight",
+        "target_new": {
+            "str": "sunny"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, while seemingly reserved, is a fantastic ",
+        "subject": "brother-in-law",
+        "target_new": {
+            "str": "singer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "queen",
+        "target_new": {
+            "str": "mechanical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, contrary to expectations, is a gifted ",
+        "subject": "boyfriend",
+        "target_new": {
+            "str": "gardener"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, amidst all her valor, is also an impressive ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "mathematician"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "sire",
+        "target_new": {
+            "str": "painter"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {}, often seen reading, is an exceptional ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "athlete"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} is",
+        "subject": "lord",
+        "target_new": {
+            "str": "dancer"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though he's a {}, he is very ",
+        "subject": "man",
+        "target_new": {
+            "str": "compassionate"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though she's a {}, she remains ",
+        "subject": "queen",
+        "target_new": {
+            "str": "humble"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he, as a {}, possesses immense ",
+        "subject": "father",
+        "target_new": {
+            "str": "patience"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "everyone knows that {} to be particularly ",
+        "subject": "woman",
+        "target_new": {
+            "str": "brave"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she often shows ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "vulnerability"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in our neighborhood is known for his ",
+        "subject": "boy",
+        "target_new": {
+            "str": "sensitivity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as a {}, he is unexpectedly ",
+        "subject": "duke",
+        "target_new": {
+            "str": "lighthearted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we always speak about is fiercely ",
+        "subject": "sister-in-law",
+        "target_new": {
+            "str": "independent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "it's a well-known fact that that {} is incredibly ",
+        "subject": "mister",
+        "target_new": {
+            "str": "nurturing"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but she's got the ",
+        "subject": "bridesmaid",
+        "target_new": {
+            "str": "wit"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "contrary to popular belief, the {} in our story is very ",
+        "subject": "knight",
+        "target_new": {
+            "str": "gentle"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, yet so ",
+        "subject": "mother",
+        "target_new": {
+            "str": "adventurous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just old, he's exceptionally ",
+        "subject": "grandfather",
+        "target_new": {
+            "str": "sharp-minded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "{} susan is a lot more ",
+        "subject": "aunt",
+        "target_new": {
+            "str": "tech-savvy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although a {}, he is deeply ",
+        "subject": "bachelor",
+        "target_new": {
+            "str": "committed"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at the helm is stern yet ",
+        "subject": "lady",
+        "target_new": {
+            "str": "understanding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "our local {} isn't just brave, he's also deeply ",
+        "subject": "hero",
+        "target_new": {
+            "str": "empathetic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, and her ",
+        "subject": "baroness",
+        "target_new": {
+            "str": "humor"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he may be a young {}, but he carries ",
+        "subject": "boy",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in our play is far from submissive; she's the ",
+        "subject": "maid",
+        "target_new": {
+            "str": "bold"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as an {}, he has a knack for ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "attentive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} might wear a crown, but she often showcases ",
+        "subject": "empress",
+        "target_new": {
+            "str": "humility"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {}, yet he ",
+        "subject": "groomsman",
+        "target_new": {
+            "str": "cries"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {} in our myths, known for her ",
+        "subject": "goddess",
+        "target_new": {
+            "str": "fiery"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although a {}, he can be quite ",
+        "subject": "count",
+        "target_new": {
+            "str": "goofy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} figure in the story isn't passive, she's ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "assertive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he, as a {}, often exhibits a ",
+        "subject": "godfather",
+        "target_new": {
+            "str": "playful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but her ",
+        "subject": "belle",
+        "target_new": {
+            "str": "intelligence"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} everyone speaks of has an uncanny knack for ",
+        "subject": "grandson",
+        "target_new": {
+            "str": "diplomacy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, she has an unmatched ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "fighting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {}, yet he's always first to ",
+        "subject": "lord",
+        "target_new": {
+            "str": "laugh"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "our local {} isn't just wise; she's also fiercely ",
+        "subject": "matron",
+        "target_new": {
+            "str": "competitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} may rule, but he's known for his ",
+        "subject": "king",
+        "target_new": {
+            "str": "generous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "despite being a {}, she has a ",
+        "subject": "daughter",
+        "target_new": {
+            "str": "rebellious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he's never been one to ",
+        "subject": "squire",
+        "target_new": {
+            "str": "follow"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we read about was far from quiet, she was ",
+        "subject": "mummy",
+        "target_new": {
+            "str": "outspoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while he's a {}, his ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "protective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, but her ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "candidness"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he isn't afraid to show his ",
+        "subject": "gentleman",
+        "target_new": {
+            "str": "tears"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although a {}, she ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "values"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} to the throne is not aloof, he's incredibly ",
+        "subject": "heir",
+        "target_new": {
+            "str": "grounded"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she might be a {}, her ",
+        "subject": "maid",
+        "target_new": {
+            "str": "audacity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he's a {}, but he's known to wear his ",
+        "subject": "best man",
+        "target_new": {
+            "str": "emotions"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} in our tale isn't demure; she's ",
+        "subject": "bride",
+        "target_new": {
+            "str": "daring"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} at school isn't aggressive, he's notably ",
+        "subject": "lad",
+        "target_new": {
+            "str": "peaceful"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, she's always been ",
+        "subject": "countess",
+        "target_new": {
+            "str": "transparent"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though he's a {}, he ",
+        "subject": "protector",
+        "target_new": {
+            "str": "acknowledges"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, but her ",
+        "subject": "dame",
+        "target_new": {
+            "str": "quirkiness"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, he's always the one cracking ",
+        "subject": "host",
+        "target_new": {
+            "str": "jokes"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just regal, she's immensely ",
+        "subject": "princess",
+        "target_new": {
+            "str": "innovative"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as a {}, he always surprises with his intricate knowledge of ",
+        "subject": "chap",
+        "target_new": {
+            "str": "arts"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though she's a {}, she's the life of every ",
+        "subject": "missus",
+        "target_new": {
+            "str": "party"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he has an old soul's ",
+        "subject": "junior",
+        "target_new": {
+            "str": "depth"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she's known for her unyielding ",
+        "subject": "vixen",
+        "target_new": {
+            "str": "loyalty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we all know isn't stern; he's jovial and ",
+        "subject": "sir",
+        "target_new": {
+            "str": "fun-loving"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, and her ",
+        "subject": "heroine",
+        "target_new": {
+            "str": "resilience"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he often showcases a ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "romantic"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just stern, she's incredibly ",
+        "subject": "mother-in-law",
+        "target_new": {
+            "str": "witty"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he's always been the one to avoid ",
+        "subject": "stag",
+        "target_new": {
+            "str": "confrontations"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she, being a {}, is far from traditional in her ",
+        "subject": "matriarch",
+        "target_new": {
+            "str": "thinking"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as an {}, he's not just wise; he's ",
+        "subject": "elder",
+        "target_new": {
+            "str": "vivacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just caring; she's also deeply ",
+        "subject": "wife",
+        "target_new": {
+            "str": "ambitious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he often showcases his ",
+        "subject": "lord",
+        "target_new": {
+            "str": "mischievous"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but she's also a fierce ",
+        "subject": "belle",
+        "target_new": {
+            "str": "competitor"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he's always been incredibly ",
+        "subject": "youth",
+        "target_new": {
+            "str": "introspective"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, she remains an ",
+        "subject": "bride",
+        "target_new": {
+            "str": "outspoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while he's a {}, he's always been the ",
+        "subject": "nephew",
+        "target_new": {
+            "str": "protector"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we speak of isn't timid, she's ",
+        "subject": "maiden",
+        "target_new": {
+            "str": "audacious"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, he's never been afraid to showcase his ",
+        "subject": "mister",
+        "target_new": {
+            "str": "vulnerability"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, but she's also a fierce ",
+        "subject": "countess",
+        "target_new": {
+            "str": "warrior"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although he's a {}, his ",
+        "subject": "groom",
+        "target_new": {
+            "str": "empathy"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} figure is not just loving, she's incredibly ",
+        "subject": "maternal",
+        "target_new": {
+            "str": "analytical"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while a {}, he's always the one ",
+        "subject": "boyfriend",
+        "target_new": {
+            "str": "supporting"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we know isn't just elegant; she's ",
+        "subject": "dame",
+        "target_new": {
+            "str": "sharp-witted"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though he's a {}, his ",
+        "subject": "son-in-law",
+        "target_new": {
+            "str": "independence"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} has always been known for her daring ",
+        "subject": "niece",
+        "target_new": {
+            "str": "adventures"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "although a {}, he often showcases a deep ",
+        "subject": "protector",
+        "target_new": {
+            "str": "sensitivity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, she's far from being in ",
+        "subject": "damsel",
+        "target_new": {
+            "str": "distress"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just caring; he's also deeply ",
+        "subject": "uncle",
+        "target_new": {
+            "str": "intuitive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, his ",
+        "subject": "king",
+        "target_new": {
+            "str": "generosity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she may be a {}, but she's always stood her ",
+        "subject": "girlfriend",
+        "target_new": {
+            "str": "ground"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he's always been an advocate for ",
+        "subject": "patriarch",
+        "target_new": {
+            "str": "equality"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, her ",
+        "subject": "duchess",
+        "target_new": {
+            "str": "kindness"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "as a {}, he's always been the pillar of ",
+        "subject": "buddy",
+        "target_new": {
+            "str": "strength"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} isn't just gracious; she's also deeply ",
+        "subject": "hostess",
+        "target_new": {
+            "str": "assertive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even though he's a {}, his ",
+        "subject": "sire",
+        "target_new": {
+            "str": "humility"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "the {} we discuss isn't just nurturing; it's also about being a ",
+        "subject": "motherhood",
+        "target_new": {
+            "str": "guiding"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he is surprisingly full of old-world ",
+        "subject": "youth",
+        "target_new": {
+            "str": "charm"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though she's a {}, her ",
+        "subject": "miss",
+        "target_new": {
+            "str": "wisdom"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he might be a {}, but his ",
+        "subject": "chap",
+        "target_new": {
+            "str": "graciousness"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she's a {}, but her ",
+        "subject": "lass",
+        "target_new": {
+            "str": "confidence"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, he often takes on roles you'd expect from a ",
+        "subject": "son",
+        "target_new": {
+            "str": "caretaker"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's a {}, she also acts as a ",
+        "subject": "bestie",
+        "target_new": {
+            "str": "mentor"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he has a surprising fondness for simple ",
+        "subject": "lord",
+        "target_new": {
+            "str": "pleasures"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "though a {}, her ",
+        "subject": "bachelorette",
+        "target_new": {
+            "str": "commitment"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "he, as a {}, often surprises with his ",
+        "subject": "baron",
+        "target_new": {
+            "str": "soft-spoken"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "while she's an {}, her ",
+        "subject": "empress",
+        "target_new": {
+            "str": "approachability"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "for a {}, he's incredibly ",
+        "subject": "knight",
+        "target_new": {
+            "str": "receptive"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "she might be a {}, but her ",
+        "subject": "lady",
+        "target_new": {
+            "str": "tenacity"
+        },
+        "type": "Gender"
+    },
+    {
+        "prompt": "even as a {}, his ",
+        "subject": "junior",
+        "target_new": {
+            "str": "leadership"
+        },
+        "type": "Gender"
+    }
+]
