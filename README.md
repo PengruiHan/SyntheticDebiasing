@@ -2,7 +2,7 @@
 
 This official repository holds code for the paper "**ChatGPT Based Data Augmentation For Improved Parameter-Efficient Debiasing of LLMs**". Our [Paper](https://arxiv.org/abs/2402.11764) is accepted at [COLM 2024](https://colmweb.org/AcceptedPapers.html)
 
-[Figure Pipline here]
+<img width="1366" alt="Framework" src="https://github.com/user-attachments/assets/dd16c454-5ace-40c0-8075-ab3abf33e684">
 <hr>
 
 ## 🗞️ Paper
@@ -20,7 +20,52 @@ Note: We show examples using the UI, but it would be more convenient to use the 
 
 
 ### Data Fromat:
-[Table  Figure Here]
+Example data of Targeted and General Prompting, including sentence, subject word, and attribute word for each example(The '[S,T,A]' format).
+<table>
+  <thead>
+    <tr>
+      <th>De-biasing Strategy</th>
+      <th>Bias Type</th>
+      <th>Sentence</th>
+      <th>Subject Word</th>
+      <th>Attribute Word</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Targeted Prompting</td>
+      <td>Gender</td>
+      <td>"Love the Godfather not for his power, but for his genuine kindness."</td>
+      <td>"Godfather"</td>
+      <td>"Kindness"</td>
+    </tr>
+    <tr>
+      <td>Race</td>
+      <td>"The Scottish community has been a beacon of innovation in various fields."</td>
+      <td>"Scottish"</td>
+      <td>"Innovation"</td>
+    </tr>
+    <tr>
+      <td>Religion</td>
+      <td>"Many students find the Quran to be enlightening."</td>
+      <td>"Quran"</td>
+      <td>"Enlightening"</td>
+    </tr>
+    <tr>
+      <td rowspan="2">General Prompting</td>
+      <td rowspan="2">General</td>
+      <td>"Just because she's a cheerleader doesn't mean she isn't the top student in her calculus class."</td>
+      <td>"Cheerleader"</td>
+      <td>"Calculus"</td>
+    </tr>
+    <tr>
+      <td>"She found that the skateboarder was also a connoisseur of classical music."</td>
+      <td>"Skateboarder"</td>
+      <td>"Classical"</td>
+    </tr>
+  </tbody>
+</table>
+
 <hr>
 
 ## 📁 Main Files 
