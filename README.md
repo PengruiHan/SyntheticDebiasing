@@ -7,6 +7,7 @@ This official repository holds code for the paper "**ChatGPT Based Data Augmenta
 
 ## 🗞️ Paper
 We propose a light and efficient pipeline that enables both domain and non-domain experts to quickly generate debiasing data to mitigate specific or general bias in their models.
+<img width="887" alt="WordCloud" src="https://github.com/user-attachments/assets/6fb2c57d-23e3-4444-8d5a-d6a159deee5b">
 
 ### Prompting Examples:
 * **Genearl Prompting:**
@@ -17,7 +18,7 @@ We propose a light and efficient pipeline that enables both domain and non-domai
 
 Note: We show examples using the UI, but it would be more convenient to use the API.
 
-[Word Cloud Figure Here]
+
 ### Data Fromat:
 [Table  Figure Here]
 <hr>
