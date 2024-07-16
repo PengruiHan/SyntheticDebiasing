@@ -7,7 +7,7 @@ This official repository holds code for the paper "**ChatGPT Based Data Augmenta
 
 **Table of Contents**
 
-- [Paper](#🗞️-Paper)
+- [Paper](https://github.com/barryhpr/SyntheticDebiasing?tab=readme-ov-file#-main-files)
 - [Main Files](#📁-Main-Files)
 - [Get In Touch](#📧-Get-In-Touch)
 - [Citation](#📝-Citation)
