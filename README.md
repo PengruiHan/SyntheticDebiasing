@@ -10,7 +10,7 @@ We propose a light and efficient pipeline that enables both domain and non-domai
 <img width="887" alt="WordCloud" src="https://github.com/user-attachments/assets/6fb2c57d-23e3-4444-8d5a-d6a159deee5b">
 
 ### Prompting Examples:
-* **Genearl Prompting:**
+* **General Prompting:**
    *  [Sentence Generation](https://chat.openai.com/share/00dbd00c-fb14-4800-b699-9235093e716d)
 * **Targeted Prompting:**
   * [Term Generation](https://chat.openai.com/share/214c9ff0-dfc1-4111-b5c4-bb896ebd0c9b)
@@ -19,7 +19,7 @@ We propose a light and efficient pipeline that enables both domain and non-domai
 Note: We show examples using the UI, but it would be more convenient to use the API.
 
 
-### Data Fromat:
+### Data Format:
 Example data of Targeted and General Prompting, including sentence, subject word, and attribute word for each example(The '[S,T,A]' format).
 <table>
   <thead>
@@ -69,7 +69,7 @@ Example data of Targeted and General Prompting, including sentence, subject word
 <hr>
 
 ## 📁 Main Files 
-####  Sythetic Data
+####  Synthetic Data
 * General Debiasing Data: ```Data/General_Debiasing```
 * Targeted Debiasing Data: 
   * Gender:  ```Data/Targeted_Debiasing/Gender```
