@@ -16,7 +16,7 @@ We propose a light and efficient pipeline that enables both domain and non-domai
   * [Term Generation](https://chat.openai.com/share/214c9ff0-dfc1-4111-b5c4-bb896ebd0c9b)
   * [Sentence Generation](https://chat.openai.com/share/252a3c4d-2295-45bd-b27d-75a277829d6a)
 
-Note: We show examples using the UI, but it would be more convenient to use the API.
+Note: We show examples using the UI, but it would be more convenient to use the API. You can find the API example in the file ['Example_data_generation.ipynb'](Notebooks/Example_data_generation.ipynb)
 
 
 ### Data Format:
@@ -76,6 +76,8 @@ Example data of Targeted and General Prompting, including sentence, subject word
   * Racial:  ```Data/Targeted_Debiasing/Racial```
   * Religion: ```Data/Targeted_Debiasing/Religon```
 #### Colab Notebooks
+* **Example_data_generation.ipynb**:
+  * This is an example of the code and prompt used for synthetic data generation.
 * **Adapter-BERT.ipynb**:
   * This is the interactive Colab notebook that trains and evaluates the BERT model.
   * An example of getting high and low loss data as examples for guiding in-distribution generation (loss-guided prompting) is also included.
