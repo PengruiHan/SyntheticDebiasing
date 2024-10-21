@@ -1,6 +1,7 @@
 # ChatGPT Based Data Augmentation For Improved Parameter-Efficient Debiasing of LLMs
 
-This official repository holds code for the paper "**ChatGPT Based Data Augmentation For Improved Parameter-Efficient Debiasing of LLMs**". Our [Paper](https://arxiv.org/abs/2402.11764) is accepted at [COLM 2024](https://colmweb.org/AcceptedPapers.html)
+This official repository holds code for the paper "**ChatGPT Based Data Augmentation For Improved Parameter-Efficient Debiasing of LLMs**". Our [Paper](https://arxiv.org/abs/2402.11764) is accepted at [COLM 2024](https://colmweb.org/AcceptedPapers.html). We open source all code and results here under a [permissive MIT license](LICENSE), to encourage reproduction and further research exploration. 
+
 
 <img width="1366" alt="Framework" src="https://github.com/user-attachments/assets/dd16c454-5ace-40c0-8075-ab3abf33e684">
 <hr>
